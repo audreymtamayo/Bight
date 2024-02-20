@@ -1,0 +1,50 @@
+---
+title: "cherry_work"
+author: "cherry"
+format: html
+editor: visual
+---
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+## Running Code
+
+When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+library(tidyverse)
+library(readxl)
+library(dplyr)
+```
+
+funny noises
+
+```{r}
+veg_metadata_raw <- read_excel("vegetation-2021.xlsx")
+
+veg_cover_raw <- read_excel("vegetation-2021.xlsx", sheet = 2)
+
+veg_fauna_raw <- read_excel("vegetation-2021.xlsx", sheet = 3)
+```
+
+heeeeeeebeeeeeeeeeeeeeeeeeeee
+
+```{r}
+vegmeta <- veg_metadata_raw |>
+  group_by(estuaryname) |>
+  arrange(.by_group = TRUE)
+
+veg_cover <- veg_cover_raw |>
+  group_by(estuaryname, transectreplicate, plotreplicate) |>
+  summarize(cov_average = mean(estimatedcover))
+
+veg_cover
+```
+
+chunk numba 3
+
+```{r}
+
+```
