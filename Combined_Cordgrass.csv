@@ -1,0 +1,225 @@
+estuaryname,stationno,samplecollectiondate,transectreplicate,habitat,method,plotreplicate,live_dead,total_stems,area_m2,plantheight_replicate,tide,elevation_ellipsoid,vegetated_cover,non_vegetated_cover,latitude,longitude,elevation_orthometric
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,2,Low marsh,across_elevation,1,Live,22,1,1,low,-88,80,20,33.010081,-117.277711,-88
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,2,Low marsh,across_elevation,5,Live,1,1,1,low,-88,100,0,33.01009,-117.27793,-88
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,1,Live,16,1,1,low,-88,60,40,33.010813,-117.278372,-88
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,2,Live,1,1,1,low,-88,60,40,33.010843,-117.278395,-88
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,1,Low marsh,across_elevation,1,Live,14,1,1,low,-88,85,15,33.011975,-117.274898,-88
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,1,Live,7,0.6207,1,low,-88,75,25,33.009921,-117.273651,-88
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,2,Live,14,0.6207,1,low,-88,50,50,33.009868,-117.273647,-88
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,3,Live,13,0.6207,1,low,-88,95,5,33.009839,-117.273646,-88
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,2,Low marsh,across_elevation,1,Live,22,1,2,low,-88,80,20,33.010081,-117.277711,-88
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,1,Live,16,1,2,low,-88,60,40,33.010813,-117.278372,-88
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,1,Low marsh,across_elevation,1,Live,14,1,2,low,-88,85,15,33.011975,-117.274898,-88
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,1,Live,7,0.6207,2,low,-88,75,25,33.009921,-117.273651,-88
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,2,Live,14,0.6207,2,low,-88,50,50,33.009868,-117.273647,-88
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,3,Live,13,0.6207,2,low,-88,95,5,33.009839,-117.273646,-88
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,2,Low marsh,across_elevation,1,Live,22,1,3,low,-88,80,20,33.010081,-117.277711,-88
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,1,Live,16,1,3,low,-88,60,40,33.010813,-117.278372,-88
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,1,Low marsh,across_elevation,1,Live,14,1,3,low,-88,85,15,33.011975,-117.274898,-88
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,1,Live,7,0.6207,3,low,-88,75,25,33.009921,-117.273651,-88
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,2,Live,14,0.6207,3,low,-88,50,50,33.009868,-117.273647,-88
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,3,Live,13,0.6207,3,low,-88,95,5,33.009839,-117.273646,-88
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,2,Low marsh,across_elevation,1,Live,22,1,4,low,-88,80,20,33.010081,-117.277711,-88
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,1,Live,16,1,4,low,-88,60,40,33.010813,-117.278372,-88
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,1,Low marsh,across_elevation,1,Live,14,1,4,low,-88,85,15,33.011975,-117.274898,-88
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,1,Live,7,0.6207,4,low,-88,75,25,33.009921,-117.273651,-88
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,2,Live,14,0.6207,4,low,-88,50,50,33.009868,-117.273647,-88
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,3,Live,13,0.6207,4,low,-88,95,5,33.009839,-117.273646,-88
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,2,Low marsh,across_elevation,1,Live,22,1,5,low,-88,80,20,33.010081,-117.277711,-88
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,1,Live,16,1,5,low,-88,60,40,33.010813,-117.278372,-88
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,1,Low marsh,across_elevation,1,Live,14,1,5,low,-88,85,15,33.011975,-117.274898,-88
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,1,Live,7,0.6207,5,low,-88,75,25,33.009921,-117.273651,-88
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,2,Live,14,0.6207,5,low,-88,50,50,33.009868,-117.273647,-88
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,3,Live,13,0.6207,5,low,-88,95,5,33.009839,-117.273646,-88
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,2,Low marsh,across_elevation,1,Live,22,1,6,low,-88,80,20,33.010081,-117.277711,-88
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,1,Live,16,1,6,low,-88,60,40,33.010813,-117.278372,-88
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,1,Low marsh,across_elevation,1,Live,14,1,6,low,-88,85,15,33.011975,-117.274898,-88
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,1,Live,7,0.6207,6,low,-88,75,25,33.009921,-117.273651,-88
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,2,Live,14,0.6207,6,low,-88,50,50,33.009868,-117.273647,-88
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,3,Live,13,0.6207,6,low,-88,95,5,33.009839,-117.273646,-88
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,2,Low marsh,across_elevation,1,Live,22,1,7,low,-88,80,20,33.010081,-117.277711,-88
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,1,Live,16,1,7,low,-88,60,40,33.010813,-117.278372,-88
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,1,Low marsh,across_elevation,1,Live,14,1,7,low,-88,85,15,33.011975,-117.274898,-88
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,1,Live,7,0.6207,7,low,-88,75,25,33.009921,-117.273651,-88
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,2,Live,14,0.6207,7,low,-88,50,50,33.009868,-117.273647,-88
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,3,Live,13,0.6207,7,low,-88,95,5,33.009839,-117.273646,-88
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,2,Low marsh,across_elevation,1,Live,22,1,8,low,-88,80,20,33.010081,-117.277711,-88
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,1,Live,16,1,8,low,-88,60,40,33.010813,-117.278372,-88
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,1,Low marsh,across_elevation,1,Live,14,1,8,low,-88,85,15,33.011975,-117.274898,-88
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,2,Live,14,0.6207,8,low,-88,50,50,33.009868,-117.273647,-88
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,3,Live,13,0.6207,8,low,-88,95,5,33.009839,-117.273646,-88
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,2,Low marsh,across_elevation,1,Live,22,1,9,low,-88,80,20,33.010081,-117.277711,-88
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,1,Live,16,1,9,low,-88,60,40,33.010813,-117.278372,-88
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,1,Low marsh,across_elevation,1,Live,14,1,9,low,-88,85,15,33.011975,-117.274898,-88
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,2,Live,14,0.6207,9,low,-88,50,50,33.009868,-117.273647,-88
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,3,Live,13,0.6207,9,low,-88,95,5,33.009839,-117.273646,-88
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,2,Low marsh,across_elevation,1,Live,22,1,10,low,-88,80,20,33.010081,-117.277711,-88
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,1,Live,16,1,10,low,-88,60,40,33.010813,-117.278372,-88
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,1,Low marsh,across_elevation,1,Live,14,1,10,low,-88,85,15,33.011975,-117.274898,-88
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,2,Live,14,0.6207,10,low,-88,50,50,33.009868,-117.273647,-88
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,3,Live,13,0.6207,10,low,-88,95,5,33.009839,-117.273646,-88
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,1,Low marsh,across_elevation,1,Live,-88,-88,-88,high,-88,65,35,33.012416,-117.260524,-88
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Low marsh,within_elevation,2,Live,-88,-88,-88,high,-88,70,30,33.013379,-117.259351,-88
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Low marsh,within_elevation,3,Live,-88,-88,-88,high,-88,80,20,33.013402,-117.259294,-88
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Low marsh,within_elevation,5,Live,-88,-88,-88,high,-88,80,20,33.013436,-117.259214,-88
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Low marsh,within_elevation,6,Live,-88,-88,-88,high,-88,98,2,33.013457,-117.259157,-88
+Batiquitos Lagoon,3,2021-04-11T00:00:00Z,3,Brackish marsh,within_elevation,1,Dead,-88,-88.0,-88,ebb,NA,59,41,33.091247,-117.291268,NA
+Batiquitos Lagoon,3,2021-04-11T00:00:00Z,3,Brackish marsh,within_elevation,1,Live,-88,-88.0,-88,ebb,NA,59,41,33.091247,-117.291268,NA
+Batiquitos Lagoon,3,2021-04-11T00:00:00Z,3,Brackish marsh,within_elevation,2,Dead,-88,-88.0,-88,ebb,NA,33,67,NA,NA,NA
+Batiquitos Lagoon,3,2021-04-11T00:00:00Z,3,Brackish marsh,within_elevation,2,Live,-88,-88.0,-88,ebb,NA,33,67,NA,NA,NA
+Batiquitos Lagoon,3,2021-04-11T00:00:00Z,3,Brackish marsh,within_elevation,3,Dead,-88,-88.0,-88,ebb,NA,39,61,NA,NA,NA
+Batiquitos Lagoon,3,2021-04-11T00:00:00Z,3,Brackish marsh,within_elevation,3,Live,-88,-88.0,-88,ebb,NA,39,61,NA,NA,NA
+Batiquitos Lagoon,3,2021-04-11T00:00:00Z,3,Brackish marsh,within_elevation,4,Dead,-88,-88.0,-88,ebb,NA,44,56,NA,NA,NA
+Batiquitos Lagoon,3,2021-04-11T00:00:00Z,3,Brackish marsh,within_elevation,4,Live,-88,-88.0,-88,ebb,NA,44,56,NA,NA,NA
+Newport Bay,2,2021-03-19T00:00:00Z,3,Brackish marsh,within_elevation,1,Dead,-88,-88.0,-88,ebb,NA,50,50,33.632215,-117.885005,NA
+Newport Bay,2,2021-03-19T00:00:00Z,3,Brackish marsh,within_elevation,1,Live,-88,-88.0,-88,ebb,NA,50,50,33.632215,-117.885005,NA
+Newport Bay,2,2021-03-19T00:00:00Z,3,Brackish marsh,within_elevation,2,Dead,-88,-88.0,-88,ebb,NA,90,10,NA,NA,NA
+Newport Bay,2,2021-03-19T00:00:00Z,3,Brackish marsh,within_elevation,2,Live,-88,-88.0,-88,ebb,NA,90,10,NA,NA,NA
+Newport Bay,2,2021-03-19T00:00:00Z,3,Brackish marsh,within_elevation,3,Live,-88,-88.0,-88,ebb,NA,60,40,NA,NA,NA
+Newport Bay,2,2021-03-19T00:00:00Z,3,Brackish marsh,within_elevation,4,Dead,-88,-88.0,-88,ebb,NA,90,10,NA,NA,NA
+Newport Bay,2,2021-03-19T00:00:00Z,3,Brackish marsh,within_elevation,4,Live,-88,-88.0,-88,ebb,NA,90,10,NA,NA,NA
+Newport Bay,2,2021-03-19T00:00:00Z,3,Brackish marsh,within_elevation,5,Dead,-88,-88.0,-88,ebb,NA,75,25,33.632347,-117.884962,NA
+Newport Bay,2,2021-03-19T00:00:00Z,3,Brackish marsh,within_elevation,5,Live,-88,-88.0,-88,ebb,NA,75,25,33.632347,-117.884962,NA
+Newport Bay,2,2021-09-24T00:00:00Z,3,Brackish marsh,within_elevation,1,Live,-88,-88.0,-88,high,NA,70,30,33.632258,-117.884991,NA
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,3,Brackish marsh,within_elevation,1,Dead,-88,-88.0,-88,high,NA,55,45,33.091231,-117.291278,NA
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,3,Brackish marsh,within_elevation,1,Live,-88,-88.0,-88,high,NA,55,45,33.091231,-117.291278,NA
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,3,Brackish marsh,within_elevation,2,Dead,-88,-88.0,-88,high,NA,20,80,NA,NA,NA
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,3,Brackish marsh,within_elevation,2,Live,-88,-88.0,-88,high,NA,20,80,NA,NA,NA
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,3,Brackish marsh,within_elevation,3,Dead,-88,-88.0,-88,high,NA,55,45,NA,NA,NA
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,3,Brackish marsh,within_elevation,3,Live,-88,-88.0,-88,high,NA,55,45,NA,NA,NA
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,3,Brackish marsh,within_elevation,4,Dead,-88,-88.0,-88,high,NA,63,37,NA,NA,NA
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,3,Brackish marsh,within_elevation,4,Live,-88,-88.0,-88,high,NA,63,37,NA,NA,NA
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,3,Brackish marsh,within_elevation,5,Dead,-88,-88.0,-88,high,NA,30,70,33.091212,-117.291539,NA
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,3,Brackish marsh,within_elevation,5,Live,-88,-88.0,-88,high,NA,30,70,33.091212,-117.291539,NA
+Newport Bay,3,2021-09-25T00:00:00Z,3,Mid marsh,within_elevation,1,Live,-88,-88.0,-88,high,NA,95,5,33.645972,-117.882882,NA
+Newport Bay,3,2021-09-25T00:00:00Z,3,Mid marsh,within_elevation,2,Live,-88,-88.0,-88,high,NA,70,30,NA,NA,NA
+Newport Bay,3,2021-09-25T00:00:00Z,3,Mid marsh,within_elevation,3,Live,-88,-88.0,-88,high,NA,98,2,NA,NA,NA
+Newport Bay,3,2021-09-25T00:00:00Z,3,Mid marsh,within_elevation,4,Live,-88,-88.0,-88,high,NA,95,5,NA,NA,NA
+Newport Bay,3,2021-09-25T00:00:00Z,3,Mid marsh,within_elevation,5,Live,-88,-88.0,-88,high,NA,95,5,33.645881,-117.882494,NA
+Batiquitos Lagoon,1,2021-04-11T00:00:00Z,1,Low marsh,within_elevation,1,Dead,-88,-88.0,-88,ebb,NA,85,15,33.089382,-117.306151,NA
+Batiquitos Lagoon,1,2021-04-11T00:00:00Z,1,Low marsh,within_elevation,1,Live,-88,-88.0,-88,ebb,NA,85,15,33.089382,-117.306151,NA
+Batiquitos Lagoon,1,2021-04-11T00:00:00Z,1,Low marsh,within_elevation,2,Dead,-88,-88.0,-88,ebb,NA,80,20,NA,NA,NA
+Batiquitos Lagoon,1,2021-04-11T00:00:00Z,1,Low marsh,within_elevation,2,Live,-88,-88.0,-88,ebb,NA,80,20,NA,NA,NA
+Batiquitos Lagoon,1,2021-04-11T00:00:00Z,1,Low marsh,within_elevation,3,Dead,-88,-88.0,-88,ebb,NA,80,20,NA,NA,NA
+Batiquitos Lagoon,1,2021-04-11T00:00:00Z,1,Low marsh,within_elevation,3,Live,-88,-88.0,-88,ebb,NA,80,20,NA,NA,NA
+Batiquitos Lagoon,1,2021-04-11T00:00:00Z,1,Low marsh,within_elevation,4,Dead,-88,-88.0,-88,ebb,NA,70,30,NA,NA,NA
+Batiquitos Lagoon,1,2021-04-11T00:00:00Z,1,Low marsh,within_elevation,4,Live,-88,-88.0,-88,ebb,NA,70,30,NA,NA,NA
+Batiquitos Lagoon,1,2021-04-11T00:00:00Z,1,Low marsh,within_elevation,5,Dead,-88,-88.0,-88,ebb,NA,80,20,33.089504,-117.30608,NA
+Batiquitos Lagoon,1,2021-04-11T00:00:00Z,1,Low marsh,within_elevation,5,Live,-88,-88.0,-88,ebb,NA,80,20,33.089504,-117.30608,NA
+Batiquitos Lagoon,2,2021-04-11T00:00:00Z,1,Low marsh,within_elevation,1,Dead,-88,-88.0,-88,ebb,NA,60,40,33.09095,-117.296769,NA
+Batiquitos Lagoon,2,2021-04-11T00:00:00Z,1,Low marsh,within_elevation,1,Live,-88,-88.0,-88,ebb,NA,60,40,33.09095,-117.296769,NA
+Batiquitos Lagoon,2,2021-04-11T00:00:00Z,1,Low marsh,within_elevation,2,Dead,-88,-88.0,-88,ebb,NA,65,35,NA,NA,NA
+Batiquitos Lagoon,2,2021-04-11T00:00:00Z,1,Low marsh,within_elevation,2,Live,-88,-88.0,-88,ebb,NA,65,35,NA,NA,NA
+Batiquitos Lagoon,2,2021-04-11T00:00:00Z,1,Low marsh,within_elevation,3,Dead,-88,-88.0,-88,ebb,NA,60,40,NA,NA,NA
+Batiquitos Lagoon,2,2021-04-11T00:00:00Z,1,Low marsh,within_elevation,3,Live,-88,-88.0,-88,ebb,NA,60,40,NA,NA,NA
+Batiquitos Lagoon,2,2021-04-11T00:00:00Z,1,Low marsh,within_elevation,4,Dead,-88,-88.0,-88,ebb,NA,40,60,NA,NA,NA
+Batiquitos Lagoon,2,2021-04-11T00:00:00Z,1,Low marsh,within_elevation,4,Live,-88,-88.0,-88,ebb,NA,40,60,NA,NA,NA
+Batiquitos Lagoon,2,2021-04-11T00:00:00Z,1,Low marsh,within_elevation,5,Dead,-88,-88.0,-88,ebb,NA,60,40,33.090887,-117.296616,NA
+Batiquitos Lagoon,2,2021-04-11T00:00:00Z,1,Low marsh,within_elevation,5,Live,-88,-88.0,-88,ebb,NA,60,40,33.090887,-117.296616,NA
+Batiquitos Lagoon,3,2021-04-11T00:00:00Z,1,Low marsh,within_elevation,1,Dead,-88,-88.0,-88,ebb,NA,4,96,33.090718,-117.290706,NA
+Batiquitos Lagoon,3,2021-04-11T00:00:00Z,1,Low marsh,within_elevation,1,Live,-88,-88.0,-88,ebb,NA,4,96,33.090718,-117.290706,NA
+Batiquitos Lagoon,3,2021-04-11T00:00:00Z,1,Low marsh,within_elevation,2,Live,-88,-88.0,-88,ebb,NA,4,96,NA,NA,NA
+Batiquitos Lagoon,3,2021-04-11T00:00:00Z,1,Low marsh,within_elevation,3,Live,-88,-88.0,-88,ebb,NA,15,85,NA,NA,NA
+Batiquitos Lagoon,3,2021-04-11T00:00:00Z,1,Low marsh,within_elevation,4,Live,-88,-88.0,-88,ebb,NA,16,84,NA,NA,NA
+Batiquitos Lagoon,3,2021-04-11T00:00:00Z,1,Low marsh,within_elevation,5,Dead,-88,-88.0,-88,ebb,NA,45,55,33.09076,-117.291,NA
+Batiquitos Lagoon,3,2021-04-11T00:00:00Z,1,Low marsh,within_elevation,5,Live,-88,-88.0,-88,ebb,NA,45,55,33.09076,-117.291,NA
+Batiquitos Lagoon,2,2021-10-17T00:00:00Z,1,Low marsh,within_elevation,1,Dead,-88,-88.0,-88,high,NA,46,54,33.09084,-117.296502,NA
+Batiquitos Lagoon,2,2021-10-17T00:00:00Z,1,Low marsh,within_elevation,1,Live,-88,-88.0,-88,high,NA,46,54,33.09084,-117.296502,NA
+Batiquitos Lagoon,2,2021-10-17T00:00:00Z,1,Low marsh,within_elevation,2,Dead,-88,-88.0,-88,high,NA,55,45,NA,NA,NA
+Batiquitos Lagoon,2,2021-10-17T00:00:00Z,1,Low marsh,within_elevation,2,Live,-88,-88.0,-88,high,NA,55,45,NA,NA,NA
+Batiquitos Lagoon,2,2021-10-17T00:00:00Z,1,Low marsh,within_elevation,3,Dead,-88,-88.0,-88,high,NA,50,50,NA,NA,NA
+Batiquitos Lagoon,2,2021-10-17T00:00:00Z,1,Low marsh,within_elevation,3,Live,-88,-88.0,-88,high,NA,50,50,NA,NA,NA
+Batiquitos Lagoon,2,2021-10-17T00:00:00Z,1,Low marsh,within_elevation,4,Dead,-88,-88.0,-88,high,NA,45,55,NA,NA,NA
+Batiquitos Lagoon,2,2021-10-17T00:00:00Z,1,Low marsh,within_elevation,4,Live,-88,-88.0,-88,high,NA,45,55,NA,NA,NA
+Batiquitos Lagoon,2,2021-10-17T00:00:00Z,1,Low marsh,within_elevation,5,Dead,-88,-88.0,-88,high,NA,55,45,33.090964,-117.296803,NA
+Batiquitos Lagoon,2,2021-10-17T00:00:00Z,1,Low marsh,within_elevation,5,Live,-88,-88.0,-88,high,NA,55,45,33.090964,-117.296803,NA
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,1,Low marsh,within_elevation,1,Dead,-88,-88.0,-88,high,NA,70,30,33.090685,-117.290637,NA
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,1,Low marsh,within_elevation,1,Live,-88,-88.0,-88,high,NA,70,30,33.090685,-117.290637,NA
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,1,Low marsh,within_elevation,3,Dead,-88,-88.0,-88,high,NA,21,79,NA,NA,NA
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,1,Low marsh,within_elevation,3,Live,-88,-88.0,-88,high,NA,21,79,NA,NA,NA
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,1,Low marsh,within_elevation,4,Dead,-88,-88.0,-88,high,NA,37,63,NA,NA,NA
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,1,Low marsh,within_elevation,4,Live,-88,-88.0,-88,high,NA,37,63,NA,NA,NA
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,1,Low marsh,within_elevation,5,Dead,-88,-88.0,-88,high,NA,52,48,33.090774,-117.290879,NA
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,1,Low marsh,within_elevation,5,Live,-88,-88.0,-88,high,NA,52,48,33.090774,-117.290879,NA
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,1,Low marsh,within_elevation,6,Dead,-88,-88.0,-88,high,NA,50,50,NA,NA,NA
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,1,Low marsh,within_elevation,6,Live,-88,-88.0,-88,high,NA,50,50,NA,NA,NA
+Batiquitos Lagoon,1,2021-10-18T00:00:00Z,1,Low marsh,within_elevation,1,Dead,-88,-88.0,-88,high,NA,50,50,33.089434,-117.306144,NA
+Batiquitos Lagoon,1,2021-10-18T00:00:00Z,1,Low marsh,within_elevation,1,Live,-88,-88.0,-88,high,NA,50,50,33.089434,-117.306144,NA
+Batiquitos Lagoon,1,2021-10-18T00:00:00Z,1,Low marsh,within_elevation,2,Dead,-88,-88.0,-88,high,NA,20,80,NA,NA,NA
+Batiquitos Lagoon,1,2021-10-18T00:00:00Z,1,Low marsh,within_elevation,2,Live,-88,-88.0,-88,high,NA,20,80,NA,NA,NA
+Batiquitos Lagoon,1,2021-10-18T00:00:00Z,1,Low marsh,within_elevation,3,Dead,-88,-88.0,-88,high,NA,20,80,NA,NA,NA
+Batiquitos Lagoon,1,2021-10-18T00:00:00Z,1,Low marsh,within_elevation,3,Live,-88,-88.0,-88,high,NA,20,80,NA,NA,NA
+Batiquitos Lagoon,1,2021-10-18T00:00:00Z,1,Low marsh,within_elevation,4,Dead,-88,-88.0,-88,high,NA,20,80,NA,NA,NA
+Batiquitos Lagoon,1,2021-10-18T00:00:00Z,1,Low marsh,within_elevation,4,Live,-88,-88.0,-88,high,NA,20,80,NA,NA,NA
+Batiquitos Lagoon,1,2021-10-18T00:00:00Z,1,Low marsh,within_elevation,5,Dead,-88,-88.0,-88,high,NA,20,80,33.089643,-117.306072,NA
+Batiquitos Lagoon,1,2021-10-18T00:00:00Z,1,Low marsh,within_elevation,5,Live,-88,-88.0,-88,high,NA,20,80,33.089643,-117.306072,NA
+Newport Bay,3,2021-03-18T00:00:00Z,1,Low marsh,within_elevation,3,Dead,-88,-88.0,-88,ebb,NA,90,10,NA,NA,NA
+Newport Bay,3,2021-03-18T00:00:00Z,1,Low marsh,within_elevation,3,Live,-88,-88.0,-88,ebb,NA,90,10,NA,NA,NA
+Newport Bay,3,2021-03-18T00:00:00Z,1,Low marsh,within_elevation,5,Dead,-88,-88.0,-88,ebb,NA,100,0,33.647967,-117.880441,NA
+Newport Bay,3,2021-03-18T00:00:00Z,1,Low marsh,within_elevation,5,Live,-88,-88.0,-88,ebb,NA,100,0,33.647967,-117.880441,NA
+Newport Bay,2,2021-03-19T00:00:00Z,1,Low marsh,within_elevation,1,Dead,-88,-88.0,-88,ebb,NA,30,70,33.632052,-117.885469,NA
+Newport Bay,2,2021-03-19T00:00:00Z,1,Low marsh,within_elevation,1,Live,-88,-88.0,-88,ebb,NA,30,70,33.632052,-117.885469,NA
+Newport Bay,2,2021-03-19T00:00:00Z,1,Low marsh,within_elevation,2,Dead,-88,-88.0,-88,ebb,NA,50,50,NA,NA,NA
+Newport Bay,2,2021-03-19T00:00:00Z,1,Low marsh,within_elevation,2,Live,-88,-88.0,-88,ebb,NA,50,50,NA,NA,NA
+Newport Bay,2,2021-03-19T00:00:00Z,1,Low marsh,within_elevation,3,Dead,-88,-88.0,-88,ebb,NA,25,75,NA,NA,NA
+Newport Bay,2,2021-03-19T00:00:00Z,1,Low marsh,within_elevation,3,Live,-88,-88.0,-88,ebb,NA,25,75,NA,NA,NA
+Newport Bay,2,2021-03-19T00:00:00Z,1,Low marsh,within_elevation,4,Dead,-88,-88.0,-88,ebb,NA,70,30,NA,NA,NA
+Newport Bay,2,2021-03-19T00:00:00Z,1,Low marsh,within_elevation,4,Live,-88,-88.0,-88,ebb,NA,70,30,NA,NA,NA
+Newport Bay,2,2021-03-19T00:00:00Z,1,Low marsh,within_elevation,5,Dead,-88,-88.0,-88,ebb,NA,60,40,33.632185,-117.885473,NA
+Newport Bay,2,2021-03-19T00:00:00Z,1,Low marsh,within_elevation,5,Live,-88,-88.0,-88,ebb,NA,60,40,33.632185,-117.885473,NA
+Newport Bay,2,2021-09-24T00:00:00Z,1,Low marsh,within_elevation,1,Dead,-88,-88.0,-88,high,NA,60,40,33.632122,-117.885472,NA
+Newport Bay,2,2021-09-24T00:00:00Z,1,Low marsh,within_elevation,1,Live,-88,-88.0,-88,high,NA,60,40,33.632122,-117.885472,NA
+Newport Bay,2,2021-09-24T00:00:00Z,1,Low marsh,within_elevation,2,Dead,-88,-88.0,-88,high,NA,80,20,NA,NA,NA
+Newport Bay,2,2021-09-24T00:00:00Z,1,Low marsh,within_elevation,2,Live,-88,-88.0,-88,high,NA,80,20,NA,NA,NA
+Newport Bay,2,2021-09-24T00:00:00Z,1,Low marsh,within_elevation,3,Dead,-88,-88.0,-88,high,NA,90,10,NA,NA,NA
+Newport Bay,2,2021-09-24T00:00:00Z,1,Low marsh,within_elevation,3,Live,-88,-88.0,-88,high,NA,90,10,NA,NA,NA
+Newport Bay,2,2021-09-24T00:00:00Z,1,Low marsh,within_elevation,4,Dead,-88,-88.0,-88,high,NA,95,5,NA,NA,NA
+Newport Bay,2,2021-09-24T00:00:00Z,1,Low marsh,within_elevation,4,Live,-88,-88.0,-88,high,NA,95,5,NA,NA,NA
+Newport Bay,2,2021-09-24T00:00:00Z,1,Low marsh,within_elevation,5,Dead,-88,-88.0,-88,high,NA,40,60,33.631983,-117.885464,NA
+Newport Bay,2,2021-09-24T00:00:00Z,1,Low marsh,within_elevation,5,Live,-88,-88.0,-88,high,NA,40,60,33.631983,-117.885464,NA
+Newport Bay,3,2021-09-25T00:00:00Z,1,Low marsh,within_elevation,2,Dead,-88,-88.0,-88,high,NA,5,95,NA,NA,NA
+Newport Bay,3,2021-09-25T00:00:00Z,1,Low marsh,within_elevation,2,Live,-88,-88.0,-88,high,NA,5,95,NA,NA,NA
+Newport Bay,3,2021-09-25T00:00:00Z,1,Low marsh,within_elevation,3,Dead,-88,-88.0,-88,high,NA,40,60,NA,NA,NA
+Newport Bay,3,2021-09-25T00:00:00Z,1,Low marsh,within_elevation,3,Live,-88,-88.0,-88,high,NA,40,60,NA,NA,NA
+Newport Bay,3,2021-09-25T00:00:00Z,1,Low marsh,within_elevation,5,Live,-88,-88.0,-88,high,NA,80,20,33.646014,-117.88315,NA
+Batiquitos Lagoon,2,2021-10-17T00:00:00Z,2,Mid marsh,within_elevation,4,Dead,-88,-88.0,-88,high,NA,30,70,NA,NA,NA
+Batiquitos Lagoon,2,2021-10-17T00:00:00Z,2,Mid marsh,within_elevation,4,Live,-88,-88.0,-88,high,NA,30,70,NA,NA,NA
+Batiquitos Lagoon,2,2021-10-17T00:00:00Z,2,Mid marsh,within_elevation,5,Dead,-88,-88.0,-88,high,NA,80,20,33.091151,-117.296654,NA
+Batiquitos Lagoon,2,2021-10-17T00:00:00Z,2,Mid marsh,within_elevation,5,Live,-88,-88.0,-88,high,NA,80,20,33.091151,-117.296654,NA
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,2,Mid marsh,within_elevation,1,Dead,-88,-88.0,-88,high,NA,57,43,33.090968,-117.290851,NA
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,2,Mid marsh,within_elevation,1,Live,-88,-88.0,-88,high,NA,57,43,33.090968,-117.290851,NA
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,2,Mid marsh,within_elevation,4,Dead,-88,-88.0,-88,high,NA,20,80,NA,NA,NA
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,2,Mid marsh,within_elevation,4,Live,-88,-88.0,-88,high,NA,20,80,NA,NA,NA
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,2,Mid marsh,within_elevation,5,Dead,-88,-88.0,-88,high,NA,34,66,33.090946,-117.29059,NA
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,2,Mid marsh,within_elevation,5,Live,-88,-88.0,-88,high,NA,34,66,33.090946,-117.29059,NA
+Newport Bay,3,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,1,Dead,-88,-88.0,-88,ebb,NA,100,0,33.647759,-117.880256,NA
+Newport Bay,3,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,1,Live,-88,-88.0,-88,ebb,NA,100,0,33.647759,-117.880256,NA
+Newport Bay,3,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,2,Dead,-88,-88.0,-88,ebb,NA,75,25,NA,NA,NA
+Newport Bay,3,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,2,Live,-88,-88.0,-88,ebb,NA,75,25,NA,NA,NA
+Newport Bay,3,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,3,Dead,-88,-88.0,-88,ebb,NA,80,20,NA,NA,NA
+Newport Bay,3,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,3,Live,-88,-88.0,-88,ebb,NA,80,20,NA,NA,NA
+Newport Bay,3,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,4,Dead,-88,-88.0,-88,ebb,NA,95,5,NA,NA,NA
+Newport Bay,3,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,4,Live,-88,-88.0,-88,ebb,NA,95,5,NA,NA,NA
+Newport Bay,3,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,5,Dead,-88,-88.0,-88,ebb,NA,100,0,33.647768,-117.88041,NA
+Newport Bay,3,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,5,Live,-88,-88.0,-88,ebb,NA,100,0,33.647768,-117.88041,NA
+Newport Bay,1,2021-09-24T00:00:00Z,2,Mid marsh,within_elevation,4,Live,-88,-88.0,-88,high,NA,70,30,NA,NA,NA
+Newport Bay,1,2021-09-24T00:00:00Z,2,Mid marsh,within_elevation,5,Live,-88,-88.0,-88,high,NA,70,30,33.622223,-117.892132,NA
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,1,Low marsh,across_elevation,1,Live,1,NULL,1,high,-88,65,35,33.012416,-117.260524,-88
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Low marsh,within_elevation,2,Live,1,1,1,high,-88,70,30,33.013379,-117.259351,-88
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Low marsh,within_elevation,3,Live,1,1,1,high,-88,80,20,33.013402,-117.259294,-88
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Low marsh,within_elevation,5,Live,7,0.6207,1,high,-88,80,20,33.013436,-117.259214,-88
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Low marsh,within_elevation,6,Live,9,1,1,high,-88,98,2,33.013457,-117.259157,-88
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Low marsh,within_elevation,5,Live,7,0.6207,2,high,-88,80,20,33.013436,-117.259214,-88
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Low marsh,within_elevation,6,Live,9,1,2,high,-88,98,2,33.013457,-117.259157,-88
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Low marsh,within_elevation,5,Live,7,0.6207,3,high,-88,80,20,33.013436,-117.259214,-88
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Low marsh,within_elevation,6,Live,9,1,3,high,-88,98,2,33.013457,-117.259157,-88
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Low marsh,within_elevation,5,Live,7,0.6207,4,high,-88,80,20,33.013436,-117.259214,-88
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Low marsh,within_elevation,6,Live,9,1,4,high,-88,98,2,33.013457,-117.259157,-88
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Low marsh,within_elevation,5,Live,7,0.6207,5,high,-88,80,20,33.013436,-117.259214,-88
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Low marsh,within_elevation,6,Live,9,1,5,high,-88,98,2,33.013457,-117.259157,-88
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Low marsh,within_elevation,5,Live,7,0.6207,6,high,-88,80,20,33.013436,-117.259214,-88
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Low marsh,within_elevation,6,Live,9,1,6,high,-88,98,2,33.013457,-117.259157,-88
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Low marsh,within_elevation,5,Live,7,0.6207,7,high,-88,80,20,33.013436,-117.259214,-88
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Low marsh,within_elevation,6,Live,9,1,7,high,-88,98,2,33.013457,-117.259157,-88
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Low marsh,within_elevation,6,Live,9,1,8,high,-88,98,2,33.013457,-117.259157,-88
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Low marsh,within_elevation,6,Live,9,1,9,high,-88,98,2,33.013457,-117.259157,-88
