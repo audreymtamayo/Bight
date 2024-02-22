@@ -1,0 +1,84 @@
+---
+title: "CRAM & Macroalgae"
+format: html
+editor: visual
+---
+
+## SoCal Bight Data Analysis - Macroalgae & CRAM Data
+
+|                                                                                                               |
+|------------------------------------------------------------------------|
+| Question 2: **What estuaries in southern California have the highest vascular plant functional performance?** |
+|                                                                                                               |
+
+### Load Packages
+
+```{r}
+library(tidyverse)
+library(lme4)
+library(lmerTest)
+library(dplyr)
+library(readxl)
+```
+
+### Import Macroalgae Files
+
+```{r}
+Metadata <-read_excel("macroalgae-2021.xlsx", sheet=1)
+algaecover2021 <-read_excel("macroalgae-2021.xlsx", sheet=2)
+floating2021 <-read_excel("macroalgae-2021.xlsx", sheet=3)
+
+```
+
+### Cleaning Macroalgae 2021 Data
+
+-   Batiquitos Lagoon
+
+-   Goleta Slough
+
+-   Malibu Lagoon
+
+-   Newport Bay
+
+-   San Elijo Lagoon
+
+-   Ventura River
+
+#### Clean Macroalgae Data
+
+```{r}
+#
+algaecover21 <- algaecover2021 |> filter(estuaryname == "Malibu Lagoon" | estuaryname == "San Elijo Lagoon" | estuaryname == "Batiquitos Lagoon" | estuaryname == "Goleta Slough" |estuaryname == "Newport Bay" | estuaryname == "Ventura River")
+
+floating21 <- floating2021 |> filter(estuaryname == "Malibu Lagoon" | estuaryname == "San Elijo Lagoon" | estuaryname == "Batiquitos Lagoon" | estuaryname == "Goleta Slough" |estuaryname == "Newport Bay" | estuaryname == "Ventura River")
+
+
+head(algaecover21)
+head(floating21)
+```
+
+#### CRAM data
+
+```{r}
+CRAM <-read_excel("ecoatlas_cram_update.xlsx", sheet=3)
+
+CRAM
+```
+
+#### 
+
+#### 
+
+```{r}
+
+```
+
+#### Bind
+
+Bind your cleaned data frames together into one object. Clean up any remaining column names or formats.
+
+```{r}
+
+```
+
+### 
