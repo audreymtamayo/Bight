@@ -1,0 +1,60 @@
+```{r}
+library(tidyverse)
+library(dplyr)
+library(readxl)
+```
+Data Import
+```{r}
+Metadata<-read_excel("vegetation-for-Jan-15feb24.xlsx", sheet=1)
+Vegetation<-read_excel("vegetation-for-Jan-15feb24.xlsx", sheet=2)
+Cordgrass<-read_excel("vegetation-for-Jan-15feb24.xlsx", sheet=4)
+```
+
+Cleaning Metadata
+```{r}
+Metadata_Clean <- Metadata |> select(estuaryname, stationno, samplecollectiondate, tide, transectreplicate, habitat, elevation_ellipsoid, method, plotreplicate, vegetated_cover, non_vegetated_cover, latitude, longitude, elevation_orthometric) 
+```
+
+```{r}
+Metadata_Clean<- Metadata_Clean|>filter(estuaryname == "Malibu Lagoon" | estuaryname == "San Elijo Lagoon" | estuaryname == "Batiquitos Lagoon" | estuaryname == "Goleta Slough" |estuaryname == "Newport Bay" | estuaryname == "Ventura River")
+Metadata_Clean
+```
+
+Cleaning Vegetation
+```{r}
+Vegetation_Clean <- Vegetation|> select(estuaryname, stationno, samplecollectiondate, transectreplicate, habitat, method, plotreplicate, scientificname, commonname, status, estimatedcover, percentcovercode, tallestplantheight_cm) 
+```
+
+```{r}
+Vegetation_Clean<- Vegetation_Clean|> filter(estuaryname == "Malibu Lagoon" | estuaryname == "San Elijo Lagoon" | estuaryname == "Batiquitos Lagoon" | estuaryname == "Goleta Slough" |estuaryname == "Newport Bay" | estuaryname == "Ventura River" )
+Vegetation_Clean
+```
+
+
+Cleaning Cordgrass
+```{r}
+Cordgrass_Clean<- Cordgrass |> select(estuaryname, stationno, samplecollectiondate, transectreplicate, habitat, method, plotreplicate, live_dead, total_stems, area_m2, plantheight_replicate, plantheight_replicate) 
+```
+
+```{r}
+Cordgrass_Clean<- Cordgrass_Clean|> filter(estuaryname == "Malibu Lagoon" | estuaryname == "San Elijo Lagoon" | estuaryname == "Batiquitos Lagoon" | estuaryname == "Goleta Slough" |estuaryname == "Newport Bay" | estuaryname == "Ventura River" )
+Cordgrass_Clean
+```
+Combined Data
+```{r}
+Combined_Cordgrass<- inner_join(Cordgrass_Clean, Metadata_Clean,)
+Combined_Vegetation<- inner_join(Vegetation_Clean, Metadata_Clean,)
+```
+
+CSV Files
+```{r}
+write_csv(Combined_Cordgrass, "Combined_Cordgrass.csv")
+write_csv(Combined_Vegetation, "Combined_Vegetation.csv")
+```
+
+
+
+
+
+
+
