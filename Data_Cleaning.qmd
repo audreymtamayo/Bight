@@ -56,8 +56,8 @@ Change -88 values & Remove "Not recorded" from columns
 Combined_Vegetation = filter(Combined_Vegetation, !(ScientificName %in% c("Not recorded", "unknown plant")))
 Combined_Vegetation = filter(Combined_Vegetation, !(Status %in% c("Not recorded")))
 Combined_Vegetation[Combined_Vegetation == -88] <- 0
-Combined_Cordgrass[Combined_Cordgrass == -88.0] <- 0
-
+Combined_Vegetation[Combined_Vegetation == -88.0] <- 0
+Combined_Vegetation$TallestPlantHeight <- round(Combined_Vegetation$TallestPlantHeight)
 ```
 
 
