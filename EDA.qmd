@@ -1,0 +1,25 @@
+```{r}
+#import data
+read.csv("Combined_Cordgrass.csv")
+read.csv("Combined_Vegetation.csv")
+```
+
+```{r}
+#Darien EDA
+```
+
+```{r}
+#Yvonne EDA
+```
+
+```{r}
+#Cherry EDA
+```
+
+```{r}
+#Audrey EDA
+```
+
+```{r}
+#Tory EDA
+```
