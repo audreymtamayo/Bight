@@ -1,4 +1,11 @@
 ```{r}
+library(tidyverse)
+library(googlesheets4)
+library(readxl)
+library(ggtext)
+```
+
+```{r}
 #import data
 read.csv("Combined_Cordgrass.csv")
 read.csv("Combined_Vegetation.csv")
