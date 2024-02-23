@@ -53,7 +53,7 @@ algaecover21 <- algaecover2021 |> filter(estuaryname == "Malibu Lagoon" | estuar
 floating21 <- floating2021 |> filter(estuaryname == "Malibu Lagoon" | estuaryname == "San Elijo Lagoon" | estuaryname == "Batiquitos Lagoon" | estuaryname == "Goleta Slough" |estuaryname == "Newport Bay" | estuaryname == "Ventura River")
 
 
-head(algaecover21)
+
 head(floating21)
 ```
 

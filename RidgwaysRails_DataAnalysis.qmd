@@ -27,13 +27,21 @@ library(readxl)
 
 ```{r}
 Rails <-read_excel("RidgwaysRailPBreedingPairs.xlsx", sheet=2)
+index <-read_excel("RidgwaysRailPBreedingPairs.xlsx", sheet=1)
 head(Rails)
+as_tibble(Rails)
 ```
 
 #### Cleaning
 
 ```{r}
-RailsFocus <- Rails %>% select("Year", "Batiquitos Lagoon", "Goleta Slough", "San Elijo Lagoon", "Huntington Beach Wetlands", "Upper Newport Bay", "Kendall-Frost Reserve", "Sweetwater Marsh", "Ventura River Mouth") 
+
+Rails1 <-  Rails %>% select("Goleta Slough", "San Elijo Lagoon", "Huntington Beach Wetlands", "Upper Newport Bay", "Kendall-Frost Reserve", "Sweetwater Marsh", "Ventura River Mouth")
+                               
+
+Rails2 <- Rails1 |> rename(goletaslough = `Goleta Slough`, sanelijo = "San Elijo Lagoon", Huntington = "Huntington Beach Wetlands", NewportBay = "Upper Newport Bay", KFR = "Kendall-Frost Reserve", Sweetwater = "Sweetwater Marsh", Ventura = "Ventura River Mouth")
+
+
 
 #add Tijuana Marsh NWR not recognizing it
 ```
