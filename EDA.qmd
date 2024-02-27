@@ -29,4 +29,9 @@ read.csv("Combined_Vegetation.csv")
 
 ```{r}
 #Tory EDA
+df.veg<-read.csv("Combined_Vegetation.csv")
+Plot1 <- ggplot(df.veg) + 
+  aes(x = EstimatedCover) + 
+  geom_histogram()
+print(Plot1)
 ```
