@@ -31,12 +31,12 @@ Vegetation_Clean
 ```
 Cleaning Cordgrass
 ```{r}
-Cordgrass_Clean<- Cordgrass |> select(estuaryname, stationno, samplecollectiondate, transectreplicate, habitat, method, plotreplicate, live_dead, total_stems, plantheight_replicate) 
+Cordgrass_Clean<- Cordgrass |> select(estuaryname, stationno, samplecollectiondate, transectreplicate, habitat, method, plotreplicate, live_dead, total_stems, plantheight_replicate, plantheight_cm) 
 ```
 
 ```{r}
 Cordgrass_Clean<- Cordgrass_Clean|> filter(estuaryname == "Malibu Lagoon" | estuaryname == "San Elijo Lagoon" | estuaryname == "Batiquitos Lagoon" | estuaryname == "Goleta Slough" |estuaryname == "Newport Bay" | estuaryname == "Ventura River" ) |>
-rename(Estuary = estuaryname, Station = stationno, Date = samplecollectiondate, Transect = transectreplicate, Habitat = habitat, Method = method, Quadrat = plotreplicate, Abundance = total_stems,PlantHeightReplicate = plantheight_replicate,LiveOrDead = live_dead,)
+rename(Estuary = estuaryname, Station = stationno, Date = samplecollectiondate, Transect = transectreplicate, Habitat = habitat, Method = method, Quadrat = plotreplicate, Abundance = total_stems,PlantHeightReplicate = plantheight_replicate, PlantHeight=plantheight_cm, LiveOrDead = live_dead,)
 
 Cordgrass_Clean
 ```
