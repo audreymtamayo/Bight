@@ -60,24 +60,29 @@ head(floating21)
 #### CRAM data
 
 ```{r}
-CRAM <-read_excel("ecoatlas_cram_update.xlsx", sheet=3)
+CRAM1 <-read_excel("ecoatlas_cram_update.xlsx", sheet=2)
+CRAM2 <-read_excel("ecoatlas_cram_update.xlsx", sheet=3)
 
-CRAM
+CRAM3 <- CRAM2 |> filter(aaname == "Malibu Lagoon" | aaname == "San Elijo Lagoon" | aaname == "Batiquitos Lagoon" | aaname == "Goleta Slough" |aaname == "Upper Newport Bay" | aaname == "Ventura River" | aaname == "Sweetwater Marsh" | aaname == "Tijuana River Estuary" | aaname == "San Dieguito Lagoon")
+
+CRAM3
 ```
 
 #### 
 
-#### 
+#### Preliminary Figure 
 
 ```{r}
+CRAM_Analysis <- aov(indexscore ~aaname, data=CRAM3)
 
+plottyplot <- ggplot(CRAM3, aes(x = aaname, y = indexscore)) + 
+  geom_point() + stat_summary(fun = mean, geom = "line") + labs(x = "Sites") + labs(y = "Cram Index Score") 
 ```
 
 #### Bind
 
-Bind your cleaned data frames together into one object. Clean up any remaining column names or formats.
-
 ```{r}
+
 
 ```
 
