@@ -1,4 +1,11 @@
 ```{r}
+library(tidyverse)
+library(googlesheets4)
+library(readxl)
+library(ggtext)
+```
+
+```{r}
 #import data
 read.csv("Combined_Cordgrass.csv")
 read.csv("Combined_Vegetation.csv")
@@ -22,4 +29,9 @@ read.csv("Combined_Vegetation.csv")
 
 ```{r}
 #Tory EDA
+df.veg<-read.csv("Combined_Vegetation.csv")
+Plot1 <- ggplot(df.veg) + 
+  aes(x = EstimatedCover) + 
+  geom_histogram()
+print(Plot1)
 ```
