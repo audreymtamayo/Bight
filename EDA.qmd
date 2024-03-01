@@ -28,10 +28,53 @@ read.csv("Combined_Vegetation.csv")
 ```
 
 ```{r}
+library(ggplot2)
 #Tory EDA
 df.veg<-read.csv("Combined_Vegetation.csv")
 Plot1 <- ggplot(df.veg) + 
   aes(x = EstimatedCover) + 
   geom_histogram()
 print(Plot1)
+Plot2 <- ggplot(df.veg) + 
+  aes(x = EstimatedCover,y=Estuary) + 
+  geom_boxplot()
+print(Plot2)
+#Question:
+#Do the Estuaries differ in plant species diversity for each habitat type?
+
+
+df.vegdiverse<-df.veg|>
+  group_by(Estuary,Habitat)|>
+summarise(count = n_distinct(ScientificName)) %>% 
+  mutate(Habitat = factor(Habitat, levels = c("Brackish marsh", "Low marsh", "Mid marsh", "High marsh")))
+
+my_color_vector <- c("darkblue","blue","lightblue","lightgreen")
+
+SpeciesCount <- ggplot(SEdf.veg) + 
+  geom_col(aes(y = count,x=Estuary, fill=Habitat),position="dodge")
+print(SpeciesCount)+theme(axis.text.x = element_text(angle = 30, hjust = 0.5, vjust = 0.5)) + 
+  scale_fill_manual(values = my_color_vector)
+
+#Stop here....these were priliminary plots
+LMarshdf.veg<-SEdf.veg|>
+filter(Habitat=="Low marsh")
+Plot4 <- ggplot(LMarshdf.veg) + 
+  aes(y = count,x=Estuary) + 
+  geom_col()
+print(Plot4)
+
+MMarshdf.veg<-SEdf.veg|>
+filter(Habitat=="mid marsh")
+Plot5 <- ggplot(MMarshdf.veg) + 
+  aes(y = count,x=Estuary) + 
+  geom_col()
+print(Plot5)
+
+HMarshdf.veg<-SEdf.veg|>
+filter(Habitat=="High marsh")
+Plot6 <- ggplot(HMarshdf.veg) + 
+  aes(y = count,x=Estuary) + 
+  geom_col()
+print(Plot6)
+#check out community diversity
 ```
