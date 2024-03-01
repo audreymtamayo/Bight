@@ -3,7 +3,6 @@ library(tidyverse)
 library(googlesheets4)
 library(readxl)
 library(ggtext)
-library(ggplot2)
 ```
 
 ```{r}
@@ -13,6 +12,23 @@ read.csv("Combined_Vegetation.csv")
 ```
 
 ```{r}
+#Darien EDA
+```
+
+```{r}
+#Yvonne EDA
+```
+
+```{r}
+#Cherry EDA
+```
+
+```{r}
+#Audrey EDA
+```
+
+```{r}
+library(ggplot2)
 #Tory EDA
 df.veg<-read.csv("Combined_Vegetation.csv")
 Plot1 <- ggplot(df.veg) + 
