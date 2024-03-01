@@ -13,52 +13,53 @@ read.csv("Combined_Vegetation.csv")
 ```
 
 ```{r}
-#Tory EDA
-df.veg<-read.csv("Combined_Vegetation.csv")
-Plot1 <- ggplot(df.veg) + 
-  aes(x = EstimatedCover) + 
-  geom_histogram()
-print(Plot1)
-Plot2 <- ggplot(df.veg) + 
-  aes(x = EstimatedCover,y=Estuary) + 
-  geom_boxplot()
+
+#create raw data frame
+df.veg.raw<-read.csv("Combined_Vegetation.csv")
+
+#finding percent native for each estuary
+df.percent<-df.veg.raw|>
+count(Estuary, Status) %>%
+group_by(Estuary)|>
+mutate(percent = n/sum(n)*100) %>%
+select(-n) %>%
+spread(Status, percent)
+
+#plotting percent native
+Native.percentPlot <- ggplot(df.percent) +
+aes(y = native,x=Estuary) +
+geom_col(aes(y = native,x=Estuary,fill=Estuary))+
+  
+#Changing the scale since all values above 75%
+coord_cartesian(ylim = c(75, 100))+
+scale_y_continuous(breaks = seq(75, 100, by = 5))
+
+#Fixing crowded x-axis
+print(Native.percentPlot)+theme(axis.text.x = element_text(angle = 30, hjust = 0.5,
+vjust = 0.5))
+
+#need help plotting percent cover for each estuary!
+Plot2 <- ggplot(df.veg.raw) +
+aes(y = EstimatedCover,x=Estuary) +
+geom_boxplot()
 print(Plot2)
+
 #Question:
 #Do the Estuaries differ in plant species diversity for each habitat type?
 
-
-df.vegdiverse<-df.veg|>
-  group_by(Estuary,Habitat)|>
-summarise(count = n_distinct(ScientificName)) %>% 
-  mutate(Habitat = factor(Habitat, levels = c("Brackish marsh", "Low marsh", "Mid marsh", "High marsh")))
-
+df.vegdiverse<-df.veg.raw|>
+group_by(Estuary,Habitat)|>
+summarise(count = n_distinct(ScientificName)) %>%
+mutate(Habitat = factor(Habitat, levels = c("Brackish marsh", "Low marsh", "Mid marsh"
+, "High marsh")))
+#adding custom color
 my_color_vector <- c("darkblue","blue","lightblue","lightgreen")
+SpeciesCount <- ggplot(df.vegdiverse) +
+#dodge allows multiple habitats on one plot
+geom_col(aes(y = count,x=Estuary, fill=Habitat),position="dodge")
+#adjust agle of estuary names for legibility
+print(SpeciesCount)+theme(axis.text.x = element_text(angle = 30, hjust = 0.5, vjust = 0.5)) +
+scale_fill_manual(values = my_color_vector)
 
-SpeciesCount <- ggplot(SEdf.veg) + 
-  geom_col(aes(y = count,x=Estuary, fill=Habitat),position="dodge")
-print(SpeciesCount)+theme(axis.text.x = element_text(angle = 30, hjust = 0.5, vjust = 0.5)) + 
-  scale_fill_manual(values = my_color_vector)
 
-#Stop here....these were priliminary plots
-LMarshdf.veg<-SEdf.veg|>
-filter(Habitat=="Low marsh")
-Plot4 <- ggplot(LMarshdf.veg) + 
-  aes(y = count,x=Estuary) + 
-  geom_col()
-print(Plot4)
-
-MMarshdf.veg<-SEdf.veg|>
-filter(Habitat=="mid marsh")
-Plot5 <- ggplot(MMarshdf.veg) + 
-  aes(y = count,x=Estuary) + 
-  geom_col()
-print(Plot5)
-
-HMarshdf.veg<-SEdf.veg|>
-filter(Habitat=="High marsh")
-Plot6 <- ggplot(HMarshdf.veg) + 
-  aes(y = count,x=Estuary) + 
-  geom_col()
-print(Plot6)
-#check out community diversity
 ```
