@@ -38,9 +38,10 @@ scale_y_continuous(breaks = seq(75, 100, by = 5))
 print(Native.percentPlot)+theme(axis.text.x = element_text(angle = 30, hjust = 0.5,
 vjust = 0.5))
 
-#need help plotting percent cover for each estuary!
+#plotting percent cover for each estuary
+
 Plot2 <- ggplot(df.veg.raw) +
-aes(y = EstimatedCover,x=Estuary) +
+aes(y = VegetatedCover,x=Estuary) +
 geom_boxplot()
 print(Plot2)
 
