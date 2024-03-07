@@ -12,39 +12,54 @@ Cordgrass<-read_excel("vegetation-for-Jan-15feb24.xlsx", sheet=4)
 
 Cleaning Metadata
 ```{r}
-Metadata_Clean <- Metadata |> select(estuaryname, stationno, samplecollectiondate, tide, transectreplicate, habitat, elevation_ellipsoid, method, plotreplicate, vegetated_cover, non_vegetated_cover, latitude, longitude, elevation_orthometric) 
-```
-
-```{r}
-Metadata_Clean<- Metadata_Clean|>filter(estuaryname == "Malibu Lagoon" | estuaryname == "San Elijo Lagoon" | estuaryname == "Batiquitos Lagoon" | estuaryname == "Goleta Slough" |estuaryname == "Newport Bay" | estuaryname == "Ventura River")
+Metadata_Clean <- Metadata |> select(estuaryname, stationno, samplecollectiondate, tide, transectreplicate, habitat, method, plotreplicate, vegetated_cover, non_vegetated_cover) |>
+  filter(estuaryname == "Malibu Lagoon" | estuaryname == "San Elijo Lagoon" | estuaryname == "Batiquitos Lagoon" | estuaryname == "Goleta Slough" |estuaryname == "Newport Bay" | estuaryname == "Ventura River") |>
+rename(Estuary = estuaryname, Station = stationno, Date = samplecollectiondate, Tide = tide, Transect = transectreplicate, Habitat = habitat, Method = method, Quadrat = plotreplicate, VegetatedCover = vegetated_cover, NonVegetatedCover = non_vegetated_cover)
 Metadata_Clean
 ```
 
+
 Cleaning Vegetation
 ```{r}
-Vegetation_Clean <- Vegetation|> select(estuaryname, stationno, samplecollectiondate, transectreplicate, habitat, method, plotreplicate, scientificname, commonname, status, estimatedcover, percentcovercode, tallestplantheight_cm) 
+Vegetation_Clean <- Vegetation|> select(estuaryname, stationno, samplecollectiondate, transectreplicate, habitat, method, plotreplicate, scientificname, commonname, status, estimatedcover, tallestplantheight_cm) 
 ```
 
 ```{r}
-Vegetation_Clean<- Vegetation_Clean|> filter(estuaryname == "Malibu Lagoon" | estuaryname == "San Elijo Lagoon" | estuaryname == "Batiquitos Lagoon" | estuaryname == "Goleta Slough" |estuaryname == "Newport Bay" | estuaryname == "Ventura River" )
+Vegetation_Clean<- Vegetation_Clean|> filter(estuaryname == "Malibu Lagoon" | estuaryname == "San Elijo Lagoon" | estuaryname == "Batiquitos Lagoon" | estuaryname == "Goleta Slough" |estuaryname == "Newport Bay" | estuaryname == "Ventura River" ) |>
+rename(Estuary = estuaryname, Station = stationno, Date = samplecollectiondate, Transect = transectreplicate, Habitat = habitat, Method = method, Quadrat = plotreplicate, ScientificName = scientificname, CommonName = commonname, Status = status, EstimatedCover = estimatedcover, TallestPlantHeight = tallestplantheight_cm)
 Vegetation_Clean
 ```
-
-
 Cleaning Cordgrass
 ```{r}
-Cordgrass_Clean<- Cordgrass |> select(estuaryname, stationno, samplecollectiondate, transectreplicate, habitat, method, plotreplicate, live_dead, total_stems, area_m2, plantheight_replicate, plantheight_replicate) 
+Cordgrass_Clean<- Cordgrass |> select(estuaryname, stationno, samplecollectiondate, transectreplicate, habitat, method, plotreplicate, live_dead, total_stems, plantheight_replicate, plantheight_cm) 
 ```
 
 ```{r}
-Cordgrass_Clean<- Cordgrass_Clean|> filter(estuaryname == "Malibu Lagoon" | estuaryname == "San Elijo Lagoon" | estuaryname == "Batiquitos Lagoon" | estuaryname == "Goleta Slough" |estuaryname == "Newport Bay" | estuaryname == "Ventura River" )
+Cordgrass_Clean<- Cordgrass_Clean|> filter(estuaryname == "Malibu Lagoon" | estuaryname == "San Elijo Lagoon" | estuaryname == "Batiquitos Lagoon" | estuaryname == "Goleta Slough" |estuaryname == "Newport Bay" | estuaryname == "Ventura River" ) |>
+rename(Estuary = estuaryname, Station = stationno, Date = samplecollectiondate, Transect = transectreplicate, Habitat = habitat, Method = method, Quadrat = plotreplicate, Abundance = total_stems,PlantHeightReplicate = plantheight_replicate, PlantHeight=plantheight_cm, LiveOrDead = live_dead,)
+
 Cordgrass_Clean
 ```
+
 Combined Data
 ```{r}
 Combined_Cordgrass<- inner_join(Cordgrass_Clean, Metadata_Clean,)
 Combined_Vegetation<- inner_join(Vegetation_Clean, Metadata_Clean,)
 ```
+Change -88
+```{r}
+Combined_Cordgrass[Combined_Cordgrass == -88] <- 0
+Combined_Cordgrass
+```
+Change -88 values & Remove "Not recorded" from columns
+```{r}
+Combined_Vegetation = filter(Combined_Vegetation, !(ScientificName %in% c("Not recorded", "unknown plant")))
+Combined_Vegetation = filter(Combined_Vegetation, !(Status %in% c("Not recorded")))
+Combined_Vegetation[Combined_Vegetation == -88] <- 0
+Combined_Vegetation[Combined_Vegetation == -88.0] <- 0
+Combined_Vegetation$TallestPlantHeight <- round(Combined_Vegetation$TallestPlantHeight)
+```
+
 
 CSV Files
 ```{r}

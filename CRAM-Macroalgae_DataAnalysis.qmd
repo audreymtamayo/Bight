@@ -1,0 +1,91 @@
+---
+title: "CRAM & Macroalgae"
+format: html
+editor: visual
+---
+
+## SoCal Bight Data Analysis - Macroalgae & CRAM Data
+
+|                                                                                                               |
+|------------------------------------------------------------------------|
+| Question 2: **What estuaries in southern California have the highest vascular plant functional performance?** |
+|                                                                                                               |
+
+### Load Packages
+
+```{r}
+library(tidyverse)
+library(lme4)
+library(lmerTest)
+library(dplyr)
+library(readxl)
+```
+
+### Import Macroalgae Files
+
+```{r}
+Metadata <-read_excel("macroalgae-2021.xlsx", sheet=1)
+algaecover2021 <-read_excel("macroalgae-2021.xlsx", sheet=2)
+floating2021 <-read_excel("macroalgae-2021.xlsx", sheet=3)
+
+```
+
+### Cleaning Macroalgae 2021 Data
+
+-   Batiquitos Lagoon
+
+-   Goleta Slough
+
+-   Malibu Lagoon
+
+-   Newport Bay
+
+-   San Elijo Lagoon
+
+-   Ventura River
+
+#### Clean Macroalgae Data
+
+```{r}
+#
+algaecover21 <- algaecover2021 |> filter(estuaryname == "Malibu Lagoon" | estuaryname == "San Elijo Lagoon" | estuaryname == "Batiquitos Lagoon" | estuaryname == "Goleta Slough" |estuaryname == "Newport Bay" | estuaryname == "Ventura River")
+
+floating21 <- floating2021 |> filter(estuaryname == "Malibu Lagoon" | estuaryname == "San Elijo Lagoon" | estuaryname == "Batiquitos Lagoon" | estuaryname == "Goleta Slough" |estuaryname == "Newport Bay" | estuaryname == "Ventura River")
+
+
+
+head(floating21)
+```
+
+#### CRAM data
+
+```{r}
+CRAM <-read_excel("ecoatlas_cram_update.xlsx", sheet=3)
+
+CRAM
+```
+
+#### 
+
+#### 
+
+```{r}
+
+CRAM3 <- CRAM2 |> filter(aaname == "Malibu Lagoon" | aaname == "San Elijo Lagoon" | aaname == "Batiquitos Lagoon" | aaname == "Goleta Slough" |aaname == "Upper Newport Bay" | aaname == "Ventura River" | aaname == "Sweetwater Marsh" | aaname == "Tijuana River Estuary" | aaname == "San Dieguito Lagoon")
+
+CRAM4 <- CRAM3 %>% mutate(aaname = fct_reorder(aaname, indexscore))
+
+
+plottyplot <- ggplot(CRAM4, aes(x = aaname, y = indexscore)) + geom_point() + stat_summary(fun = mean, geom = "line") + labs(x = "Sites") + labs(y = "Cram Index Score") + theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+```
+
+#### Bind
+
+Bind your cleaned data frames together into one object. Clean up any remaining column names or formats.
+
+```{r}
+
+```
+
+### 

@@ -1,0 +1,1288 @@
+Estuary,Station,Date,Transect,Habitat,Method,Quadrat,ScientificName,CommonName,Status,EstimatedCover,TallestPlantHeight,Tide,VegetatedCover,NonVegetatedCover
+Malibu Lagoon,1,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,1,Salicornia pacifica,Pickleweed,native,25,28,open,100,0
+Malibu Lagoon,1,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,1,Distichlis spicata,salt grass,native,7,13,open,100,0
+Malibu Lagoon,1,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,1,Jaumea carnosa,fleshy jaumea,native,40,27,open,100,0
+Malibu Lagoon,1,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,1,Salicornia pacifica,Pickleweed,native,10,42,open,100,0
+Malibu Lagoon,1,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,2,Atriplex semibaccata,Australian saltbush,invasive,5,68,open,80,20
+Malibu Lagoon,1,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,2,Frankenia salina,alkali heath,native,20,23,open,80,20
+Malibu Lagoon,1,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,2,Lysimachia arvensis,scarlet pimpernel,non-native,3,12,open,80,20
+Malibu Lagoon,1,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,3,Juncus sp.,rush species,native,20,87,open,90,10
+Malibu Lagoon,1,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,3,Salicornia pacifica,Pickleweed,native,4,39,open,90,10
+Malibu Lagoon,1,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,3,Distichlis spicata,salt grass,native,3,30,open,90,10
+Malibu Lagoon,1,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,3,Frankenia salina,alkali heath,native,4,27,open,90,10
+Malibu Lagoon,1,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,3,Jaumea carnosa,fleshy jaumea,native,30,11,open,90,10
+Malibu Lagoon,1,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,4,Frankenia salina,alkali heath,native,8,20,open,95,5
+Malibu Lagoon,1,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,4,Lysimachia arvensis,scarlet pimpernel,non-native,15,28,open,95,5
+Malibu Lagoon,1,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,5,Frankenia salina,alkali heath,native,55,20,open,100,0
+Malibu Lagoon,1,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,5,Juncus sp.,rush species,native,40,19,open,100,0
+Malibu Lagoon,2,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,1,Salicornia pacifica,Pickleweed,native,20,28,open,85,15
+Malibu Lagoon,2,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,1,Frankenia salina,alkali heath,native,5,17,open,85,15
+Malibu Lagoon,2,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,1,Jaumea carnosa,fleshy jaumea,native,40,15,open,85,15
+Malibu Lagoon,2,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,1,Distichlis spicata,salt grass,native,10,15,open,85,15
+Malibu Lagoon,2,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,2,Salicornia pacifica,Pickleweed,native,60,75,open,80,20
+Malibu Lagoon,2,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,2,Jaumea carnosa,fleshy jaumea,native,15,17,open,80,20
+Malibu Lagoon,2,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,3,Juncus acutus,spiny rush,native,75,94,open,100,0
+Malibu Lagoon,2,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,3,Salicornia pacifica,Pickleweed,native,10,31,open,100,0
+Malibu Lagoon,2,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,3,Distichlis spicata,salt grass,native,10,37,open,100,0
+Malibu Lagoon,2,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,3,Jaumea carnosa,fleshy jaumea,native,25,11,open,100,0
+Malibu Lagoon,2,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,4,Salicornia pacifica,Pickleweed,native,55,95,open,95,5
+Malibu Lagoon,2,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,4,Distichlis spicata,salt grass,native,5,29,open,95,5
+Malibu Lagoon,2,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,4,Distichlis spicata,salt grass,native,10,29,open,95,5
+Malibu Lagoon,2,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,4,Frankenia salina,alkali heath,native,15,41,open,95,5
+Malibu Lagoon,2,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,4,Atriplex semibaccata,Australian saltbush,invasive,2,30,open,95,5
+Malibu Lagoon,2,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,5,Jaumea carnosa,fleshy jaumea,native,35,16,open,100,0
+Malibu Lagoon,2,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,5,Distichlis spicata,salt grass,native,10,2,open,100,0
+Malibu Lagoon,2,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,5,Typha latifolia,broad-leaved cattail,native,10,51,open,100,0
+Malibu Lagoon,3,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,1,Juncus acutus,spiny rush,native,70,95,open,97,3
+Malibu Lagoon,3,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,1,Salicornia pacifica,Pickleweed,native,5,47,open,97,3
+Malibu Lagoon,3,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,1,Salicornia pacifica,Pickleweed,native,10,17,open,97,3
+Malibu Lagoon,3,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,1,Distichlis spicata,salt grass,native,7,40,open,97,3
+Malibu Lagoon,3,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,1,Jaumea carnosa,fleshy jaumea,native,2,37,open,97,3
+Malibu Lagoon,3,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,1,Frankenia salina,alkali heath,native,2,10,open,97,3
+Malibu Lagoon,3,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,2,Arthrocnemum subterminale,Parish's glasswort,native,10,27,open,83,17
+Malibu Lagoon,3,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,2,Jaumea carnosa,fleshy jaumea,native,18,19,open,83,17
+Malibu Lagoon,3,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,2,Distichlis spicata,salt grass,native,10,20,open,83,17
+Malibu Lagoon,3,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,2,Salicornia pacifica,Pickleweed,native,5,22,open,83,17
+Malibu Lagoon,3,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,2,Isocoma menziesii,coastal goldenbush,native,7,30,open,83,17
+Malibu Lagoon,3,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,2,Distichlis spicata,salt grass,native,20,15,open,83,17
+Malibu Lagoon,3,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,3,Distichlis spicata,salt grass,native,10,28,open,95,5
+Malibu Lagoon,3,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,3,Distichlis spicata,salt grass,native,35,6,open,95,5
+Malibu Lagoon,3,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,3,Salicornia pacifica,Pickleweed,native,10,68,open,95,5
+Malibu Lagoon,3,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,3,Jaumea carnosa,fleshy jaumea,native,2,12,open,95,5
+Malibu Lagoon,3,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,3,Salicornia pacifica,Pickleweed,native,5,26,open,95,5
+Malibu Lagoon,3,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,3,Frankenia salina,alkali heath,native,1,7,open,95,5
+Malibu Lagoon,3,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,4,Frankenia salina,alkali heath,native,1,23,open,100,0
+Malibu Lagoon,3,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,4,Isocoma menziesii,coastal goldenbush,native,3,68,open,100,0
+Malibu Lagoon,3,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,4,Distichlis spicata,salt grass,native,2,40,open,100,0
+Malibu Lagoon,3,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,4,Distichlis spicata,salt grass,native,5,23,open,100,0
+Malibu Lagoon,3,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,4,Salicornia pacifica,Pickleweed,native,1,7,open,100,0
+Malibu Lagoon,3,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,4,Jaumea carnosa,fleshy jaumea,native,5,22,open,100,0
+Malibu Lagoon,3,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,5,Juncus acutus,spiny rush,native,20,90,open,90,10
+Malibu Lagoon,3,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,5,Salicornia pacifica,Pickleweed,native,40,50,open,90,10
+Malibu Lagoon,3,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,5,Jaumea carnosa,fleshy jaumea,native,35,22,open,90,10
+Malibu Lagoon,3,2023-04-16T00:00:00Z,1,Mid marsh,within_elevation,5,Frankenia salina,alkali heath,native,1,7,open,90,10
+Malibu Lagoon,3,2023-04-16T00:00:00Z,2,Brackish marsh,within_elevation,1,Schoenoplectus californicus,southern bulrush,native,60,22,open,60,40
+Malibu Lagoon,3,2023-04-16T00:00:00Z,2,Brackish marsh,within_elevation,2,Schoenoplectus californicus,southern bulrush,native,25,190,open,85,15
+Malibu Lagoon,3,2023-04-16T00:00:00Z,2,Brackish marsh,within_elevation,2,Schoenoplectus californicus,southern bulrush,native,60,0,open,85,15
+Malibu Lagoon,3,2023-04-16T00:00:00Z,2,Brackish marsh,within_elevation,2,Jaumea carnosa,fleshy jaumea,native,1,2,open,85,15
+Malibu Lagoon,3,2023-04-16T00:00:00Z,2,Brackish marsh,within_elevation,2,Salicornia bigelovii,dwarf glasswort,native,1,8,open,85,15
+Malibu Lagoon,3,2023-04-16T00:00:00Z,2,Brackish marsh,within_elevation,3,Jaumea carnosa,fleshy jaumea,native,10,11,open,15,85
+Malibu Lagoon,3,2023-04-16T00:00:00Z,2,Brackish marsh,within_elevation,3,Salicornia bigelovii,dwarf glasswort,native,5,5,open,15,85
+Malibu Lagoon,3,2023-04-16T00:00:00Z,2,Brackish marsh,within_elevation,4,Schoenoplectus californicus,southern bulrush,native,60,0,open,95,5
+Malibu Lagoon,3,2023-04-16T00:00:00Z,2,Brackish marsh,within_elevation,4,Schoenoplectus californicus,southern bulrush,native,35,184,open,95,5
+Malibu Lagoon,3,2023-04-16T00:00:00Z,2,Brackish marsh,within_elevation,4,Jaumea carnosa,fleshy jaumea,native,1,3,open,95,5
+Malibu Lagoon,3,2023-04-16T00:00:00Z,2,Brackish marsh,within_elevation,5,Schoenoplectus californicus,southern bulrush,native,85,0,open,95,5
+Malibu Lagoon,3,2023-04-16T00:00:00Z,2,Brackish marsh,within_elevation,5,Schoenoplectus californicus,southern bulrush,native,10,203,open,95,5
+Malibu Lagoon,3,2023-04-16T00:00:00Z,2,Brackish marsh,within_elevation,5,Salicornia pacifica,Pickleweed,native,10,31,open,95,5
+Malibu Lagoon,3,2023-04-16T00:00:00Z,3,High marsh,within_elevation,5,Isocoma menziesii,coastal goldenbush,native,10,50,open,95,5
+Malibu Lagoon,3,2023-04-16T00:00:00Z,3,High marsh,within_elevation,5,Jaumea carnosa,fleshy jaumea,native,15,20,open,95,5
+Malibu Lagoon,3,2023-04-16T00:00:00Z,3,High marsh,within_elevation,5,Distichlis spicata,salt grass,native,10,26,open,95,5
+Malibu Lagoon,3,2023-04-16T00:00:00Z,3,High marsh,within_elevation,5,Distichlis spicata,salt grass,native,45,19,open,95,5
+Malibu Lagoon,3,2023-04-16T00:00:00Z,3,High marsh,within_elevation,5,Juncus acutus,spiny rush,native,2,33,open,95,5
+Malibu Lagoon,3,2023-04-16T00:00:00Z,3,High marsh,within_elevation,4,Salicornia pacifica,Pickleweed,native,30,73,open,100,0
+Malibu Lagoon,3,2023-04-16T00:00:00Z,3,High marsh,within_elevation,4,Frankenia salina,alkali heath,native,5,15,open,100,0
+Malibu Lagoon,3,2023-04-16T00:00:00Z,3,High marsh,within_elevation,4,Jaumea carnosa,fleshy jaumea,native,5,27,open,100,0
+Malibu Lagoon,3,2023-04-16T00:00:00Z,3,High marsh,within_elevation,4,Isocoma menziesii,coastal goldenbush,native,10,56,open,100,0
+Malibu Lagoon,3,2023-04-16T00:00:00Z,3,High marsh,within_elevation,4,Distichlis spicata,salt grass,native,5,33,open,100,0
+Malibu Lagoon,3,2023-04-16T00:00:00Z,3,High marsh,within_elevation,4,Distichlis spicata,salt grass,native,25,19,open,100,0
+Malibu Lagoon,3,2023-04-16T00:00:00Z,3,High marsh,within_elevation,3,Jaumea carnosa,fleshy jaumea,native,5,20,open,100,0
+Malibu Lagoon,3,2023-04-16T00:00:00Z,3,High marsh,within_elevation,3,Isocoma menziesii,coastal goldenbush,native,2,35,open,100,0
+Malibu Lagoon,3,2023-04-16T00:00:00Z,3,High marsh,within_elevation,3,Distichlis spicata,salt grass,native,15,25,open,100,0
+Malibu Lagoon,3,2023-04-16T00:00:00Z,3,High marsh,within_elevation,3,Salicornia pacifica,Pickleweed,native,5,49,open,100,0
+Malibu Lagoon,3,2023-04-16T00:00:00Z,3,High marsh,within_elevation,3,Distichlis spicata,salt grass,native,25,6,open,100,0
+Malibu Lagoon,3,2023-04-16T00:00:00Z,3,High marsh,within_elevation,3,Atriplex semibaccata,Australian saltbush,invasive,2,25,open,100,0
+Malibu Lagoon,3,2023-04-16T00:00:00Z,3,High marsh,within_elevation,2,Atriplex semibaccata,Australian saltbush,invasive,15,71,open,90,10
+Malibu Lagoon,3,2023-04-16T00:00:00Z,3,High marsh,within_elevation,2,Isocoma menziesii,coastal goldenbush,native,10,52,open,90,10
+Malibu Lagoon,3,2023-04-16T00:00:00Z,3,High marsh,within_elevation,2,Distichlis spicata,salt grass,native,5,22,open,90,10
+Malibu Lagoon,3,2023-04-16T00:00:00Z,3,High marsh,within_elevation,2,Distichlis spicata,salt grass,native,30,5,open,90,10
+Malibu Lagoon,3,2023-04-16T00:00:00Z,3,High marsh,within_elevation,2,Frankenia salina,alkali heath,native,2,14,open,90,10
+Malibu Lagoon,3,2023-04-16T00:00:00Z,3,High marsh,within_elevation,2,Polypogon monspeliensis,rabbit's foot Grass,non-native,40,40,open,90,10
+Malibu Lagoon,3,2023-04-16T00:00:00Z,3,High marsh,within_elevation,2,Lysimachia arvensis,scarlet pimpernel,non-native,1,6,open,90,10
+Malibu Lagoon,3,2023-04-16T00:00:00Z,3,High marsh,within_elevation,1,Salicornia pacifica,Pickleweed,native,25,33,open,75,25
+Malibu Lagoon,3,2023-04-16T00:00:00Z,3,High marsh,within_elevation,1,Frankenia salina,alkali heath,native,15,31,open,75,25
+Malibu Lagoon,3,2023-04-16T00:00:00Z,3,High marsh,within_elevation,1,Batis maritima,saltwort,native,5,12,open,75,25
+Malibu Lagoon,3,2023-04-16T00:00:00Z,3,High marsh,within_elevation,1,Distichlis spicata,salt grass,native,10,37,open,75,25
+Malibu Lagoon,3,2023-04-16T00:00:00Z,3,High marsh,within_elevation,1,Distichlis spicata,salt grass,native,15,28,open,75,25
+Malibu Lagoon,3,2023-04-16T00:00:00Z,3,High marsh,within_elevation,1,Cressa truxillensis,alkali weed,native,1,8,open,75,25
+Malibu Lagoon,3,2023-04-16T00:00:00Z,3,High marsh,within_elevation,1,Arthrocnemum subterminale,Parish's glasswort,native,5,15,open,75,25
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,1,Mid marsh,across_elevation,1,Salicornia pacifica,Pickleweed,native,90,50,low,90,10
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,1,Mid marsh,across_elevation,2,Salicornia pacifica,Pickleweed,native,98,40,low,98,2
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,1,Mid marsh,across_elevation,3,Salicornia pacifica,Pickleweed,native,75,51,low,75,25
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,1,Mid marsh,across_elevation,4,Salicornia pacifica,Pickleweed,native,65,59,low,65,35
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,1,Mid marsh,across_elevation,5,Salicornia pacifica,Pickleweed,native,98,58,low,98,2
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,1,Mid marsh,across_elevation,5,Jaumea carnosa,fleshy jaumea,native,5,32,low,98,2
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,1,Mid marsh,across_elevation,6,Salicornia pacifica,Pickleweed,native,95,50,low,95,5
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,2,Low marsh,across_elevation,1,Spartina foliosa,California cordgrass,native,10,76,low,80,20
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,2,Low marsh,across_elevation,1,Salicornia pacifica,Pickleweed,native,60,54,low,80,20
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,2,Mid marsh,across_elevation,2,Salicornia pacifica,Pickleweed,native,78,59,low,78,22
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,2,Mid marsh,across_elevation,3,Salicornia pacifica,Pickleweed,native,90,59,low,90,10
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,2,Mid marsh,across_elevation,4,Salicornia pacifica,Pickleweed,native,60,34,low,95,5
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,2,Mid marsh,across_elevation,4,Frankenia salina,alkali heath,native,30,33,low,95,5
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,2,Mid marsh,across_elevation,4,Jaumea carnosa,fleshy jaumea,native,30,17,low,95,5
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,2,Mid marsh,across_elevation,6,Salicornia pacifica,Pickleweed,native,10,33,low,100,0
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,2,Mid marsh,across_elevation,6,Frankenia salina,alkali heath,native,95,27,low,100,0
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,2,Mid marsh,across_elevation,6,Jaumea carnosa,fleshy jaumea,native,5,14,low,100,0
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,1,Spartina foliosa,California cordgrass,native,60,116,low,60,40
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,2,Spartina foliosa,California cordgrass,native,2,54,low,60,40
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,2,Salicornia pacifica,Pickleweed,native,60,52,low,60,40
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,3,Salicornia pacifica,Pickleweed,native,78,49,low,78,22
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,3,Mid marsh,across_elevation,4,Salicornia pacifica,Pickleweed,native,95,49,low,95,5
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,3,Mid marsh,across_elevation,5,Salicornia pacifica,Pickleweed,native,60,62,low,100,0
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,3,Mid marsh,across_elevation,5,Jaumea carnosa,fleshy jaumea,native,55,34,low,100,0
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,3,High marsh,across_elevation,6,Salicornia pacifica,Pickleweed,native,5,17,low,70,30
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,3,High marsh,across_elevation,6,Jaumea carnosa,fleshy jaumea,native,30,11,low,70,30
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,3,High marsh,across_elevation,6,Frankenia salina,alkali heath,native,40,19,low,70,30
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,3,High marsh,across_elevation,6,Distichlis spicata,salt grass,native,5,30,low,70,30
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,3,High marsh,across_elevation,6,Cuscuta salina,salt dodder,native,25,13,low,70,30
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,3,High marsh,across_elevation,6,Rumex crispus,curly dock,non-native,2,26,low,70,30
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,1,Low marsh,across_elevation,1,Spartina foliosa,California cordgrass,native,25,100,low,85,15
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,1,Low marsh,across_elevation,1,Salicornia pacifica,Pickleweed,native,10,55,low,85,15
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,1,Low marsh,across_elevation,1,Jaumea carnosa,fleshy jaumea,native,8,19,low,85,15
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,1,Low marsh,across_elevation,1,Batis maritima,saltwort,native,15,20,low,85,15
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,1,Low marsh,across_elevation,2,Salicornia pacifica,Pickleweed,native,4,17,low,60,40
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,1,Low marsh,across_elevation,2,Arthrocnemum subterminale,Parish's glasswort,native,10,12,low,60,40
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,1,Low marsh,across_elevation,2,Batis maritima,saltwort,native,30,11,low,60,40
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,1,Low marsh,across_elevation,2,Jaumea carnosa,fleshy jaumea,native,8,6,low,60,40
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,1,Low marsh,across_elevation,2,Suaeda esteroa,estuary seablite,native,5,17,low,60,40
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,1,Low marsh,across_elevation,3,Salicornia pacifica,Pickleweed,native,2,8,low,20,80
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,1,Low marsh,across_elevation,3,Arthrocnemum subterminale,Parish's glasswort,native,20,19,low,20,80
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,1,Low marsh,across_elevation,3,Batis maritima,saltwort,native,5,2,low,20,80
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,1,Low marsh,across_elevation,3,Distichlis littoralis,shore grass,native,2,7,low,20,80
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,1,Low marsh,across_elevation,4,Salicornia pacifica,Pickleweed,native,4,16,low,5,95
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,1,Low marsh,across_elevation,4,Arthrocnemum subterminale,Parish's glasswort,native,3,9,low,5,95
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,1,Low marsh,across_elevation,5,Salicornia pacifica,Pickleweed,native,16,14,low,18,82
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,1,Low marsh,across_elevation,5,Arthrocnemum subterminale,Parish's glasswort,native,2,12,low,18,82
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,1,Mid marsh,across_elevation,6,Salicornia pacifica,Pickleweed,native,20,31,low,20,80
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,2,Low marsh,across_elevation,1,Salicornia pacifica,Pickleweed,native,80,67,low,80,20
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,2,Low marsh,across_elevation,2,Batis maritima,saltwort,native,90,17,low,90,10
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,2,Mid marsh,across_elevation,3,Salicornia pacifica,Pickleweed,native,30,31,low,100,0
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,2,Mid marsh,across_elevation,3,Jaumea carnosa,fleshy jaumea,native,80,17,low,100,0
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,2,Mid marsh,across_elevation,4,Jaumea carnosa,fleshy jaumea,native,100,16,low,100,0
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,2,Mid marsh,across_elevation,5,Jaumea carnosa,fleshy jaumea,native,100,21,low,100,0
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,2,Mid marsh,across_elevation,6,Jaumea carnosa,fleshy jaumea,native,95,18,low,95,5
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,1,Spartina foliosa,California cordgrass,native,25,95,low,75,25
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,1,Salicornia pacifica,Pickleweed,native,40,42,low,75,25
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,1,Jaumea carnosa,fleshy jaumea,native,50,19,low,75,25
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,2,Spartina foliosa,California cordgrass,native,25,121,low,50,50
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,2,Salicornia pacifica,Pickleweed,native,15,27,low,50,50
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,2,Jaumea carnosa,fleshy jaumea,native,5,20,low,50,50
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Mid marsh,across_elevation,4,Salicornia pacifica,Pickleweed,native,20,49,low,100,0
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Mid marsh,across_elevation,4,Jaumea carnosa,fleshy jaumea,native,100,18,low,100,0
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Mid marsh,across_elevation,5,Salicornia pacifica,Pickleweed,native,3,27,low,100,0
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Mid marsh,across_elevation,5,Jaumea carnosa,fleshy jaumea,native,100,17,low,100,0
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Mid marsh,across_elevation,6,Salicornia pacifica,Pickleweed,native,3,35,low,98,2
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Mid marsh,across_elevation,6,Jaumea carnosa,fleshy jaumea,native,98,21,low,98,2
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,1,Low marsh,across_elevation,1,Spartina foliosa,California cordgrass,native,3,60,high,65,35
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,1,Low marsh,across_elevation,1,Salicornia pacifica,Pickleweed,native,45,31,high,65,35
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,1,Low marsh,across_elevation,1,Jaumea carnosa,fleshy jaumea,native,25,35,high,65,35
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,1,Mid marsh,across_elevation,2,Frankenia salina,alkali heath,native,65,42,high,98,2
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,1,Mid marsh,across_elevation,2,Jaumea carnosa,fleshy jaumea,native,20,46,high,98,2
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,1,Mid marsh,across_elevation,2,Distichlis spicata,salt grass,native,10,30,high,98,2
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,1,Mid marsh,across_elevation,2,Salicornia pacifica,Pickleweed,native,5,28,high,98,2
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,1,Mid marsh,across_elevation,2,Cuscuta salina,salt dodder,native,60,0,high,98,2
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,1,Mid marsh,across_elevation,3,Frankenia salina,alkali heath,native,30,43,high,65,35
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,1,Mid marsh,across_elevation,3,Salicornia pacifica,Pickleweed,native,40,60,high,65,35
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,1,Mid marsh,across_elevation,3,Cuscuta salina,salt dodder,native,15,0,high,65,35
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,1,High marsh,across_elevation,4,Frankenia salina,alkali heath,native,50,47,high,70,30
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,1,High marsh,across_elevation,4,Salicornia pacifica,Pickleweed,native,25,48,high,70,30
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,1,High marsh,across_elevation,4,Cuscuta salina,salt dodder,native,20,0,high,70,30
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,1,High marsh,across_elevation,4,Atriplex prostrata,fat hen,non-native,5,31,high,70,30
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,1,High marsh,across_elevation,4,Rumex crispus,curly dock,non-native,5,49,high,70,30
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,1,High marsh,across_elevation,5,Frankenia salina,alkali heath,native,35,53,high,95,5
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,1,High marsh,across_elevation,5,Salicornia pacifica,Pickleweed,native,65,72,high,95,5
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,1,High marsh,across_elevation,5,Cuscuta salina,salt dodder,native,30,0,high,95,5
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,1,High marsh,across_elevation,6,Frankenia salina,alkali heath,native,40,71,high,100,0
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,1,High marsh,across_elevation,6,Salicornia pacifica,Pickleweed,native,60,58,high,100,0
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Mid marsh,within_elevation,1,Frankenia salina,alkali heath,native,30,47,high,90,10
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Mid marsh,within_elevation,1,Jaumea carnosa,fleshy jaumea,native,30,34,high,90,10
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Mid marsh,within_elevation,1,Distichlis spicata,salt grass,native,40,42,high,90,10
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Mid marsh,within_elevation,1,Salicornia pacifica,Pickleweed,native,20,25,high,90,10
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Mid marsh,within_elevation,1,Atriplex prostrata,fat hen,non-native,3,22,high,90,10
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Low marsh,within_elevation,2,Spartina foliosa,California cordgrass,native,2,105,high,70,30
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Low marsh,within_elevation,2,Distichlis spicata,salt grass,native,25,36,high,70,30
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Low marsh,within_elevation,2,Salicornia pacifica,Pickleweed,native,30,43,high,70,30
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Low marsh,within_elevation,2,Limonium ramosissimum,Algerian sea lavender,invasive,2,6,high,70,30
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Low marsh,within_elevation,3,Spartina foliosa,California cordgrass,native,2,110,high,80,20
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Low marsh,within_elevation,3,Distichlis spicata,salt grass,native,25,17,high,80,20
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Low marsh,within_elevation,3,Salicornia pacifica,Pickleweed,native,25,36,high,80,20
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Low marsh,within_elevation,3,Batis maritima,saltwort,native,45,25,high,80,20
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Mid marsh,within_elevation,4,Jaumea carnosa,fleshy jaumea,native,60,18,high,98,2
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Mid marsh,within_elevation,4,Distichlis spicata,salt grass,native,40,24,high,98,2
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Mid marsh,within_elevation,4,Salicornia pacifica,Pickleweed,native,24,41,high,98,2
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Low marsh,within_elevation,5,Spartina foliosa,California cordgrass,native,25,118,high,80,20
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Low marsh,within_elevation,5,Jaumea carnosa,fleshy jaumea,native,5,16,high,80,20
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Low marsh,within_elevation,5,Salicornia pacifica,Pickleweed,native,50,54,high,80,20
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Low marsh,within_elevation,6,Spartina foliosa,California cordgrass,native,20,124,high,98,2
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Low marsh,within_elevation,6,Jaumea carnosa,fleshy jaumea,native,5,20,high,98,2
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Low marsh,within_elevation,6,Distichlis spicata,salt grass,native,55,32,high,98,2
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Low marsh,within_elevation,6,Salicornia pacifica,Pickleweed,native,30,55,high,98,2
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,3,Mid marsh,within_elevation,1,Frankenia salina,alkali heath,native,25,27,high,100,0
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,3,Mid marsh,within_elevation,1,Jaumea carnosa,fleshy jaumea,native,25,17,high,100,0
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,3,Mid marsh,within_elevation,1,Distichlis spicata,salt grass,native,85,34,high,100,0
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,3,Mid marsh,within_elevation,1,Salicornia pacifica,Pickleweed,native,5,26,high,100,0
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,3,Mid marsh,within_elevation,2,Frankenia salina,alkali heath,native,15,27,high,90,10
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,3,Mid marsh,within_elevation,2,Jaumea carnosa,fleshy jaumea,native,20,26,high,90,10
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,3,Mid marsh,within_elevation,2,Distichlis spicata,salt grass,native,80,38,high,90,10
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,3,Mid marsh,within_elevation,2,Salicornia pacifica,Pickleweed,native,10,48,high,90,10
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,3,Mid marsh,within_elevation,3,Frankenia salina,alkali heath,native,10,32,high,100,0
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,3,Mid marsh,within_elevation,3,Jaumea carnosa,fleshy jaumea,native,30,27,high,100,0
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,3,Mid marsh,within_elevation,3,Distichlis spicata,salt grass,native,90,34,high,100,0
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,3,Mid marsh,within_elevation,3,Salicornia pacifica,Pickleweed,native,16,35,high,100,0
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,3,Mid marsh,within_elevation,4,Distichlis spicata,salt grass,native,100,26,high,100,0
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,3,Mid marsh,within_elevation,4,Salicornia pacifica,Pickleweed,native,20,29,high,100,0
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,3,Low marsh,within_elevation,5,Jaumea carnosa,fleshy jaumea,native,25,27,high,95,5
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,3,Low marsh,within_elevation,5,Distichlis spicata,salt grass,native,90,28,high,95,5
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,3,Low marsh,within_elevation,6,Jaumea carnosa,fleshy jaumea,native,25,29,high,90,10
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,3,Low marsh,within_elevation,6,Distichlis spicata,salt grass,native,80,33,high,90,10
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,3,Low marsh,within_elevation,6,Salicornia pacifica,Pickleweed,native,2,28,high,90,10
+Batiquitos Lagoon,3,2021-04-11T00:00:00Z,3,Brackish marsh,within_elevation,1,Spartina foliosa,California cordgrass,native,30,84,ebb,59,41
+Batiquitos Lagoon,3,2021-04-11T00:00:00Z,3,Brackish marsh,within_elevation,1,Spartina foliosa,California cordgrass,native,25,52,ebb,59,41
+Batiquitos Lagoon,3,2021-04-11T00:00:00Z,3,Brackish marsh,within_elevation,1,Salicornia pacifica,Pickleweed,native,3,22,ebb,59,41
+Batiquitos Lagoon,3,2021-04-11T00:00:00Z,3,Brackish marsh,within_elevation,1,Schoenoplectus californicus,southern bulrush,native,1,65,ebb,59,41
+Batiquitos Lagoon,3,2021-04-11T00:00:00Z,3,Brackish marsh,within_elevation,2,Schoenoplectus californicus,southern bulrush,native,10,139,ebb,33,67
+Batiquitos Lagoon,3,2021-04-11T00:00:00Z,3,Brackish marsh,within_elevation,2,Spartina foliosa,California cordgrass,native,10,108,ebb,33,67
+Batiquitos Lagoon,3,2021-04-11T00:00:00Z,3,Brackish marsh,within_elevation,2,Schoenoplectus californicus,southern bulrush,native,5,92,ebb,33,67
+Batiquitos Lagoon,3,2021-04-11T00:00:00Z,3,Brackish marsh,within_elevation,2,Spartina foliosa,California cordgrass,native,5,40,ebb,33,67
+Batiquitos Lagoon,3,2021-04-11T00:00:00Z,3,Brackish marsh,within_elevation,2,Salicornia pacifica,Pickleweed,native,3,12,ebb,33,67
+Batiquitos Lagoon,3,2021-04-11T00:00:00Z,3,Brackish marsh,within_elevation,3,Schoenoplectus californicus,southern bulrush,native,15,151,ebb,39,61
+Batiquitos Lagoon,3,2021-04-11T00:00:00Z,3,Brackish marsh,within_elevation,3,Spartina foliosa,California cordgrass,native,2,58,ebb,39,61
+Batiquitos Lagoon,3,2021-04-11T00:00:00Z,3,Brackish marsh,within_elevation,3,Schoenoplectus californicus,southern bulrush,native,15,146,ebb,39,61
+Batiquitos Lagoon,3,2021-04-11T00:00:00Z,3,Brackish marsh,within_elevation,3,Spartina foliosa,California cordgrass,native,5,21,ebb,39,61
+Batiquitos Lagoon,3,2021-04-11T00:00:00Z,3,Brackish marsh,within_elevation,3,Salicornia pacifica,Pickleweed,native,2,16,ebb,39,61
+Batiquitos Lagoon,3,2021-04-11T00:00:00Z,3,Brackish marsh,within_elevation,4,Schoenoplectus californicus,southern bulrush,native,5,109,ebb,44,56
+Batiquitos Lagoon,3,2021-04-11T00:00:00Z,3,Brackish marsh,within_elevation,4,Spartina foliosa,California cordgrass,native,15,92,ebb,44,56
+Batiquitos Lagoon,3,2021-04-11T00:00:00Z,3,Brackish marsh,within_elevation,4,Schoenoplectus californicus,southern bulrush,native,3,142,ebb,44,56
+Batiquitos Lagoon,3,2021-04-11T00:00:00Z,3,Brackish marsh,within_elevation,4,Spartina foliosa,California cordgrass,native,20,45,ebb,44,56
+Batiquitos Lagoon,3,2021-04-11T00:00:00Z,3,Brackish marsh,within_elevation,4,Salicornia pacifica,Pickleweed,native,1,15,ebb,44,56
+Batiquitos Lagoon,3,2021-04-11T00:00:00Z,3,Brackish marsh,within_elevation,5,Schoenoplectus californicus,southern bulrush,native,25,153,ebb,50,50
+Batiquitos Lagoon,3,2021-04-11T00:00:00Z,3,Brackish marsh,within_elevation,5,Schoenoplectus californicus,southern bulrush,native,10,128,ebb,50,50
+Batiquitos Lagoon,3,2021-04-11T00:00:00Z,3,Brackish marsh,within_elevation,5,Salicornia pacifica,Pickleweed,native,15,57,ebb,50,50
+Malibu Lagoon,3,2021-04-05T00:00:00Z,3,Brackish marsh,within_elevation,1,Schoenoplectus californicus,southern bulrush,native,5,120,ebb,60,40
+Malibu Lagoon,3,2021-04-05T00:00:00Z,3,Brackish marsh,within_elevation,1,Schoenoplectus californicus,southern bulrush,native,30,35,ebb,60,40
+Malibu Lagoon,3,2021-04-05T00:00:00Z,3,Brackish marsh,within_elevation,2,Distichlis spicata,salt grass,native,90,20,ebb,90,10
+Malibu Lagoon,3,2021-04-05T00:00:00Z,3,Brackish marsh,within_elevation,2,Jaumea carnosa,fleshy jaumea,native,10,10,ebb,90,10
+Malibu Lagoon,3,2021-04-05T00:00:00Z,3,Brackish marsh,within_elevation,2,Salicornia bigelovii,dwarf glasswort,native,10,15,ebb,90,10
+Malibu Lagoon,3,2021-04-05T00:00:00Z,3,Brackish marsh,within_elevation,2,Salicornia pacifica,Pickleweed,native,10,25,ebb,90,10
+Malibu Lagoon,3,2021-04-05T00:00:00Z,3,Brackish marsh,within_elevation,3,Distichlis spicata,salt grass,native,20,10,ebb,90,10
+Malibu Lagoon,3,2021-04-05T00:00:00Z,3,Brackish marsh,within_elevation,3,Distichlis spicata,salt grass,native,25,35,ebb,90,10
+Malibu Lagoon,3,2021-04-05T00:00:00Z,3,Brackish marsh,within_elevation,3,Frankenia salina,alkali heath,native,5,10,ebb,90,10
+Malibu Lagoon,3,2021-04-05T00:00:00Z,3,Brackish marsh,within_elevation,3,Jaumea carnosa,fleshy jaumea,native,80,10,ebb,90,10
+Malibu Lagoon,3,2021-04-05T00:00:00Z,3,Brackish marsh,within_elevation,3,Salicornia pacifica,Pickleweed,native,10,15,ebb,90,10
+Malibu Lagoon,3,2021-04-05T00:00:00Z,3,Brackish marsh,within_elevation,4,Distichlis spicata,salt grass,native,90,25,ebb,95,5
+Malibu Lagoon,3,2021-04-05T00:00:00Z,3,Brackish marsh,within_elevation,4,Frankenia salina,alkali heath,native,15,10,ebb,95,5
+Malibu Lagoon,3,2021-04-05T00:00:00Z,3,Brackish marsh,within_elevation,4,Jaumea carnosa,fleshy jaumea,native,20,5,ebb,95,5
+Malibu Lagoon,3,2021-04-05T00:00:00Z,3,Brackish marsh,within_elevation,4,Salicornia pacifica,Pickleweed,native,2,10,ebb,95,5
+Malibu Lagoon,3,2021-04-05T00:00:00Z,3,Brackish marsh,within_elevation,5,Bolboschoenus maritimus,Alkali bulrush,non-native,10,100,ebb,90,10
+Malibu Lagoon,3,2021-04-05T00:00:00Z,3,Brackish marsh,within_elevation,5,Distichlis spicata,salt grass,native,60,20,ebb,90,10
+Malibu Lagoon,3,2021-04-05T00:00:00Z,3,Brackish marsh,within_elevation,5,Distichlis spicata,salt grass,native,20,15,ebb,90,10
+Malibu Lagoon,3,2021-04-05T00:00:00Z,3,Brackish marsh,within_elevation,5,Frankenia salina,alkali heath,native,30,30,ebb,90,10
+Malibu Lagoon,3,2021-04-05T00:00:00Z,3,Brackish marsh,within_elevation,5,Jaumea carnosa,fleshy jaumea,native,15,10,ebb,90,10
+Malibu Lagoon,3,2021-04-05T00:00:00Z,3,Brackish marsh,within_elevation,5,Salicornia bigelovii,dwarf glasswort,native,15,15,ebb,90,10
+Malibu Lagoon,3,2021-04-05T00:00:00Z,3,Brackish marsh,within_elevation,5,Salicornia pacifica,Pickleweed,native,15,10,ebb,90,10
+Malibu Lagoon,3,2021-04-05T00:00:00Z,3,Brackish marsh,within_elevation,5,Cuscuta salina,salt dodder,native,2,0,ebb,90,10
+Malibu Lagoon,3,2021-10-06T00:00:00Z,3,Brackish marsh,within_elevation,1,Schoenoplectus californicus,southern bulrush,native,40,150,closed,60,40
+Malibu Lagoon,3,2021-10-06T00:00:00Z,3,Brackish marsh,within_elevation,1,Schoenoplectus californicus,southern bulrush,native,20,105,closed,60,40
+Malibu Lagoon,3,2021-10-06T00:00:00Z,3,Brackish marsh,within_elevation,2,Jaumea carnosa,fleshy jaumea,native,25,10,closed,20,80
+Malibu Lagoon,3,2021-10-06T00:00:00Z,3,Brackish marsh,within_elevation,3,Frankenia salina,alkali heath,native,5,10,closed,10,90
+Malibu Lagoon,3,2021-10-06T00:00:00Z,3,Brackish marsh,within_elevation,3,Jaumea carnosa,fleshy jaumea,native,10,5,closed,10,90
+Malibu Lagoon,3,2021-10-06T00:00:00Z,3,Brackish marsh,within_elevation,3,Salicornia pacifica,Pickleweed,native,10,45,closed,10,90
+Malibu Lagoon,3,2021-10-06T00:00:00Z,3,Brackish marsh,within_elevation,3,Schoenoplectus californicus,southern bulrush,native,5,45,closed,10,90
+Malibu Lagoon,3,2021-10-06T00:00:00Z,3,Brackish marsh,within_elevation,4,Schoenoplectus californicus,southern bulrush,native,70,180,closed,95,5
+Malibu Lagoon,3,2021-10-06T00:00:00Z,3,Brackish marsh,within_elevation,4,Jaumea carnosa,fleshy jaumea,native,5,10,closed,95,5
+Malibu Lagoon,3,2021-10-06T00:00:00Z,3,Brackish marsh,within_elevation,4,Salicornia pacifica,Pickleweed,native,80,90,closed,95,5
+Malibu Lagoon,3,2021-10-06T00:00:00Z,3,Brackish marsh,within_elevation,4,Schoenoplectus californicus,southern bulrush,native,15,130,closed,95,5
+Malibu Lagoon,3,2021-10-06T00:00:00Z,3,Brackish marsh,within_elevation,5,Schoenoplectus californicus,southern bulrush,native,60,200,closed,60,40
+Malibu Lagoon,3,2021-10-06T00:00:00Z,3,Brackish marsh,within_elevation,5,Jaumea carnosa,fleshy jaumea,native,25,20,closed,60,40
+Malibu Lagoon,3,2021-10-06T00:00:00Z,3,Brackish marsh,within_elevation,5,Salicornia pacifica,Pickleweed,native,10,60,closed,60,40
+Malibu Lagoon,3,2021-10-06T00:00:00Z,3,Brackish marsh,within_elevation,5,Schoenoplectus californicus,southern bulrush,native,10,120,closed,60,40
+Newport Bay,2,2021-03-19T00:00:00Z,3,Brackish marsh,within_elevation,1,Spartina foliosa,California cordgrass,native,25,50,ebb,50,50
+Newport Bay,2,2021-03-19T00:00:00Z,3,Brackish marsh,within_elevation,1,Batis maritima,saltwort,native,40,20,ebb,50,50
+Newport Bay,2,2021-03-19T00:00:00Z,3,Brackish marsh,within_elevation,1,Jaumea carnosa,fleshy jaumea,native,10,10,ebb,50,50
+Newport Bay,2,2021-03-19T00:00:00Z,3,Brackish marsh,within_elevation,1,Salicornia bigelovii,dwarf glasswort,native,2,10,ebb,50,50
+Newport Bay,2,2021-03-19T00:00:00Z,3,Brackish marsh,within_elevation,1,Salicornia pacifica,Pickleweed,native,25,60,ebb,50,50
+Newport Bay,2,2021-03-19T00:00:00Z,3,Brackish marsh,within_elevation,1,Spartina foliosa,California cordgrass,native,15,40,ebb,50,50
+Newport Bay,2,2021-03-19T00:00:00Z,3,Brackish marsh,within_elevation,2,Spartina foliosa,California cordgrass,native,5,40,ebb,90,10
+Newport Bay,2,2021-03-19T00:00:00Z,3,Brackish marsh,within_elevation,2,Batis maritima,saltwort,native,90,20,ebb,90,10
+Newport Bay,2,2021-03-19T00:00:00Z,3,Brackish marsh,within_elevation,2,Distichlis spicata,salt grass,native,2,50,ebb,90,10
+Newport Bay,2,2021-03-19T00:00:00Z,3,Brackish marsh,within_elevation,2,Jaumea carnosa,fleshy jaumea,native,25,15,ebb,90,10
+Newport Bay,2,2021-03-19T00:00:00Z,3,Brackish marsh,within_elevation,2,Limonium californicum,Western marsh-rosemary,native,10,15,ebb,90,10
+Newport Bay,2,2021-03-19T00:00:00Z,3,Brackish marsh,within_elevation,2,Salicornia pacifica,Pickleweed,native,20,70,ebb,90,10
+Newport Bay,2,2021-03-19T00:00:00Z,3,Brackish marsh,within_elevation,2,Spartina foliosa,California cordgrass,native,2,30,ebb,90,10
+Newport Bay,2,2021-03-19T00:00:00Z,3,Brackish marsh,within_elevation,3,Batis maritima,saltwort,native,30,30,ebb,60,40
+Newport Bay,2,2021-03-19T00:00:00Z,3,Brackish marsh,within_elevation,3,Jaumea carnosa,fleshy jaumea,native,5,10,ebb,60,40
+Newport Bay,2,2021-03-19T00:00:00Z,3,Brackish marsh,within_elevation,3,Salicornia bigelovii,dwarf glasswort,native,5,10,ebb,60,40
+Newport Bay,2,2021-03-19T00:00:00Z,3,Brackish marsh,within_elevation,3,Salicornia pacifica,Pickleweed,native,15,45,ebb,60,40
+Newport Bay,2,2021-03-19T00:00:00Z,3,Brackish marsh,within_elevation,3,Spartina foliosa,California cordgrass,native,2,30,ebb,60,40
+Newport Bay,2,2021-03-19T00:00:00Z,3,Brackish marsh,within_elevation,3,Schoenoplectus californicus,southern bulrush,native,25,130,ebb,60,40
+Newport Bay,2,2021-03-19T00:00:00Z,3,Brackish marsh,within_elevation,4,Spartina foliosa,California cordgrass,native,5,65,ebb,90,10
+Newport Bay,2,2021-03-19T00:00:00Z,3,Brackish marsh,within_elevation,4,Batis maritima,saltwort,native,50,25,ebb,90,10
+Newport Bay,2,2021-03-19T00:00:00Z,3,Brackish marsh,within_elevation,4,Jaumea carnosa,fleshy jaumea,native,25,15,ebb,90,10
+Newport Bay,2,2021-03-19T00:00:00Z,3,Brackish marsh,within_elevation,4,Salicornia pacifica,Pickleweed,native,10,20,ebb,90,10
+Newport Bay,2,2021-03-19T00:00:00Z,3,Brackish marsh,within_elevation,4,Spartina foliosa,California cordgrass,native,5,30,ebb,90,10
+Newport Bay,2,2021-03-19T00:00:00Z,3,Brackish marsh,within_elevation,5,Spartina foliosa,California cordgrass,native,2,60,ebb,75,25
+Newport Bay,2,2021-03-19T00:00:00Z,3,Brackish marsh,within_elevation,5,Batis maritima,saltwort,native,20,10,ebb,75,25
+Newport Bay,2,2021-03-19T00:00:00Z,3,Brackish marsh,within_elevation,5,Jaumea carnosa,fleshy jaumea,native,5,10,ebb,75,25
+Newport Bay,2,2021-03-19T00:00:00Z,3,Brackish marsh,within_elevation,5,Salicornia pacifica,Pickleweed,native,40,10,ebb,75,25
+Newport Bay,2,2021-03-19T00:00:00Z,3,Brackish marsh,within_elevation,5,Schoenoplectus californicus,southern bulrush,native,25,110,ebb,75,25
+Newport Bay,2,2021-03-19T00:00:00Z,3,Brackish marsh,within_elevation,5,Spartina foliosa,California cordgrass,native,2,40,ebb,75,25
+Newport Bay,2,2021-09-24T00:00:00Z,3,Brackish marsh,within_elevation,1,Batis maritima,saltwort,native,20,30,high,70,30
+Newport Bay,2,2021-09-24T00:00:00Z,3,Brackish marsh,within_elevation,1,Salicornia pacifica,Pickleweed,native,40,60,high,70,30
+Newport Bay,2,2021-09-24T00:00:00Z,3,Brackish marsh,within_elevation,1,Schoenoplectus californicus,southern bulrush,native,25,170,high,70,30
+Newport Bay,2,2021-09-24T00:00:00Z,3,Brackish marsh,within_elevation,1,Spartina foliosa,California cordgrass,native,5,120,high,70,30
+Newport Bay,2,2021-09-24T00:00:00Z,3,Brackish marsh,within_elevation,2,Schoenoplectus californicus,southern bulrush,native,25,50,high,40,60
+Newport Bay,2,2021-09-24T00:00:00Z,3,Brackish marsh,within_elevation,2,Batis maritima,saltwort,native,10,25,high,40,60
+Newport Bay,2,2021-09-24T00:00:00Z,3,Brackish marsh,within_elevation,2,Salicornia pacifica,Pickleweed,native,40,50,high,40,60
+Newport Bay,2,2021-09-24T00:00:00Z,3,Brackish marsh,within_elevation,2,Schoenoplectus californicus,southern bulrush,native,5,110,high,40,60
+Newport Bay,2,2021-09-24T00:00:00Z,3,Brackish marsh,within_elevation,3,Schoenoplectus californicus,southern bulrush,native,20,80,high,40,60
+Newport Bay,2,2021-09-24T00:00:00Z,3,Brackish marsh,within_elevation,3,Schoenoplectus californicus,southern bulrush,native,20,150,high,40,60
+Newport Bay,2,2021-09-24T00:00:00Z,3,Brackish marsh,within_elevation,4,Schoenoplectus californicus,southern bulrush,native,20,120,high,90,10
+Newport Bay,2,2021-09-24T00:00:00Z,3,Brackish marsh,within_elevation,4,Batis maritima,saltwort,native,50,30,high,90,10
+Newport Bay,2,2021-09-24T00:00:00Z,3,Brackish marsh,within_elevation,4,Salicornia pacifica,Pickleweed,native,40,60,high,90,10
+Newport Bay,2,2021-09-24T00:00:00Z,3,Brackish marsh,within_elevation,4,Schoenoplectus californicus,southern bulrush,native,25,150,high,90,10
+Newport Bay,2,2021-09-24T00:00:00Z,3,Brackish marsh,within_elevation,5,Schoenoplectus californicus,southern bulrush,native,20,140,high,70,30
+Newport Bay,2,2021-09-24T00:00:00Z,3,Brackish marsh,within_elevation,5,Schoenoplectus californicus,southern bulrush,native,30,180,high,70,30
+Ventura River,1,2021-09-22T00:00:00Z,2,Brackish marsh,within_elevation,1,Schoenoplectus californicus,southern bulrush,native,100,200,closed,100,0
+Ventura River,1,2021-09-22T00:00:00Z,2,Brackish marsh,within_elevation,2,Schoenoplectus californicus,southern bulrush,native,100,200,closed,100,0
+Ventura River,1,2021-09-22T00:00:00Z,2,Brackish marsh,within_elevation,3,Schoenoplectus californicus,southern bulrush,native,100,200,closed,100,0
+Ventura River,1,2021-09-22T00:00:00Z,2,Brackish marsh,within_elevation,4,Schoenoplectus californicus,southern bulrush,native,100,200,closed,100,0
+Ventura River,1,2021-09-22T00:00:00Z,2,Brackish marsh,within_elevation,5,Schoenoplectus californicus,southern bulrush,native,100,200,closed,100,0
+Batiquitos Lagoon,1,2021-04-11T00:00:00Z,2,High marsh,within_elevation,1,Distichlis spicata,salt grass,native,10,15,ebb,20,80
+Batiquitos Lagoon,1,2021-04-11T00:00:00Z,2,High marsh,within_elevation,1,Frankenia salina,alkali heath,native,30,40,ebb,20,80
+Batiquitos Lagoon,1,2021-04-11T00:00:00Z,2,High marsh,within_elevation,1,Salicornia bigelovii,dwarf glasswort,native,2,3,ebb,20,80
+Batiquitos Lagoon,1,2021-04-11T00:00:00Z,2,High marsh,within_elevation,1,Salicornia pacifica,Pickleweed,native,10,15,ebb,20,80
+Batiquitos Lagoon,1,2021-04-11T00:00:00Z,2,High marsh,within_elevation,2,Distichlis spicata,salt grass,native,15,20,ebb,90,10
+Batiquitos Lagoon,1,2021-04-11T00:00:00Z,2,High marsh,within_elevation,2,Frankenia salina,alkali heath,native,15,40,ebb,90,10
+Batiquitos Lagoon,1,2021-04-11T00:00:00Z,2,High marsh,within_elevation,2,Salicornia pacifica,Pickleweed,native,30,35,ebb,90,10
+Batiquitos Lagoon,1,2021-04-11T00:00:00Z,2,High marsh,within_elevation,3,Salicornia pacifica,Pickleweed,native,50,30,ebb,60,40
+Batiquitos Lagoon,1,2021-04-11T00:00:00Z,2,High marsh,within_elevation,4,Frankenia salina,alkali heath,native,2,35,ebb,85,15
+Batiquitos Lagoon,1,2021-04-11T00:00:00Z,2,High marsh,within_elevation,4,Jaumea carnosa,fleshy jaumea,native,25,10,ebb,85,15
+Batiquitos Lagoon,1,2021-04-11T00:00:00Z,2,High marsh,within_elevation,4,Salicornia pacifica,Pickleweed,native,70,50,ebb,85,15
+Batiquitos Lagoon,1,2021-04-11T00:00:00Z,2,High marsh,within_elevation,5,Salicornia pacifica,Pickleweed,native,50,0,ebb,75,25
+Batiquitos Lagoon,2,2021-04-11T00:00:00Z,3,High marsh,within_elevation,1,Salicornia pacifica,Pickleweed,native,70,41,ebb,95,5
+Batiquitos Lagoon,2,2021-04-11T00:00:00Z,3,High marsh,within_elevation,2,Frankenia salina,alkali heath,native,30,20,ebb,95,5
+Batiquitos Lagoon,2,2021-04-11T00:00:00Z,3,High marsh,within_elevation,2,Salicornia pacifica,Pickleweed,native,60,41,ebb,95,5
+Batiquitos Lagoon,2,2021-04-11T00:00:00Z,3,High marsh,within_elevation,3,Frankenia salina,alkali heath,native,5,20,ebb,100,0
+Batiquitos Lagoon,2,2021-04-11T00:00:00Z,3,High marsh,within_elevation,3,Salicornia pacifica,Pickleweed,native,10,62,ebb,100,0
+Batiquitos Lagoon,2,2021-04-11T00:00:00Z,3,High marsh,within_elevation,3,Frankenia salina,alkali heath,native,60,28,ebb,100,0
+Batiquitos Lagoon,2,2021-04-11T00:00:00Z,3,High marsh,within_elevation,3,Bromus diandrus,ripgut grass,non-native,5,37,ebb,100,0
+Batiquitos Lagoon,2,2021-04-11T00:00:00Z,3,High marsh,within_elevation,3,Salicornia pacifica,Pickleweed,native,30,54,ebb,100,0
+Batiquitos Lagoon,2,2021-04-11T00:00:00Z,3,High marsh,within_elevation,4,Bromus diandrus,ripgut grass,non-native,30,54,ebb,100,0
+Batiquitos Lagoon,2,2021-04-11T00:00:00Z,3,High marsh,within_elevation,4,Frankenia salina,alkali heath,native,20,22,ebb,100,0
+Batiquitos Lagoon,2,2021-04-11T00:00:00Z,3,High marsh,within_elevation,4,Salicornia pacifica,Pickleweed,native,20,46,ebb,100,0
+Batiquitos Lagoon,2,2021-04-11T00:00:00Z,3,High marsh,within_elevation,5,Bromus diandrus,ripgut grass,non-native,2,31,ebb,100,0
+Batiquitos Lagoon,2,2021-04-11T00:00:00Z,3,High marsh,within_elevation,5,Frankenia salina,alkali heath,native,60,36,ebb,100,0
+Batiquitos Lagoon,2,2021-04-11T00:00:00Z,3,High marsh,within_elevation,5,Salicornia pacifica,Pickleweed,native,70,55,ebb,100,0
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,3,Brackish marsh,within_elevation,1,Salicornia pacifica,Pickleweed,native,3,50,high,55,45
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,3,Brackish marsh,within_elevation,1,Schoenoplectus californicus,southern bulrush,native,15,128,high,55,45
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,3,Brackish marsh,within_elevation,1,Spartina foliosa,California cordgrass,native,3,89,high,55,45
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,3,Brackish marsh,within_elevation,1,Salicornia pacifica,Pickleweed,native,5,30,high,55,45
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,3,Brackish marsh,within_elevation,1,Schoenoplectus californicus,southern bulrush,native,20,127,high,55,45
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,3,Brackish marsh,within_elevation,1,Spartina foliosa,California cordgrass,native,10,103,high,55,45
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,3,Brackish marsh,within_elevation,2,Salicornia pacifica,Pickleweed,native,1,48,high,20,80
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,3,Brackish marsh,within_elevation,2,Spartina foliosa,California cordgrass,native,5,86,high,20,80
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,3,Brackish marsh,within_elevation,2,Salicornia pacifica,Pickleweed,native,7,55,high,20,80
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,3,Brackish marsh,within_elevation,2,Spartina foliosa,California cordgrass,native,45,106,high,20,80
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,3,Brackish marsh,within_elevation,3,Salicornia pacifica,Pickleweed,native,5,36,high,55,45
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,3,Brackish marsh,within_elevation,3,Schoenoplectus californicus,southern bulrush,native,25,142,high,55,45
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,3,Brackish marsh,within_elevation,3,Spartina foliosa,California cordgrass,native,1,29,high,55,45
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,3,Brackish marsh,within_elevation,3,Salicornia pacifica,Pickleweed,native,1,28,high,55,45
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,3,Brackish marsh,within_elevation,3,Schoenoplectus californicus,southern bulrush,native,15,141,high,55,45
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,3,Brackish marsh,within_elevation,3,Spartina foliosa,California cordgrass,native,10,82,high,55,45
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,3,Brackish marsh,within_elevation,4,Schoenoplectus californicus,southern bulrush,native,3,108,high,63,37
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,3,Brackish marsh,within_elevation,4,Spartina foliosa,California cordgrass,native,5,36,high,63,37
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,3,Brackish marsh,within_elevation,4,Schoenoplectus californicus,southern bulrush,native,5,112,high,63,37
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,3,Brackish marsh,within_elevation,4,Spartina foliosa,California cordgrass,native,50,113,high,63,37
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,3,Brackish marsh,within_elevation,5,Schoenoplectus californicus,southern bulrush,native,20,152,high,30,70
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,3,Brackish marsh,within_elevation,5,Spartina foliosa,California cordgrass,native,1,93,high,30,70
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,3,Brackish marsh,within_elevation,5,Schoenoplectus californicus,southern bulrush,native,5,153,high,30,70
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,3,Brackish marsh,within_elevation,5,Spartina foliosa,California cordgrass,native,5,78,high,30,70
+Batiquitos Lagoon,1,2021-10-18T00:00:00Z,2,High marsh,within_elevation,1,Jaumea carnosa,fleshy jaumea,native,2,23,high,95,5
+Batiquitos Lagoon,1,2021-10-18T00:00:00Z,2,High marsh,within_elevation,1,Salicornia pacifica,Pickleweed,native,90,45,high,95,5
+Batiquitos Lagoon,1,2021-10-18T00:00:00Z,2,High marsh,within_elevation,2,Salicornia pacifica,Pickleweed,native,90,53,high,90,10
+Batiquitos Lagoon,1,2021-10-18T00:00:00Z,2,High marsh,within_elevation,3,Frankenia salina,alkali heath,native,80,39,high,100,0
+Batiquitos Lagoon,1,2021-10-18T00:00:00Z,2,High marsh,within_elevation,3,Salicornia pacifica,Pickleweed,native,10,70,high,100,0
+Batiquitos Lagoon,1,2021-10-18T00:00:00Z,2,High marsh,within_elevation,4,Frankenia salina,alkali heath,native,40,9,high,95,5
+Batiquitos Lagoon,1,2021-10-18T00:00:00Z,2,High marsh,within_elevation,4,Salicornia pacifica,Pickleweed,native,40,42,high,95,5
+Batiquitos Lagoon,1,2021-10-18T00:00:00Z,2,High marsh,within_elevation,5,Distichlis spicata,salt grass,native,2,27,high,100,0
+Batiquitos Lagoon,1,2021-10-18T00:00:00Z,2,High marsh,within_elevation,5,Frankenia salina,alkali heath,native,90,25,high,100,0
+Batiquitos Lagoon,1,2021-10-18T00:00:00Z,2,High marsh,within_elevation,5,Salicornia pacifica,Pickleweed,native,10,45,high,100,0
+Goleta Slough,2,2021-03-23T00:00:00Z,3,High marsh,within_elevation,1,Atriplex lentiformis,goosefoot,native,15,42,ebb,95,5
+Goleta Slough,2,2021-03-23T00:00:00Z,3,High marsh,within_elevation,1,Stipa pulchra,purple needle grass,native,50,27,ebb,95,5
+Goleta Slough,2,2021-03-23T00:00:00Z,3,High marsh,within_elevation,2,Stipa pulchra,purple needle grass,native,30,23,ebb,90,10
+Goleta Slough,2,2021-03-23T00:00:00Z,3,High marsh,within_elevation,3,Stipa pulchra,purple needle grass,native,55,18,ebb,85,15
+Goleta Slough,2,2021-03-23T00:00:00Z,3,High marsh,within_elevation,4,Stipa pulchra,purple needle grass,native,50,20,ebb,98,2
+Goleta Slough,2,2021-03-23T00:00:00Z,3,High marsh,within_elevation,5,Stipa pulchra,purple needle grass,native,55,23,ebb,95,5
+Goleta Slough,3,2021-03-24T00:00:00Z,3,High marsh,within_elevation,1,Arthrocnemum subterminale,Parish's glasswort,native,5,43,ebb,100,0
+Goleta Slough,3,2021-03-24T00:00:00Z,3,High marsh,within_elevation,1,Arthrocnemum subterminale,Parish's glasswort,native,25,44,ebb,100,0
+Goleta Slough,3,2021-03-24T00:00:00Z,3,High marsh,within_elevation,1,Jaumea carnosa,fleshy jaumea,native,65,19,ebb,100,0
+Goleta Slough,3,2021-03-24T00:00:00Z,3,High marsh,within_elevation,2,Arthrocnemum subterminale,Parish's glasswort,native,30,30,ebb,100,0
+Goleta Slough,3,2021-03-24T00:00:00Z,3,High marsh,within_elevation,2,Jaumea carnosa,fleshy jaumea,native,25,16,ebb,100,0
+Goleta Slough,3,2021-03-24T00:00:00Z,3,High marsh,within_elevation,3,Carpobrotus edulis,iceplant,non-native,5,0,ebb,100,0
+Goleta Slough,3,2021-03-24T00:00:00Z,3,High marsh,within_elevation,3,Suaeda esteroa,estuary seablite,native,5,36,ebb,100,0
+Goleta Slough,3,2021-03-24T00:00:00Z,3,High marsh,within_elevation,3,Arthrocnemum subterminale,Parish's glasswort,native,5,40,ebb,100,0
+Goleta Slough,3,2021-03-24T00:00:00Z,3,High marsh,within_elevation,3,Carpobrotus edulis,iceplant,non-native,40,16,ebb,100,0
+Goleta Slough,3,2021-03-24T00:00:00Z,3,High marsh,within_elevation,3,Suaeda esteroa,estuary seablite,native,10,45,ebb,100,0
+Goleta Slough,3,2021-03-24T00:00:00Z,3,High marsh,within_elevation,3,Jaumea carnosa,fleshy jaumea,native,35,18,ebb,100,0
+Goleta Slough,3,2021-03-24T00:00:00Z,3,High marsh,within_elevation,4,Suaeda esteroa,estuary seablite,native,10,38,ebb,100,0
+Goleta Slough,3,2021-03-24T00:00:00Z,3,High marsh,within_elevation,4,Jaumea carnosa,fleshy jaumea,native,40,23,ebb,100,0
+Goleta Slough,3,2021-03-24T00:00:00Z,3,High marsh,within_elevation,4,Suaeda esteroa,estuary seablite,native,90,78,ebb,100,0
+Goleta Slough,3,2021-03-24T00:00:00Z,3,High marsh,within_elevation,4,Arthrocnemum subterminale,Parish's glasswort,native,5,40,ebb,100,0
+Goleta Slough,3,2021-03-24T00:00:00Z,3,High marsh,within_elevation,4,Carpobrotus edulis,iceplant,non-native,10,20,ebb,100,0
+Goleta Slough,3,2021-03-24T00:00:00Z,3,High marsh,within_elevation,4,Cuscuta salina,salt dodder,native,45,22,ebb,100,0
+Goleta Slough,2,2021-09-20T00:00:00Z,3,High marsh,within_elevation,1,Distichlis spicata,salt grass,native,10,10,high,60,40
+Goleta Slough,2,2021-09-20T00:00:00Z,3,High marsh,within_elevation,1,Salicornia pacifica,Pickleweed,native,10,10,high,60,40
+Goleta Slough,2,2021-09-20T00:00:00Z,3,High marsh,within_elevation,2,Heterotheca grandiflora,telegraph weed,native,2,10,high,90,10
+Goleta Slough,2,2021-09-20T00:00:00Z,3,High marsh,within_elevation,4,Distichlis spicata,salt grass,native,5,20,high,95,5
+Goleta Slough,2,2021-09-20T00:00:00Z,3,High marsh,within_elevation,4,Heterotheca grandiflora,telegraph weed,native,20,40,high,95,5
+Goleta Slough,2,2021-09-20T00:00:00Z,3,High marsh,within_elevation,5,Distichlis littoralis,shore grass,native,10,2,high,5,95
+Newport Bay,1,2021-03-18T00:00:00Z,3,High marsh,within_elevation,1,Salicornia bigelovii,dwarf glasswort,native,10,20,ebb,60,40
+Newport Bay,1,2021-03-18T00:00:00Z,3,High marsh,within_elevation,1,Batis maritima,saltwort,native,60,5,ebb,60,40
+Newport Bay,1,2021-03-18T00:00:00Z,3,High marsh,within_elevation,1,Limonium californicum,Western marsh-rosemary,native,2,10,ebb,60,40
+Newport Bay,1,2021-03-18T00:00:00Z,3,High marsh,within_elevation,1,Salicornia bigelovii,dwarf glasswort,native,80,15,ebb,60,40
+Newport Bay,1,2021-03-18T00:00:00Z,3,High marsh,within_elevation,1,Salicornia pacifica,Pickleweed,native,10,20,ebb,60,40
+Newport Bay,1,2021-03-18T00:00:00Z,3,High marsh,within_elevation,2,Salicornia pacifica,Pickleweed,native,20,20,ebb,90,10
+Newport Bay,1,2021-03-18T00:00:00Z,3,High marsh,within_elevation,2,Batis maritima,saltwort,native,60,5,ebb,90,10
+Newport Bay,1,2021-03-18T00:00:00Z,3,High marsh,within_elevation,2,Frankenia salina,alkali heath,native,20,15,ebb,90,10
+Newport Bay,1,2021-03-18T00:00:00Z,3,High marsh,within_elevation,2,Salicornia pacifica,Pickleweed,native,70,10,ebb,90,10
+Newport Bay,1,2021-03-18T00:00:00Z,3,High marsh,within_elevation,3,Batis maritima,saltwort,native,2,5,ebb,80,20
+Newport Bay,1,2021-03-18T00:00:00Z,3,High marsh,within_elevation,3,Frankenia salina,alkali heath,native,60,10,ebb,80,20
+Newport Bay,1,2021-03-18T00:00:00Z,3,High marsh,within_elevation,3,Jaumea carnosa,fleshy jaumea,native,15,3,ebb,80,20
+Newport Bay,1,2021-03-18T00:00:00Z,3,High marsh,within_elevation,3,Limonium californicum,Western marsh-rosemary,native,5,15,ebb,80,20
+Newport Bay,1,2021-03-18T00:00:00Z,3,High marsh,within_elevation,3,Salicornia bigelovii,dwarf glasswort,native,5,2,ebb,80,20
+Newport Bay,1,2021-03-18T00:00:00Z,3,High marsh,within_elevation,3,Salicornia pacifica,Pickleweed,native,5,10,ebb,80,20
+Newport Bay,1,2021-03-18T00:00:00Z,3,High marsh,within_elevation,3,Triglochin concinna,arrow grass,native,2,6,ebb,80,20
+Newport Bay,1,2021-03-18T00:00:00Z,3,High marsh,within_elevation,4,Salicornia bigelovii,dwarf glasswort,native,2,15,ebb,75,25
+Newport Bay,1,2021-03-18T00:00:00Z,3,High marsh,within_elevation,4,Batis maritima,saltwort,native,2,5,ebb,75,25
+Newport Bay,1,2021-03-18T00:00:00Z,3,High marsh,within_elevation,4,Frankenia salina,alkali heath,native,75,10,ebb,75,25
+Newport Bay,1,2021-03-18T00:00:00Z,3,High marsh,within_elevation,4,Salicornia bigelovii,dwarf glasswort,native,5,5,ebb,75,25
+Newport Bay,1,2021-03-18T00:00:00Z,3,High marsh,within_elevation,4,Salicornia pacifica,Pickleweed,native,10,10,ebb,75,25
+Newport Bay,1,2021-03-18T00:00:00Z,3,High marsh,within_elevation,4,Limonium californicum,Western marsh-rosemary,native,20,20,ebb,75,25
+Newport Bay,1,2021-03-18T00:00:00Z,3,High marsh,within_elevation,4,Suaeda esteroa,estuary seablite,native,2,10,ebb,75,25
+Newport Bay,1,2021-03-18T00:00:00Z,3,High marsh,within_elevation,4,Triglochin concinna,arrow grass,native,5,5,ebb,75,25
+Newport Bay,1,2021-03-18T00:00:00Z,3,High marsh,within_elevation,5,Distichlis littoralis,shore grass,native,75,15,ebb,60,40
+Newport Bay,1,2021-03-18T00:00:00Z,3,High marsh,within_elevation,5,Frankenia salina,alkali heath,native,5,5,ebb,60,40
+Newport Bay,1,2021-03-18T00:00:00Z,3,High marsh,within_elevation,5,Jaumea carnosa,fleshy jaumea,native,20,15,ebb,60,40
+Newport Bay,1,2021-03-18T00:00:00Z,3,High marsh,within_elevation,5,Limonium californicum,Western marsh-rosemary,native,20,15,ebb,60,40
+Newport Bay,1,2021-03-18T00:00:00Z,3,High marsh,within_elevation,5,Salicornia pacifica,Pickleweed,native,2,20,ebb,60,40
+Newport Bay,1,2021-03-18T00:00:00Z,3,High marsh,within_elevation,5,Suaeda esteroa,estuary seablite,native,2,15,ebb,60,40
+Newport Bay,1,2021-03-18T00:00:00Z,3,High marsh,within_elevation,5,Triglochin concinna,arrow grass,native,10,5,ebb,60,40
+Newport Bay,3,2021-03-18T00:00:00Z,3,High marsh,within_elevation,1,Salicornia bigelovii,dwarf glasswort,native,20,25,ebb,95,5
+Newport Bay,3,2021-03-18T00:00:00Z,3,High marsh,within_elevation,1,Batis maritima,saltwort,native,75,10,ebb,95,5
+Newport Bay,3,2021-03-18T00:00:00Z,3,High marsh,within_elevation,1,Salicornia bigelovii,dwarf glasswort,native,80,5,ebb,95,5
+Newport Bay,3,2021-03-18T00:00:00Z,3,High marsh,within_elevation,1,Salicornia pacifica,Pickleweed,native,10,30,ebb,95,5
+Newport Bay,3,2021-03-18T00:00:00Z,3,High marsh,within_elevation,2,Salicornia bigelovii,dwarf glasswort,native,60,25,ebb,95,5
+Newport Bay,3,2021-03-18T00:00:00Z,3,High marsh,within_elevation,2,Batis maritima,saltwort,native,75,20,ebb,95,5
+Newport Bay,3,2021-03-18T00:00:00Z,3,High marsh,within_elevation,2,Salicornia bigelovii,dwarf glasswort,native,80,5,ebb,95,5
+Newport Bay,3,2021-03-18T00:00:00Z,3,High marsh,within_elevation,2,Salicornia pacifica,Pickleweed,native,30,30,ebb,95,5
+Newport Bay,3,2021-03-18T00:00:00Z,3,High marsh,within_elevation,3,Salicornia bigelovii,dwarf glasswort,native,15,30,ebb,90,10
+Newport Bay,3,2021-03-18T00:00:00Z,3,High marsh,within_elevation,3,Batis maritima,saltwort,native,75,15,ebb,90,10
+Newport Bay,3,2021-03-18T00:00:00Z,3,High marsh,within_elevation,3,Limonium californicum,Western marsh-rosemary,native,2,15,ebb,90,10
+Newport Bay,3,2021-03-18T00:00:00Z,3,High marsh,within_elevation,3,Salicornia bigelovii,dwarf glasswort,native,50,5,ebb,90,10
+Newport Bay,3,2021-03-18T00:00:00Z,3,High marsh,within_elevation,3,Salicornia pacifica,Pickleweed,native,15,30,ebb,90,10
+Newport Bay,3,2021-03-18T00:00:00Z,3,High marsh,within_elevation,3,Suaeda esteroa,estuary seablite,native,2,20,ebb,90,10
+Newport Bay,3,2021-03-18T00:00:00Z,3,High marsh,within_elevation,4,Salicornia bigelovii,dwarf glasswort,native,40,25,ebb,95,5
+Newport Bay,3,2021-03-18T00:00:00Z,3,High marsh,within_elevation,4,Batis maritima,saltwort,native,80,15,ebb,95,5
+Newport Bay,3,2021-03-18T00:00:00Z,3,High marsh,within_elevation,4,Salicornia bigelovii,dwarf glasswort,native,60,5,ebb,95,5
+Newport Bay,3,2021-03-18T00:00:00Z,3,High marsh,within_elevation,4,Salicornia pacifica,Pickleweed,native,15,25,ebb,95,5
+Newport Bay,3,2021-03-18T00:00:00Z,3,High marsh,within_elevation,4,Suaeda esteroa,estuary seablite,native,2,10,ebb,95,5
+Newport Bay,3,2021-03-18T00:00:00Z,3,High marsh,within_elevation,5,Salicornia bigelovii,dwarf glasswort,native,40,35,ebb,95,5
+Newport Bay,3,2021-03-18T00:00:00Z,3,High marsh,within_elevation,5,Batis maritima,saltwort,native,60,20,ebb,95,5
+Newport Bay,3,2021-03-18T00:00:00Z,3,High marsh,within_elevation,5,Distichlis littoralis,shore grass,native,50,20,ebb,95,5
+Newport Bay,3,2021-03-18T00:00:00Z,3,High marsh,within_elevation,5,Salicornia bigelovii,dwarf glasswort,native,60,10,ebb,95,5
+Newport Bay,3,2021-03-18T00:00:00Z,3,High marsh,within_elevation,5,Salicornia pacifica,Pickleweed,native,25,40,ebb,95,5
+Newport Bay,3,2021-09-25T00:00:00Z,3,Mid marsh,within_elevation,1,Salicornia bigelovii,dwarf glasswort,native,5,20,high,95,5
+Newport Bay,3,2021-09-25T00:00:00Z,3,Mid marsh,within_elevation,1,Batis maritima,saltwort,native,40,10,high,95,5
+Newport Bay,3,2021-09-25T00:00:00Z,3,Mid marsh,within_elevation,1,Distichlis spicata,salt grass,native,10,15,high,95,5
+Newport Bay,3,2021-09-25T00:00:00Z,3,Mid marsh,within_elevation,1,Jaumea carnosa,fleshy jaumea,native,30,8,high,95,5
+Newport Bay,3,2021-09-25T00:00:00Z,3,Mid marsh,within_elevation,1,Limonium californicum,Western marsh-rosemary,native,5,10,high,95,5
+Newport Bay,3,2021-09-25T00:00:00Z,3,Mid marsh,within_elevation,1,Salicornia bigelovii,dwarf glasswort,native,10,25,high,95,5
+Newport Bay,3,2021-09-25T00:00:00Z,3,Mid marsh,within_elevation,1,Spartina foliosa,California cordgrass,native,20,30,high,95,5
+Newport Bay,3,2021-09-25T00:00:00Z,3,Mid marsh,within_elevation,2,Batis maritima,saltwort,native,30,15,high,70,30
+Newport Bay,3,2021-09-25T00:00:00Z,3,Mid marsh,within_elevation,2,Jaumea carnosa,fleshy jaumea,native,10,10,high,70,30
+Newport Bay,3,2021-09-25T00:00:00Z,3,Mid marsh,within_elevation,2,Salicornia bigelovii,dwarf glasswort,native,25,20,high,70,30
+Newport Bay,3,2021-09-25T00:00:00Z,3,Mid marsh,within_elevation,2,Salicornia pacifica,Pickleweed,native,40,30,high,70,30
+Newport Bay,3,2021-09-25T00:00:00Z,3,Mid marsh,within_elevation,2,Spartina foliosa,California cordgrass,native,5,65,high,70,30
+Newport Bay,3,2021-09-25T00:00:00Z,3,Mid marsh,within_elevation,3,Salicornia bigelovii,dwarf glasswort,native,10,10,high,98,2
+Newport Bay,3,2021-09-25T00:00:00Z,3,Mid marsh,within_elevation,3,Jaumea carnosa,fleshy jaumea,native,10,20,high,98,2
+Newport Bay,3,2021-09-25T00:00:00Z,3,Mid marsh,within_elevation,3,Salicornia bigelovii,dwarf glasswort,native,30,15,high,98,2
+Newport Bay,3,2021-09-25T00:00:00Z,3,Mid marsh,within_elevation,3,Salicornia pacifica,Pickleweed,native,90,50,high,98,2
+Newport Bay,3,2021-09-25T00:00:00Z,3,Mid marsh,within_elevation,3,Spartina foliosa,California cordgrass,native,2,40,high,98,2
+Newport Bay,3,2021-09-25T00:00:00Z,3,Mid marsh,within_elevation,4,Salicornia bigelovii,dwarf glasswort,native,20,10,high,95,5
+Newport Bay,3,2021-09-25T00:00:00Z,3,Mid marsh,within_elevation,4,Batis maritima,saltwort,native,10,15,high,95,5
+Newport Bay,3,2021-09-25T00:00:00Z,3,Mid marsh,within_elevation,4,Jaumea carnosa,fleshy jaumea,native,20,20,high,95,5
+Newport Bay,3,2021-09-25T00:00:00Z,3,Mid marsh,within_elevation,4,Salicornia bigelovii,dwarf glasswort,native,30,20,high,95,5
+Newport Bay,3,2021-09-25T00:00:00Z,3,Mid marsh,within_elevation,4,Salicornia pacifica,Pickleweed,native,60,40,high,95,5
+Newport Bay,3,2021-09-25T00:00:00Z,3,Mid marsh,within_elevation,4,Spartina foliosa,California cordgrass,native,10,70,high,95,5
+Newport Bay,3,2021-09-25T00:00:00Z,3,Mid marsh,within_elevation,5,Salicornia bigelovii,dwarf glasswort,native,2,10,high,95,5
+Newport Bay,3,2021-09-25T00:00:00Z,3,Mid marsh,within_elevation,5,Batis maritima,saltwort,native,30,15,high,95,5
+Newport Bay,3,2021-09-25T00:00:00Z,3,Mid marsh,within_elevation,5,Jaumea carnosa,fleshy jaumea,native,60,15,high,95,5
+Newport Bay,3,2021-09-25T00:00:00Z,3,Mid marsh,within_elevation,5,Salicornia bigelovii,dwarf glasswort,native,10,20,high,95,5
+Newport Bay,3,2021-09-25T00:00:00Z,3,Mid marsh,within_elevation,5,Salicornia pacifica,Pickleweed,native,20,30,high,95,5
+Newport Bay,3,2021-09-25T00:00:00Z,3,Mid marsh,within_elevation,5,Spartina foliosa,California cordgrass,native,10,45,high,95,5
+Ventura River,1,2021-03-29T00:00:00Z,3,High marsh,within_elevation,1,Typha latifolia,broad-leaved cattail,native,5,64,ebb,5,95
+Ventura River,1,2021-03-29T00:00:00Z,3,High marsh,within_elevation,2,Typha latifolia,broad-leaved cattail,native,5,91,ebb,70,30
+Ventura River,1,2021-03-29T00:00:00Z,3,High marsh,within_elevation,2,Typha latifolia,broad-leaved cattail,native,50,127,ebb,70,30
+Ventura River,1,2021-03-29T00:00:00Z,3,High marsh,within_elevation,3,Typha latifolia,broad-leaved cattail,native,30,155,ebb,80,20
+Ventura River,1,2021-03-29T00:00:00Z,3,High marsh,within_elevation,3,Typha latifolia,broad-leaved cattail,native,30,131,ebb,80,20
+Ventura River,1,2021-03-29T00:00:00Z,3,High marsh,within_elevation,4,Typha latifolia,broad-leaved cattail,native,30,55,ebb,90,10
+Ventura River,1,2021-03-29T00:00:00Z,3,High marsh,within_elevation,4,Typha latifolia,broad-leaved cattail,native,25,106,ebb,90,10
+Ventura River,1,2021-03-29T00:00:00Z,3,High marsh,within_elevation,5,Typha latifolia,broad-leaved cattail,native,5,147,ebb,5,95
+Ventura River,1,2021-03-29T00:00:00Z,3,High marsh,within_elevation,5,Typha latifolia,broad-leaved cattail,native,5,28,ebb,5,95
+Ventura River,3,2021-03-29T00:00:00Z,3,High marsh,within_elevation,1,Typha latifolia,broad-leaved cattail,native,15,161,ebb,70,30
+Ventura River,3,2021-03-29T00:00:00Z,3,High marsh,within_elevation,1,Atriplex prostrata,fat hen,non-native,5,6,ebb,70,30
+Ventura River,3,2021-03-29T00:00:00Z,3,High marsh,within_elevation,1,Typha latifolia,broad-leaved cattail,native,15,54,ebb,70,30
+Ventura River,3,2021-03-29T00:00:00Z,3,High marsh,within_elevation,2,Typha latifolia,broad-leaved cattail,native,5,134,ebb,15,85
+Ventura River,3,2021-03-29T00:00:00Z,3,High marsh,within_elevation,2,Typha latifolia,broad-leaved cattail,native,20,22,ebb,15,85
+Ventura River,3,2021-03-29T00:00:00Z,3,High marsh,within_elevation,3,Typha latifolia,broad-leaved cattail,native,2,163,ebb,75,25
+Ventura River,3,2021-03-29T00:00:00Z,3,High marsh,within_elevation,3,Atriplex prostrata,fat hen,non-native,5,4,ebb,75,25
+Ventura River,3,2021-03-29T00:00:00Z,3,High marsh,within_elevation,3,Typha latifolia,broad-leaved cattail,native,5,96,ebb,75,25
+Ventura River,3,2021-03-29T00:00:00Z,3,High marsh,within_elevation,4,Atriplex prostrata,fat hen,non-native,30,23,ebb,100,0
+Ventura River,3,2021-03-29T00:00:00Z,3,High marsh,within_elevation,4,Cakile maritima,European sea rocket,naturalized,5,24,ebb,100,0
+Ventura River,3,2021-03-29T00:00:00Z,3,High marsh,within_elevation,5,Atriplex prostrata,fat hen,non-native,5,12,ebb,95,5
+Ventura River,3,2021-09-22T00:00:00Z,1,High marsh,within_elevation,2,Schoenoplectus californicus,southern bulrush,native,5,210,closed,95,5
+Ventura River,3,2021-09-22T00:00:00Z,1,High marsh,within_elevation,3,Distichlis spicata,salt grass,native,20,20,closed,25,75
+Ventura River,3,2021-09-22T00:00:00Z,1,High marsh,within_elevation,4,Distichlis spicata,salt grass,native,60,15,closed,90,10
+Ventura River,3,2021-09-22T00:00:00Z,1,High marsh,within_elevation,5,Distichlis spicata,salt grass,native,90,20,closed,90,10
+Ventura River,3,2021-09-22T00:00:00Z,1,High marsh,within_elevation,5,Schoenoplectus californicus,southern bulrush,native,2,70,closed,90,10
+Batiquitos Lagoon,1,2021-04-11T00:00:00Z,1,Low marsh,within_elevation,1,Spartina foliosa,California cordgrass,native,30,90,ebb,85,15
+Batiquitos Lagoon,1,2021-04-11T00:00:00Z,1,Low marsh,within_elevation,1,Spartina foliosa,California cordgrass,native,75,45,ebb,85,15
+Batiquitos Lagoon,1,2021-04-11T00:00:00Z,1,Low marsh,within_elevation,2,Spartina foliosa,California cordgrass,native,30,93,ebb,80,20
+Batiquitos Lagoon,1,2021-04-11T00:00:00Z,1,Low marsh,within_elevation,2,Spartina foliosa,California cordgrass,native,60,40,ebb,80,20
+Batiquitos Lagoon,1,2021-04-11T00:00:00Z,1,Low marsh,within_elevation,3,Spartina foliosa,California cordgrass,native,40,75,ebb,80,20
+Batiquitos Lagoon,1,2021-04-11T00:00:00Z,1,Low marsh,within_elevation,3,Spartina foliosa,California cordgrass,native,50,52,ebb,80,20
+Batiquitos Lagoon,1,2021-04-11T00:00:00Z,1,Low marsh,within_elevation,4,Spartina foliosa,California cordgrass,native,40,75,ebb,70,30
+Batiquitos Lagoon,1,2021-04-11T00:00:00Z,1,Low marsh,within_elevation,4,Spartina foliosa,California cordgrass,native,60,50,ebb,70,30
+Batiquitos Lagoon,1,2021-04-11T00:00:00Z,1,Low marsh,within_elevation,5,Spartina foliosa,California cordgrass,native,60,98,ebb,80,20
+Batiquitos Lagoon,1,2021-04-11T00:00:00Z,1,Low marsh,within_elevation,5,Spartina foliosa,California cordgrass,native,50,60,ebb,80,20
+Batiquitos Lagoon,2,2021-04-11T00:00:00Z,1,Low marsh,within_elevation,1,Spartina foliosa,California cordgrass,native,15,84,ebb,60,40
+Batiquitos Lagoon,2,2021-04-11T00:00:00Z,1,Low marsh,within_elevation,1,Spartina foliosa,California cordgrass,native,45,51,ebb,60,40
+Batiquitos Lagoon,2,2021-04-11T00:00:00Z,1,Low marsh,within_elevation,2,Spartina foliosa,California cordgrass,native,10,79,ebb,65,35
+Batiquitos Lagoon,2,2021-04-11T00:00:00Z,1,Low marsh,within_elevation,2,Spartina foliosa,California cordgrass,native,55,48,ebb,65,35
+Batiquitos Lagoon,2,2021-04-11T00:00:00Z,1,Low marsh,within_elevation,3,Spartina foliosa,California cordgrass,native,15,69,ebb,60,40
+Batiquitos Lagoon,2,2021-04-11T00:00:00Z,1,Low marsh,within_elevation,3,Spartina foliosa,California cordgrass,native,45,47,ebb,60,40
+Batiquitos Lagoon,2,2021-04-11T00:00:00Z,1,Low marsh,within_elevation,4,Spartina foliosa,California cordgrass,native,5,55,ebb,40,60
+Batiquitos Lagoon,2,2021-04-11T00:00:00Z,1,Low marsh,within_elevation,4,Spartina foliosa,California cordgrass,native,30,48,ebb,40,60
+Batiquitos Lagoon,2,2021-04-11T00:00:00Z,1,Low marsh,within_elevation,5,Spartina foliosa,California cordgrass,native,15,64,ebb,60,40
+Batiquitos Lagoon,2,2021-04-11T00:00:00Z,1,Low marsh,within_elevation,5,Spartina foliosa,California cordgrass,native,45,57,ebb,60,40
+Batiquitos Lagoon,3,2021-04-11T00:00:00Z,1,Low marsh,within_elevation,1,Spartina foliosa,California cordgrass,native,1,40,ebb,4,96
+Batiquitos Lagoon,3,2021-04-11T00:00:00Z,1,Low marsh,within_elevation,1,Spartina foliosa,California cordgrass,native,3,31,ebb,4,96
+Batiquitos Lagoon,3,2021-04-11T00:00:00Z,1,Low marsh,within_elevation,2,Spartina foliosa,California cordgrass,native,4,31,ebb,4,96
+Batiquitos Lagoon,3,2021-04-11T00:00:00Z,1,Low marsh,within_elevation,2,Salicornia bigelovii,dwarf glasswort,native,1,2,ebb,4,96
+Batiquitos Lagoon,3,2021-04-11T00:00:00Z,1,Low marsh,within_elevation,3,Spartina foliosa,California cordgrass,native,15,46,ebb,15,85
+Batiquitos Lagoon,3,2021-04-11T00:00:00Z,1,Low marsh,within_elevation,4,Spartina foliosa,California cordgrass,native,15,30,ebb,16,84
+Batiquitos Lagoon,3,2021-04-11T00:00:00Z,1,Low marsh,within_elevation,4,Salicornia bigelovii,dwarf glasswort,native,1,2,ebb,16,84
+Batiquitos Lagoon,3,2021-04-11T00:00:00Z,1,Low marsh,within_elevation,5,Spartina foliosa,California cordgrass,native,15,59,ebb,45,55
+Batiquitos Lagoon,3,2021-04-11T00:00:00Z,1,Low marsh,within_elevation,5,Spartina foliosa,California cordgrass,native,30,41,ebb,45,55
+Batiquitos Lagoon,2,2021-10-17T00:00:00Z,1,Low marsh,within_elevation,1,Spartina foliosa,California cordgrass,native,1,28,high,46,54
+Batiquitos Lagoon,2,2021-10-17T00:00:00Z,1,Low marsh,within_elevation,1,Spartina foliosa,California cordgrass,native,45,71,high,46,54
+Batiquitos Lagoon,2,2021-10-17T00:00:00Z,1,Low marsh,within_elevation,2,Spartina foliosa,California cordgrass,native,5,50,high,55,45
+Batiquitos Lagoon,2,2021-10-17T00:00:00Z,1,Low marsh,within_elevation,2,Spartina foliosa,California cordgrass,native,50,87,high,55,45
+Batiquitos Lagoon,2,2021-10-17T00:00:00Z,1,Low marsh,within_elevation,3,Spartina foliosa,California cordgrass,native,10,66,high,50,50
+Batiquitos Lagoon,2,2021-10-17T00:00:00Z,1,Low marsh,within_elevation,3,Spartina foliosa,California cordgrass,native,40,73,high,50,50
+Batiquitos Lagoon,2,2021-10-17T00:00:00Z,1,Low marsh,within_elevation,4,Spartina foliosa,California cordgrass,native,10,57,high,45,55
+Batiquitos Lagoon,2,2021-10-17T00:00:00Z,1,Low marsh,within_elevation,4,Spartina foliosa,California cordgrass,native,35,67,high,45,55
+Batiquitos Lagoon,2,2021-10-17T00:00:00Z,1,Low marsh,within_elevation,5,Spartina foliosa,California cordgrass,native,10,58,high,55,45
+Batiquitos Lagoon,2,2021-10-17T00:00:00Z,1,Low marsh,within_elevation,5,Spartina foliosa,California cordgrass,native,45,73,high,55,45
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,1,Low marsh,within_elevation,1,Spartina foliosa,California cordgrass,native,10,29,high,70,30
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,1,Low marsh,within_elevation,1,Salicornia pacifica,Pickleweed,native,60,52,high,70,30
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,1,Low marsh,within_elevation,1,Spartina foliosa,California cordgrass,native,10,94,high,70,30
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,1,Low marsh,within_elevation,3,Spartina foliosa,California cordgrass,native,1,15,high,21,79
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,1,Low marsh,within_elevation,3,Spartina foliosa,California cordgrass,native,20,74,high,21,79
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,1,Low marsh,within_elevation,4,Spartina foliosa,California cordgrass,native,2,68,high,37,63
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,1,Low marsh,within_elevation,4,Spartina foliosa,California cordgrass,native,35,70,high,37,63
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,1,Low marsh,within_elevation,5,Spartina foliosa,California cordgrass,native,2,55,high,52,48
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,1,Low marsh,within_elevation,5,Spartina foliosa,California cordgrass,native,50,71,high,52,48
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,1,Low marsh,within_elevation,6,Spartina foliosa,California cordgrass,native,1,57,high,50,50
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,1,Low marsh,within_elevation,6,Spartina foliosa,California cordgrass,native,45,64,high,50,50
+Batiquitos Lagoon,1,2021-10-18T00:00:00Z,1,Low marsh,within_elevation,1,Spartina foliosa,California cordgrass,native,10,47,high,50,50
+Batiquitos Lagoon,1,2021-10-18T00:00:00Z,1,Low marsh,within_elevation,1,Spartina foliosa,California cordgrass,native,50,73,high,50,50
+Batiquitos Lagoon,1,2021-10-18T00:00:00Z,1,Low marsh,within_elevation,2,Spartina foliosa,California cordgrass,native,10,71,high,20,80
+Batiquitos Lagoon,1,2021-10-18T00:00:00Z,1,Low marsh,within_elevation,2,Spartina foliosa,California cordgrass,native,20,82,high,20,80
+Batiquitos Lagoon,1,2021-10-18T00:00:00Z,1,Low marsh,within_elevation,3,Spartina foliosa,California cordgrass,native,5,70,high,20,80
+Batiquitos Lagoon,1,2021-10-18T00:00:00Z,1,Low marsh,within_elevation,3,Spartina foliosa,California cordgrass,native,20,85,high,20,80
+Batiquitos Lagoon,1,2021-10-18T00:00:00Z,1,Low marsh,within_elevation,4,Spartina foliosa,California cordgrass,native,5,56,high,20,80
+Batiquitos Lagoon,1,2021-10-18T00:00:00Z,1,Low marsh,within_elevation,4,Spartina foliosa,California cordgrass,native,20,81,high,20,80
+Batiquitos Lagoon,1,2021-10-18T00:00:00Z,1,Low marsh,within_elevation,5,Spartina foliosa,California cordgrass,native,5,60,high,20,80
+Batiquitos Lagoon,1,2021-10-18T00:00:00Z,1,Low marsh,within_elevation,5,Spartina foliosa,California cordgrass,native,20,98,high,20,80
+Goleta Slough,2,2021-03-23T00:00:00Z,1,Low marsh,within_elevation,1,Salicornia pacifica,Pickleweed,native,10,35,ebb,95,5
+Goleta Slough,2,2021-03-23T00:00:00Z,1,Low marsh,within_elevation,1,Salicornia pacifica,Pickleweed,native,35,46,ebb,95,5
+Goleta Slough,2,2021-03-23T00:00:00Z,1,Low marsh,within_elevation,2,Salicornia pacifica,Pickleweed,native,5,55,ebb,95,5
+Goleta Slough,2,2021-03-23T00:00:00Z,1,Low marsh,within_elevation,2,Salicornia pacifica,Pickleweed,native,90,50,ebb,95,5
+Goleta Slough,2,2021-03-23T00:00:00Z,1,Low marsh,within_elevation,3,Salicornia pacifica,Pickleweed,native,5,35,ebb,90,10
+Goleta Slough,2,2021-03-23T00:00:00Z,1,Low marsh,within_elevation,3,Salicornia pacifica,Pickleweed,native,85,43,ebb,90,10
+Goleta Slough,2,2021-03-23T00:00:00Z,1,Low marsh,within_elevation,4,Salicornia pacifica,Pickleweed,native,40,61,ebb,98,2
+Goleta Slough,2,2021-03-23T00:00:00Z,1,Low marsh,within_elevation,4,Salicornia pacifica,Pickleweed,native,60,62,ebb,98,2
+Goleta Slough,2,2021-03-23T00:00:00Z,1,Low marsh,within_elevation,5,Salicornia pacifica,Pickleweed,native,35,31,ebb,60,40
+Goleta Slough,2,2021-03-23T00:00:00Z,1,Low marsh,within_elevation,5,Salicornia pacifica,Pickleweed,native,25,23,ebb,60,40
+Goleta Slough,2,2021-09-20T00:00:00Z,1,Low marsh,within_elevation,1,Salicornia pacifica,Pickleweed,native,100,40,high,100,0
+Goleta Slough,2,2021-09-20T00:00:00Z,1,Low marsh,within_elevation,2,Salicornia pacifica,Pickleweed,native,100,50,high,100,0
+Goleta Slough,2,2021-09-20T00:00:00Z,1,Low marsh,within_elevation,3,Salicornia pacifica,Pickleweed,native,100,50,high,100,0
+Goleta Slough,2,2021-09-20T00:00:00Z,1,Low marsh,within_elevation,4,Salicornia pacifica,Pickleweed,native,100,60,high,100,0
+Goleta Slough,2,2021-09-20T00:00:00Z,1,Low marsh,within_elevation,5,Salicornia pacifica,Pickleweed,native,100,40,high,100,0
+Goleta Slough,3,2021-09-20T00:00:00Z,1,Low marsh,within_elevation,1,Cressa truxillensis,alkali weed,native,2,5,high,2,98
+Goleta Slough,3,2021-09-20T00:00:00Z,1,Low marsh,within_elevation,2,Cressa truxillensis,alkali weed,native,2,5,high,2,98
+Goleta Slough,3,2021-09-20T00:00:00Z,1,Low marsh,within_elevation,3,Cressa truxillensis,alkali weed,native,2,10,high,2,98
+Goleta Slough,3,2021-09-20T00:00:00Z,1,Low marsh,within_elevation,3,Distichlis spicata,salt grass,native,2,15,high,2,98
+Goleta Slough,3,2021-09-20T00:00:00Z,1,Low marsh,within_elevation,4,Cressa truxillensis,alkali weed,native,2,8,high,2,98
+Goleta Slough,1,2021-09-21T00:00:00Z,1,Low marsh,within_elevation,1,Frankenia salina,alkali heath,native,10,14,high,90,10
+Goleta Slough,1,2021-09-21T00:00:00Z,1,Low marsh,within_elevation,1,Salicornia pacifica,Pickleweed,native,45,58,high,90,10
+Goleta Slough,1,2021-09-21T00:00:00Z,1,Low marsh,within_elevation,2,Salicornia pacifica,Pickleweed,native,10,32,high,100,0
+Goleta Slough,1,2021-09-21T00:00:00Z,1,Low marsh,within_elevation,2,Frankenia salina,alkali heath,native,35,23,high,100,0
+Goleta Slough,1,2021-09-21T00:00:00Z,1,Low marsh,within_elevation,2,Salicornia pacifica,Pickleweed,native,35,34,high,100,0
+Goleta Slough,1,2021-09-21T00:00:00Z,1,Low marsh,within_elevation,3,Salicornia pacifica,Pickleweed,native,2,30,high,95,5
+Goleta Slough,1,2021-09-21T00:00:00Z,1,Low marsh,within_elevation,3,Frankenia salina,alkali heath,native,75,33,high,95,5
+Goleta Slough,1,2021-09-21T00:00:00Z,1,Low marsh,within_elevation,3,Salicornia pacifica,Pickleweed,native,30,47,high,95,5
+Goleta Slough,1,2021-09-21T00:00:00Z,1,Low marsh,within_elevation,4,Salicornia pacifica,Pickleweed,native,15,37,high,100,0
+Goleta Slough,1,2021-09-21T00:00:00Z,1,Low marsh,within_elevation,4,Salicornia pacifica,Pickleweed,native,70,42,high,100,0
+Goleta Slough,1,2021-09-21T00:00:00Z,1,Low marsh,within_elevation,5,Salicornia pacifica,Pickleweed,native,5,33,high,95,5
+Goleta Slough,1,2021-09-21T00:00:00Z,1,Low marsh,within_elevation,5,Cuscuta salina,salt dodder,native,75,0,high,95,5
+Goleta Slough,1,2021-09-21T00:00:00Z,1,Low marsh,within_elevation,5,Distichlis spicata,salt grass,native,1,15,high,95,5
+Goleta Slough,1,2021-09-21T00:00:00Z,1,Low marsh,within_elevation,5,Frankenia salina,alkali heath,native,80,25,high,95,5
+Goleta Slough,1,2021-09-21T00:00:00Z,1,Low marsh,within_elevation,5,Jaumea carnosa,fleshy jaumea,native,1,18,high,95,5
+Goleta Slough,1,2021-09-21T00:00:00Z,1,Low marsh,within_elevation,5,Salicornia pacifica,Pickleweed,native,15,35,high,95,5
+Malibu Lagoon,1,2021-04-05T00:00:00Z,1,Low marsh,within_elevation,1,Salicornia bigelovii,dwarf glasswort,native,2,5,ebb,0,100
+Malibu Lagoon,1,2021-04-05T00:00:00Z,1,Low marsh,within_elevation,4,Salicornia bigelovii,dwarf glasswort,native,2,5,ebb,0,100
+Malibu Lagoon,1,2021-04-05T00:00:00Z,1,Low marsh,within_elevation,4,Atriplex prostrata,fat hen,non-native,2,5,ebb,0,100
+Malibu Lagoon,3,2021-04-05T00:00:00Z,1,Low marsh,within_elevation,1,Jaumea carnosa,fleshy jaumea,native,10,4,ebb,25,75
+Malibu Lagoon,3,2021-04-05T00:00:00Z,1,Low marsh,within_elevation,1,Salicornia bigelovii,dwarf glasswort,native,25,15,ebb,25,75
+Malibu Lagoon,3,2021-04-05T00:00:00Z,1,Low marsh,within_elevation,2,Jaumea carnosa,fleshy jaumea,native,5,2,ebb,5,95
+Malibu Lagoon,3,2021-04-05T00:00:00Z,1,Low marsh,within_elevation,3,Salicornia bigelovii,dwarf glasswort,native,40,30,ebb,40,60
+Malibu Lagoon,3,2021-04-05T00:00:00Z,1,Low marsh,within_elevation,4,Salicornia bigelovii,dwarf glasswort,native,5,10,ebb,5,95
+Malibu Lagoon,3,2021-04-05T00:00:00Z,1,Low marsh,within_elevation,4,Salicornia bigelovii,dwarf glasswort,native,5,15,ebb,5,95
+Malibu Lagoon,3,2021-04-05T00:00:00Z,1,Low marsh,within_elevation,4,Suaeda taxifolia,wooly seablite,native,1,0,ebb,5,95
+Malibu Lagoon,2,2021-04-06T00:00:00Z,1,Low marsh,within_elevation,1,Schoenoplectus californicus,southern bulrush,native,5,0,ebb,15,85
+Malibu Lagoon,2,2021-04-06T00:00:00Z,1,Low marsh,within_elevation,1,Distichlis spicata,salt grass,native,2,2,ebb,15,85
+Malibu Lagoon,2,2021-04-06T00:00:00Z,1,Low marsh,within_elevation,1,Jaumea carnosa,fleshy jaumea,native,5,9,ebb,15,85
+Malibu Lagoon,2,2021-04-06T00:00:00Z,1,Low marsh,within_elevation,1,Salicornia pacifica,Pickleweed,native,2,7,ebb,15,85
+Malibu Lagoon,2,2021-04-06T00:00:00Z,1,Low marsh,within_elevation,2,Schoenoplectus californicus,southern bulrush,native,5,0,ebb,7,93
+Malibu Lagoon,2,2021-04-06T00:00:00Z,1,Low marsh,within_elevation,2,Jaumea carnosa,fleshy jaumea,native,2,2,ebb,7,93
+Malibu Lagoon,2,2021-04-06T00:00:00Z,1,Low marsh,within_elevation,3,Schoenoplectus californicus,southern bulrush,native,2,93,ebb,4,96
+Malibu Lagoon,2,2021-04-06T00:00:00Z,1,Low marsh,within_elevation,3,Carex arenaria,sand sedge,native,2,12,ebb,4,96
+Malibu Lagoon,2,2021-04-06T00:00:00Z,1,Low marsh,within_elevation,4,Schoenoplectus californicus,southern bulrush,native,1,17,ebb,2,98
+Malibu Lagoon,2,2021-04-06T00:00:00Z,1,Low marsh,within_elevation,5,Salicornia pacifica,Pickleweed,native,2,19,ebb,40,60
+Malibu Lagoon,2,2021-04-06T00:00:00Z,1,Low marsh,within_elevation,5,Distichlis spicata,salt grass,native,10,14,ebb,40,60
+Malibu Lagoon,2,2021-04-06T00:00:00Z,1,Low marsh,within_elevation,5,Jaumea carnosa,fleshy jaumea,native,20,8,ebb,40,60
+Malibu Lagoon,2,2021-04-06T00:00:00Z,1,Low marsh,within_elevation,5,Salicornia pacifica,Pickleweed,native,2,8,ebb,40,60
+Malibu Lagoon,2,2021-10-06T00:00:00Z,1,Low marsh,within_elevation,2,Jaumea carnosa,fleshy jaumea,native,10,10,closed,20,80
+Malibu Lagoon,2,2021-10-06T00:00:00Z,1,Low marsh,within_elevation,5,Schoenoplectus californicus,southern bulrush,native,2,10,closed,5,95
+Malibu Lagoon,2,2021-10-06T00:00:00Z,1,Low marsh,within_elevation,5,Jaumea carnosa,fleshy jaumea,native,2,5,closed,5,95
+Malibu Lagoon,2,2021-10-06T00:00:00Z,1,Low marsh,within_elevation,5,Schoenoplectus californicus,southern bulrush,native,5,160,closed,5,95
+Newport Bay,1,2021-03-18T00:00:00Z,1,Low marsh,within_elevation,1,Salicornia bigelovii,dwarf glasswort,native,5,22,ebb,30,70
+Newport Bay,1,2021-03-18T00:00:00Z,1,Low marsh,within_elevation,1,Jaumea carnosa,fleshy jaumea,native,25,10,ebb,30,70
+Newport Bay,1,2021-03-18T00:00:00Z,1,Low marsh,within_elevation,1,Salicornia bigelovii,dwarf glasswort,native,10,1,ebb,30,70
+Newport Bay,1,2021-03-18T00:00:00Z,1,Low marsh,within_elevation,1,Salicornia pacifica,Pickleweed,native,25,40,ebb,30,70
+Newport Bay,1,2021-03-18T00:00:00Z,1,Low marsh,within_elevation,1,Distichlis littoralis,shore grass,native,2,5,ebb,30,70
+Newport Bay,1,2021-03-18T00:00:00Z,1,Low marsh,within_elevation,1,Frankenia salina,alkali heath,native,2,15,ebb,30,70
+Newport Bay,1,2021-03-18T00:00:00Z,1,Low marsh,within_elevation,1,Triglochin concinna,arrow grass,native,2,2,ebb,30,70
+Newport Bay,1,2021-03-18T00:00:00Z,1,Low marsh,within_elevation,2,Batis maritima,saltwort,native,10,10,ebb,95,5
+Newport Bay,1,2021-03-18T00:00:00Z,1,Low marsh,within_elevation,2,Frankenia salina,alkali heath,native,2,15,ebb,95,5
+Newport Bay,1,2021-03-18T00:00:00Z,1,Low marsh,within_elevation,2,Jaumea carnosa,fleshy jaumea,native,50,5,ebb,95,5
+Newport Bay,1,2021-03-18T00:00:00Z,1,Low marsh,within_elevation,2,Limonium californicum,Western marsh-rosemary,native,10,25,ebb,95,5
+Newport Bay,1,2021-03-18T00:00:00Z,1,Low marsh,within_elevation,2,Salicornia bigelovii,dwarf glasswort,native,5,8,ebb,95,5
+Newport Bay,1,2021-03-18T00:00:00Z,1,Low marsh,within_elevation,3,Salicornia bigelovii,dwarf glasswort,native,5,15,ebb,95,5
+Newport Bay,1,2021-03-18T00:00:00Z,1,Low marsh,within_elevation,3,Batis maritima,saltwort,native,2,5,ebb,95,5
+Newport Bay,1,2021-03-18T00:00:00Z,1,Low marsh,within_elevation,3,Frankenia salina,alkali heath,native,50,10,ebb,95,5
+Newport Bay,1,2021-03-18T00:00:00Z,1,Low marsh,within_elevation,3,Jaumea carnosa,fleshy jaumea,native,50,5,ebb,95,5
+Newport Bay,1,2021-03-18T00:00:00Z,1,Low marsh,within_elevation,3,Limonium californicum,Western marsh-rosemary,native,5,20,ebb,95,5
+Newport Bay,1,2021-03-18T00:00:00Z,1,Low marsh,within_elevation,3,Limonium ramosissimum,Algerian sea lavender,invasive,2,5,ebb,95,5
+Newport Bay,1,2021-03-18T00:00:00Z,1,Low marsh,within_elevation,3,Salicornia bigelovii,dwarf glasswort,native,15,1,ebb,95,5
+Newport Bay,1,2021-03-18T00:00:00Z,1,Low marsh,within_elevation,3,Salicornia pacifica,Pickleweed,native,10,20,ebb,95,5
+Newport Bay,1,2021-03-18T00:00:00Z,1,Low marsh,within_elevation,3,Suaeda esteroa,estuary seablite,native,2,10,ebb,95,5
+Newport Bay,1,2021-03-18T00:00:00Z,1,Low marsh,within_elevation,3,Triglochin concinna,arrow grass,native,2,5,ebb,95,5
+Newport Bay,1,2021-03-18T00:00:00Z,1,Low marsh,within_elevation,4,Salicornia bigelovii,dwarf glasswort,native,5,10,ebb,95,5
+Newport Bay,1,2021-03-18T00:00:00Z,1,Low marsh,within_elevation,4,Batis maritima,saltwort,native,5,5,ebb,95,5
+Newport Bay,1,2021-03-18T00:00:00Z,1,Low marsh,within_elevation,4,Frankenia salina,alkali heath,native,60,13,ebb,95,5
+Newport Bay,1,2021-03-18T00:00:00Z,1,Low marsh,within_elevation,4,Jaumea carnosa,fleshy jaumea,native,70,5,ebb,95,5
+Newport Bay,1,2021-03-18T00:00:00Z,1,Low marsh,within_elevation,4,Salicornia bigelovii,dwarf glasswort,native,20,2,ebb,95,5
+Newport Bay,1,2021-03-18T00:00:00Z,1,Low marsh,within_elevation,4,Suaeda esteroa,estuary seablite,native,15,15,ebb,95,5
+Newport Bay,1,2021-03-18T00:00:00Z,1,Low marsh,within_elevation,4,Triglochin concinna,arrow grass,native,5,5,ebb,95,5
+Newport Bay,1,2021-03-18T00:00:00Z,1,Low marsh,within_elevation,4,Distichlis littoralis,shore grass,native,5,10,ebb,95,5
+Newport Bay,1,2021-03-18T00:00:00Z,1,Low marsh,within_elevation,4,Limonium californicum,Western marsh-rosemary,native,10,25,ebb,95,5
+Newport Bay,1,2021-03-18T00:00:00Z,1,Low marsh,within_elevation,5,Batis maritima,saltwort,native,2,7,ebb,90,10
+Newport Bay,1,2021-03-18T00:00:00Z,1,Low marsh,within_elevation,5,Distichlis littoralis,shore grass,native,90,10,ebb,90,10
+Newport Bay,1,2021-03-18T00:00:00Z,1,Low marsh,within_elevation,5,Frankenia salina,alkali heath,native,5,5,ebb,90,10
+Newport Bay,1,2021-03-18T00:00:00Z,1,Low marsh,within_elevation,5,Jaumea carnosa,fleshy jaumea,native,15,10,ebb,90,10
+Newport Bay,1,2021-03-18T00:00:00Z,1,Low marsh,within_elevation,5,Limonium californicum,Western marsh-rosemary,native,5,5,ebb,90,10
+Newport Bay,1,2021-03-18T00:00:00Z,1,Low marsh,within_elevation,5,Salicornia pacifica,Pickleweed,native,2,15,ebb,90,10
+Newport Bay,3,2021-03-18T00:00:00Z,1,Low marsh,within_elevation,1,Batis maritima,saltwort,native,10,30,ebb,100,0
+Newport Bay,3,2021-03-18T00:00:00Z,1,Low marsh,within_elevation,1,Salicornia pacifica,Pickleweed,native,100,30,ebb,100,0
+Newport Bay,3,2021-03-18T00:00:00Z,1,Low marsh,within_elevation,2,Salicornia pacifica,Pickleweed,native,100,40,ebb,100,0
+Newport Bay,3,2021-03-18T00:00:00Z,1,Low marsh,within_elevation,2,Batis maritima,saltwort,native,10,30,ebb,100,0
+Newport Bay,3,2021-03-18T00:00:00Z,1,Low marsh,within_elevation,3,Spartina foliosa,California cordgrass,native,2,110,ebb,90,10
+Newport Bay,3,2021-03-18T00:00:00Z,1,Low marsh,within_elevation,3,Batis maritima,saltwort,native,25,40,ebb,90,10
+Newport Bay,3,2021-03-18T00:00:00Z,1,Low marsh,within_elevation,3,Limonium californicum,Western marsh-rosemary,native,5,10,ebb,90,10
+Newport Bay,3,2021-03-18T00:00:00Z,1,Low marsh,within_elevation,3,Salicornia pacifica,Pickleweed,native,90,50,ebb,90,10
+Newport Bay,3,2021-03-18T00:00:00Z,1,Low marsh,within_elevation,3,Spartina foliosa,California cordgrass,native,5,60,ebb,90,10
+Newport Bay,3,2021-03-18T00:00:00Z,1,Low marsh,within_elevation,4,Salicornia pacifica,Pickleweed,native,85,50,ebb,85,15
+Newport Bay,3,2021-03-18T00:00:00Z,1,Low marsh,within_elevation,4,Batis maritima,saltwort,native,20,40,ebb,85,15
+Newport Bay,3,2021-03-18T00:00:00Z,1,Low marsh,within_elevation,5,Salicornia pacifica,Pickleweed,native,2,40,ebb,100,0
+Newport Bay,3,2021-03-18T00:00:00Z,1,Low marsh,within_elevation,5,Spartina foliosa,California cordgrass,native,10,80,ebb,100,0
+Newport Bay,3,2021-03-18T00:00:00Z,1,Low marsh,within_elevation,5,Batis maritima,saltwort,native,5,20,ebb,100,0
+Newport Bay,3,2021-03-18T00:00:00Z,1,Low marsh,within_elevation,5,Jaumea carnosa,fleshy jaumea,native,90,15,ebb,100,0
+Newport Bay,3,2021-03-18T00:00:00Z,1,Low marsh,within_elevation,5,Salicornia pacifica,Pickleweed,native,50,45,ebb,100,0
+Newport Bay,3,2021-03-18T00:00:00Z,1,Low marsh,within_elevation,5,Spartina foliosa,California cordgrass,native,20,40,ebb,100,0
+Newport Bay,3,2021-03-18T00:00:00Z,1,Low marsh,within_elevation,5,Triglochin concinna,arrow grass,native,10,25,ebb,100,0
+Newport Bay,2,2021-03-19T00:00:00Z,1,Low marsh,within_elevation,1,Spartina foliosa,California cordgrass,native,15,40,ebb,30,70
+Newport Bay,2,2021-03-19T00:00:00Z,1,Low marsh,within_elevation,1,Batis maritima,saltwort,native,2,3,ebb,30,70
+Newport Bay,2,2021-03-19T00:00:00Z,1,Low marsh,within_elevation,1,Spartina foliosa,California cordgrass,native,15,10,ebb,30,70
+Newport Bay,2,2021-03-19T00:00:00Z,1,Low marsh,within_elevation,2,Salicornia bigelovii,dwarf glasswort,native,2,30,ebb,50,50
+Newport Bay,2,2021-03-19T00:00:00Z,1,Low marsh,within_elevation,2,Spartina foliosa,California cordgrass,native,10,35,ebb,50,50
+Newport Bay,2,2021-03-19T00:00:00Z,1,Low marsh,within_elevation,2,Salicornia bigelovii,dwarf glasswort,native,5,5,ebb,50,50
+Newport Bay,2,2021-03-19T00:00:00Z,1,Low marsh,within_elevation,2,Salicornia pacifica,Pickleweed,native,10,40,ebb,50,50
+Newport Bay,2,2021-03-19T00:00:00Z,1,Low marsh,within_elevation,2,Spartina foliosa,California cordgrass,native,15,20,ebb,50,50
+Newport Bay,2,2021-03-19T00:00:00Z,1,Low marsh,within_elevation,2,Jaumea carnosa,fleshy jaumea,native,30,15,ebb,50,50
+Newport Bay,2,2021-03-19T00:00:00Z,1,Low marsh,within_elevation,3,Spartina foliosa,California cordgrass,native,15,30,ebb,25,75
+Newport Bay,2,2021-03-19T00:00:00Z,1,Low marsh,within_elevation,3,Spartina foliosa,California cordgrass,native,10,15,ebb,25,75
+Newport Bay,2,2021-03-19T00:00:00Z,1,Low marsh,within_elevation,4,Spartina foliosa,California cordgrass,native,10,25,ebb,70,30
+Newport Bay,2,2021-03-19T00:00:00Z,1,Low marsh,within_elevation,4,Batis maritima,saltwort,native,25,10,ebb,70,30
+Newport Bay,2,2021-03-19T00:00:00Z,1,Low marsh,within_elevation,4,Jaumea carnosa,fleshy jaumea,native,20,5,ebb,70,30
+Newport Bay,2,2021-03-19T00:00:00Z,1,Low marsh,within_elevation,4,Salicornia bigelovii,dwarf glasswort,native,5,5,ebb,70,30
+Newport Bay,2,2021-03-19T00:00:00Z,1,Low marsh,within_elevation,4,Salicornia pacifica,Pickleweed,native,20,45,ebb,70,30
+Newport Bay,2,2021-03-19T00:00:00Z,1,Low marsh,within_elevation,4,Spartina foliosa,California cordgrass,native,10,15,ebb,70,30
+Newport Bay,2,2021-03-19T00:00:00Z,1,Low marsh,within_elevation,5,Salicornia pacifica,Pickleweed,native,5,30,ebb,60,40
+Newport Bay,2,2021-03-19T00:00:00Z,1,Low marsh,within_elevation,5,Spartina foliosa,California cordgrass,native,10,25,ebb,60,40
+Newport Bay,2,2021-03-19T00:00:00Z,1,Low marsh,within_elevation,5,Batis maritima,saltwort,native,5,5,ebb,60,40
+Newport Bay,2,2021-03-19T00:00:00Z,1,Low marsh,within_elevation,5,Jaumea carnosa,fleshy jaumea,native,50,20,ebb,60,40
+Newport Bay,2,2021-03-19T00:00:00Z,1,Low marsh,within_elevation,5,Salicornia pacifica,Pickleweed,native,20,70,ebb,60,40
+Newport Bay,2,2021-03-19T00:00:00Z,1,Low marsh,within_elevation,5,Spartina foliosa,California cordgrass,native,20,15,ebb,60,40
+Newport Bay,1,2021-09-24T00:00:00Z,1,Low marsh,within_elevation,1,Batis maritima,saltwort,native,5,20,high,90,10
+Newport Bay,1,2021-09-24T00:00:00Z,1,Low marsh,within_elevation,1,Salicornia pacifica,Pickleweed,native,90,60,high,90,10
+Newport Bay,1,2021-09-24T00:00:00Z,1,Low marsh,within_elevation,2,Jaumea carnosa,fleshy jaumea,native,10,10,high,95,5
+Newport Bay,1,2021-09-24T00:00:00Z,1,Low marsh,within_elevation,2,Salicornia pacifica,Pickleweed,native,95,50,high,95,5
+Newport Bay,1,2021-09-24T00:00:00Z,1,Low marsh,within_elevation,3,Batis maritima,saltwort,native,40,30,high,95,5
+Newport Bay,1,2021-09-24T00:00:00Z,1,Low marsh,within_elevation,3,Frankenia salina,alkali heath,native,20,15,high,95,5
+Newport Bay,1,2021-09-24T00:00:00Z,1,Low marsh,within_elevation,3,Jaumea carnosa,fleshy jaumea,native,40,10,high,95,5
+Newport Bay,1,2021-09-24T00:00:00Z,1,Low marsh,within_elevation,3,Salicornia pacifica,Pickleweed,native,25,40,high,95,5
+Newport Bay,1,2021-09-24T00:00:00Z,1,Low marsh,within_elevation,4,Salicornia bigelovii,dwarf glasswort,native,2,15,high,95,5
+Newport Bay,1,2021-09-24T00:00:00Z,1,Low marsh,within_elevation,4,Batis maritima,saltwort,native,15,20,high,95,5
+Newport Bay,1,2021-09-24T00:00:00Z,1,Low marsh,within_elevation,4,Frankenia salina,alkali heath,native,20,10,high,95,5
+Newport Bay,1,2021-09-24T00:00:00Z,1,Low marsh,within_elevation,4,Jaumea carnosa,fleshy jaumea,native,60,10,high,95,5
+Newport Bay,1,2021-09-24T00:00:00Z,1,Low marsh,within_elevation,4,Salicornia pacifica,Pickleweed,native,10,20,high,95,5
+Newport Bay,1,2021-09-24T00:00:00Z,1,Low marsh,within_elevation,5,Batis maritima,saltwort,native,30,20,high,100,0
+Newport Bay,1,2021-09-24T00:00:00Z,1,Low marsh,within_elevation,5,Distichlis littoralis,shore grass,native,50,10,high,100,0
+Newport Bay,1,2021-09-24T00:00:00Z,1,Low marsh,within_elevation,5,Frankenia salina,alkali heath,native,20,10,high,100,0
+Newport Bay,1,2021-09-24T00:00:00Z,1,Low marsh,within_elevation,5,Jaumea carnosa,fleshy jaumea,native,10,15,high,100,0
+Newport Bay,1,2021-09-24T00:00:00Z,1,Low marsh,within_elevation,5,Salicornia pacifica,Pickleweed,native,2,20,high,100,0
+Newport Bay,2,2021-09-24T00:00:00Z,1,Low marsh,within_elevation,1,Spartina foliosa,California cordgrass,native,5,60,high,60,40
+Newport Bay,2,2021-09-24T00:00:00Z,1,Low marsh,within_elevation,1,Batis maritima,saltwort,native,30,20,high,60,40
+Newport Bay,2,2021-09-24T00:00:00Z,1,Low marsh,within_elevation,1,Jaumea carnosa,fleshy jaumea,native,40,20,high,60,40
+Newport Bay,2,2021-09-24T00:00:00Z,1,Low marsh,within_elevation,1,Salicornia pacifica,Pickleweed,native,10,50,high,60,40
+Newport Bay,2,2021-09-24T00:00:00Z,1,Low marsh,within_elevation,1,Spartina foliosa,California cordgrass,native,25,60,high,60,40
+Newport Bay,2,2021-09-24T00:00:00Z,1,Low marsh,within_elevation,2,Salicornia bigelovii,dwarf glasswort,native,30,20,high,80,20
+Newport Bay,2,2021-09-24T00:00:00Z,1,Low marsh,within_elevation,2,Spartina foliosa,California cordgrass,native,20,40,high,80,20
+Newport Bay,2,2021-09-24T00:00:00Z,1,Low marsh,within_elevation,2,Batis maritima,saltwort,native,15,10,high,80,20
+Newport Bay,2,2021-09-24T00:00:00Z,1,Low marsh,within_elevation,2,Jaumea carnosa,fleshy jaumea,native,50,20,high,80,20
+Newport Bay,2,2021-09-24T00:00:00Z,1,Low marsh,within_elevation,2,Salicornia bigelovii,dwarf glasswort,native,30,30,high,80,20
+Newport Bay,2,2021-09-24T00:00:00Z,1,Low marsh,within_elevation,2,Salicornia pacifica,Pickleweed,native,25,65,high,80,20
+Newport Bay,2,2021-09-24T00:00:00Z,1,Low marsh,within_elevation,2,Spartina foliosa,California cordgrass,native,20,30,high,80,20
+Newport Bay,2,2021-09-24T00:00:00Z,1,Low marsh,within_elevation,3,Spartina foliosa,California cordgrass,native,2,40,high,90,10
+Newport Bay,2,2021-09-24T00:00:00Z,1,Low marsh,within_elevation,3,Jaumea carnosa,fleshy jaumea,native,10,35,high,90,10
+Newport Bay,2,2021-09-24T00:00:00Z,1,Low marsh,within_elevation,3,Salicornia pacifica,Pickleweed,native,75,60,high,90,10
+Newport Bay,2,2021-09-24T00:00:00Z,1,Low marsh,within_elevation,3,Spartina foliosa,California cordgrass,native,10,50,high,90,10
+Newport Bay,2,2021-09-24T00:00:00Z,1,Low marsh,within_elevation,4,Salicornia bigelovii,dwarf glasswort,native,10,30,high,95,5
+Newport Bay,2,2021-09-24T00:00:00Z,1,Low marsh,within_elevation,4,Spartina foliosa,California cordgrass,native,5,50,high,95,5
+Newport Bay,2,2021-09-24T00:00:00Z,1,Low marsh,within_elevation,4,Jaumea carnosa,fleshy jaumea,native,80,20,high,95,5
+Newport Bay,2,2021-09-24T00:00:00Z,1,Low marsh,within_elevation,4,Salicornia bigelovii,dwarf glasswort,native,10,30,high,95,5
+Newport Bay,2,2021-09-24T00:00:00Z,1,Low marsh,within_elevation,4,Spartina foliosa,California cordgrass,native,25,50,high,95,5
+Newport Bay,2,2021-09-24T00:00:00Z,1,Low marsh,within_elevation,5,Spartina foliosa,California cordgrass,native,10,40,high,40,60
+Newport Bay,2,2021-09-24T00:00:00Z,1,Low marsh,within_elevation,5,Batis maritima,saltwort,native,10,10,high,40,60
+Newport Bay,2,2021-09-24T00:00:00Z,1,Low marsh,within_elevation,5,Spartina foliosa,California cordgrass,native,50,65,high,40,60
+Newport Bay,3,2021-09-25T00:00:00Z,1,Low marsh,within_elevation,1,Salicornia pacifica,Pickleweed,native,10,35,high,10,90
+Newport Bay,3,2021-09-25T00:00:00Z,1,Low marsh,within_elevation,2,Spartina foliosa,California cordgrass,native,5,10,high,5,95
+Newport Bay,3,2021-09-25T00:00:00Z,1,Low marsh,within_elevation,2,Batis maritima,saltwort,native,5,5,high,5,95
+Newport Bay,3,2021-09-25T00:00:00Z,1,Low marsh,within_elevation,2,Spartina foliosa,California cordgrass,native,10,40,high,5,95
+Newport Bay,3,2021-09-25T00:00:00Z,1,Low marsh,within_elevation,3,Spartina foliosa,California cordgrass,native,5,10,high,40,60
+Newport Bay,3,2021-09-25T00:00:00Z,1,Low marsh,within_elevation,3,Batis maritima,saltwort,native,5,5,high,40,60
+Newport Bay,3,2021-09-25T00:00:00Z,1,Low marsh,within_elevation,3,Salicornia pacifica,Pickleweed,native,5,20,high,40,60
+Newport Bay,3,2021-09-25T00:00:00Z,1,Low marsh,within_elevation,3,Spartina foliosa,California cordgrass,native,20,40,high,40,60
+Newport Bay,3,2021-09-25T00:00:00Z,1,Low marsh,within_elevation,5,Batis maritima,saltwort,native,40,45,high,80,20
+Newport Bay,3,2021-09-25T00:00:00Z,1,Low marsh,within_elevation,5,Spartina foliosa,California cordgrass,native,40,85,high,80,20
+Ventura River,1,2021-03-29T00:00:00Z,1,Low marsh,within_elevation,1,Typha latifolia,broad-leaved cattail,native,2,55,ebb,15,85
+Ventura River,1,2021-03-29T00:00:00Z,1,Low marsh,within_elevation,1,Typha latifolia,broad-leaved cattail,native,10,81,ebb,15,85
+Ventura River,1,2021-03-29T00:00:00Z,1,Low marsh,within_elevation,1,Baccharis salicifolia,mule fat,native,2,5,ebb,15,85
+Ventura River,1,2021-03-29T00:00:00Z,1,Low marsh,within_elevation,2,Typha latifolia,broad-leaved cattail,native,2,58,ebb,20,80
+Ventura River,1,2021-03-29T00:00:00Z,1,Low marsh,within_elevation,2,Typha latifolia,broad-leaved cattail,native,10,75,ebb,20,80
+Ventura River,1,2021-03-29T00:00:00Z,1,Low marsh,within_elevation,3,Baccharis salicifolia,mule fat,native,2,31,ebb,20,80
+Ventura River,1,2021-03-29T00:00:00Z,1,Low marsh,within_elevation,3,Baccharis salicifolia,mule fat,native,2,4,ebb,20,80
+Ventura River,1,2021-03-29T00:00:00Z,1,Low marsh,within_elevation,3,Distichlis spicata,salt grass,native,2,5,ebb,20,80
+Ventura River,1,2021-03-29T00:00:00Z,1,Low marsh,within_elevation,3,Typha latifolia,broad-leaved cattail,native,15,39,ebb,20,80
+Ventura River,1,2021-03-29T00:00:00Z,1,Low marsh,within_elevation,4,Baccharis salicifolia,mule fat,native,5,26,ebb,20,80
+Ventura River,1,2021-03-29T00:00:00Z,1,Low marsh,within_elevation,4,Distichlis spicata,salt grass,native,2,4,ebb,20,80
+Ventura River,1,2021-03-29T00:00:00Z,1,Low marsh,within_elevation,4,Typha latifolia,broad-leaved cattail,native,20,36,ebb,20,80
+Ventura River,1,2021-03-29T00:00:00Z,1,Low marsh,within_elevation,5,Baccharis salicifolia,mule fat,native,2,58,ebb,5,95
+Ventura River,1,2021-03-29T00:00:00Z,1,Low marsh,within_elevation,5,Baccharis salicifolia,mule fat,native,5,66,ebb,5,95
+Ventura River,1,2021-03-29T00:00:00Z,1,Low marsh,within_elevation,5,Distichlis spicata,salt grass,native,2,4,ebb,5,95
+Ventura River,2,2021-03-30T00:00:00Z,1,Low marsh,within_elevation,1,Typha latifolia,broad-leaved cattail,native,10,105,ebb,85,15
+Ventura River,2,2021-03-30T00:00:00Z,1,Low marsh,within_elevation,1,Schoenoplectus californicus,southern bulrush,native,15,0,ebb,85,15
+Ventura River,2,2021-03-30T00:00:00Z,1,Low marsh,within_elevation,2,Typha latifolia,broad-leaved cattail,native,10,129,ebb,80,20
+Ventura River,2,2021-03-30T00:00:00Z,1,Low marsh,within_elevation,3,Typha latifolia,broad-leaved cattail,native,2,240,ebb,85,15
+Ventura River,2,2021-03-30T00:00:00Z,1,Low marsh,within_elevation,3,Typha latifolia,broad-leaved cattail,native,15,138,ebb,85,15
+Ventura River,2,2021-03-30T00:00:00Z,1,Low marsh,within_elevation,4,Typha latifolia,broad-leaved cattail,native,45,257,ebb,85,15
+Ventura River,2,2021-03-30T00:00:00Z,1,Low marsh,within_elevation,4,Typha latifolia,broad-leaved cattail,native,25,141,ebb,85,15
+Ventura River,2,2021-03-30T00:00:00Z,1,Low marsh,within_elevation,5,Schoenoplectus californicus,southern bulrush,native,2,102,ebb,65,35
+Ventura River,2,2021-03-30T00:00:00Z,1,Low marsh,within_elevation,5,Typha latifolia,broad-leaved cattail,native,2,128,ebb,65,35
+Ventura River,2,2021-03-30T00:00:00Z,1,Low marsh,within_elevation,5,Schoenoplectus californicus,southern bulrush,native,5,319,ebb,65,35
+Ventura River,2,2021-03-30T00:00:00Z,1,Low marsh,within_elevation,5,Typha latifolia,broad-leaved cattail,native,20,150,ebb,65,35
+Ventura River,1,2021-09-22T00:00:00Z,1,Low marsh,within_elevation,1,Cakile maritima,European sea rocket,naturalized,2,2,closed,2,98
+Ventura River,1,2021-09-22T00:00:00Z,1,Low marsh,within_elevation,4,Distichlis spicata,salt grass,native,2,0,closed,2,98
+Ventura River,3,2021-09-22T00:00:00Z,2,Low marsh,within_elevation,1,Cakile maritima,European sea rocket,naturalized,95,15,closed,95,5
+Ventura River,3,2021-09-22T00:00:00Z,2,Low marsh,within_elevation,3,Distichlis spicata,salt grass,native,40,10,closed,50,50
+Ventura River,3,2021-09-22T00:00:00Z,2,Low marsh,within_elevation,4,Distichlis spicata,salt grass,native,45,20,closed,45,55
+Ventura River,3,2021-09-22T00:00:00Z,2,Low marsh,within_elevation,5,Cakile maritima,European sea rocket,naturalized,5,5,closed,10,90
+Ventura River,3,2021-09-22T00:00:00Z,2,Low marsh,within_elevation,5,Distichlis spicata,salt grass,native,5,8,closed,10,90
+Batiquitos Lagoon,3,2021-04-11T00:00:00Z,2,Mid marsh,within_elevation,1,Salicornia pacifica,Pickleweed,native,50,37,ebb,50,50
+Batiquitos Lagoon,3,2021-04-11T00:00:00Z,2,Mid marsh,within_elevation,2,Salicornia pacifica,Pickleweed,native,40,30,ebb,40,60
+Batiquitos Lagoon,3,2021-04-11T00:00:00Z,2,Mid marsh,within_elevation,5,Salicornia pacifica,Pickleweed,native,10,0,ebb,10,90
+Batiquitos Lagoon,2,2021-10-17T00:00:00Z,2,Mid marsh,within_elevation,4,Spartina foliosa,California cordgrass,native,30,13,high,30,70
+Batiquitos Lagoon,2,2021-10-17T00:00:00Z,2,Mid marsh,within_elevation,4,Spartina foliosa,California cordgrass,native,27,19,high,30,70
+Batiquitos Lagoon,2,2021-10-17T00:00:00Z,2,Mid marsh,within_elevation,5,Spartina foliosa,California cordgrass,native,5,22,high,80,20
+Batiquitos Lagoon,2,2021-10-17T00:00:00Z,2,Mid marsh,within_elevation,5,Spartina foliosa,California cordgrass,native,75,24,high,80,20
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,2,Mid marsh,within_elevation,1,Salicornia pacifica,Pickleweed,native,15,27,high,57,43
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,2,Mid marsh,within_elevation,1,Spartina foliosa,California cordgrass,native,2,51,high,57,43
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,2,Mid marsh,within_elevation,1,Salicornia pacifica,Pickleweed,native,30,30,high,57,43
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,2,Mid marsh,within_elevation,1,Spartina foliosa,California cordgrass,native,10,61,high,57,43
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,2,Mid marsh,within_elevation,2,Salicornia pacifica,Pickleweed,native,10,21,high,35,65
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,2,Mid marsh,within_elevation,2,Salicornia pacifica,Pickleweed,native,25,25,high,35,65
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,2,Mid marsh,within_elevation,4,Salicornia pacifica,Pickleweed,native,1,19,high,20,80
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,2,Mid marsh,within_elevation,4,Spartina foliosa,California cordgrass,native,2,31,high,20,80
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,2,Mid marsh,within_elevation,4,Salicornia pacifica,Pickleweed,native,15,22,high,20,80
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,2,Mid marsh,within_elevation,4,Spartina foliosa,California cordgrass,native,2,30,high,20,80
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,2,Mid marsh,within_elevation,5,Salicornia pacifica,Pickleweed,native,1,15,high,34,66
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,2,Mid marsh,within_elevation,5,Spartina foliosa,California cordgrass,native,5,39,high,34,66
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,2,Mid marsh,within_elevation,5,Salicornia pacifica,Pickleweed,native,20,25,high,34,66
+Batiquitos Lagoon,3,2021-10-17T00:00:00Z,2,Mid marsh,within_elevation,5,Spartina foliosa,California cordgrass,native,8,34,high,34,66
+Goleta Slough,2,2021-03-23T00:00:00Z,2,Mid marsh,within_elevation,1,Salicornia pacifica,Pickleweed,native,40,51,ebb,100,0
+Goleta Slough,2,2021-03-23T00:00:00Z,2,Mid marsh,within_elevation,1,Salicornia pacifica,Pickleweed,native,60,47,ebb,100,0
+Goleta Slough,2,2021-03-23T00:00:00Z,2,Mid marsh,within_elevation,2,Salicornia pacifica,Pickleweed,native,45,42,ebb,95,5
+Goleta Slough,2,2021-03-23T00:00:00Z,2,Mid marsh,within_elevation,2,Salicornia pacifica,Pickleweed,native,50,35,ebb,95,5
+Goleta Slough,2,2021-03-23T00:00:00Z,2,Mid marsh,within_elevation,3,Salicornia pacifica,Pickleweed,native,55,55,ebb,95,5
+Goleta Slough,2,2021-03-23T00:00:00Z,2,Mid marsh,within_elevation,3,Salicornia pacifica,Pickleweed,native,40,42,ebb,95,5
+Goleta Slough,2,2021-03-23T00:00:00Z,2,Mid marsh,within_elevation,4,Salicornia pacifica,Pickleweed,native,30,50,ebb,95,5
+Goleta Slough,2,2021-03-23T00:00:00Z,2,Mid marsh,within_elevation,4,Salicornia pacifica,Pickleweed,native,65,33,ebb,95,5
+Goleta Slough,2,2021-03-23T00:00:00Z,2,Mid marsh,within_elevation,5,Salicornia pacifica,Pickleweed,native,20,54,ebb,80,20
+Goleta Slough,2,2021-03-23T00:00:00Z,2,Mid marsh,within_elevation,5,Salicornia pacifica,Pickleweed,native,60,44,ebb,80,20
+Goleta Slough,3,2021-03-24T00:00:00Z,2,Mid marsh,within_elevation,1,Cakile maritima,European sea rocket,naturalized,20,10,ebb,20,80
+Goleta Slough,3,2021-03-24T00:00:00Z,2,Mid marsh,within_elevation,2,Cakile maritima,European sea rocket,naturalized,15,9,ebb,15,85
+Goleta Slough,3,2021-03-24T00:00:00Z,2,Mid marsh,within_elevation,3,Cakile maritima,European sea rocket,naturalized,26,7,ebb,20,80
+Goleta Slough,3,2021-03-24T00:00:00Z,2,Mid marsh,within_elevation,4,Cakile maritima,European sea rocket,naturalized,20,0,ebb,20,80
+Goleta Slough,3,2021-03-24T00:00:00Z,2,Mid marsh,within_elevation,5,Cakile maritima,European sea rocket,naturalized,5,9,ebb,10,90
+Goleta Slough,1,2021-03-25T00:00:00Z,1,Mid marsh,within_elevation,1,Arthrocnemum subterminale,Parish's glasswort,native,10,35,ebb,100,0
+Goleta Slough,1,2021-03-25T00:00:00Z,1,Mid marsh,within_elevation,1,Distichlis spicata,salt grass,native,20,0,ebb,100,0
+Goleta Slough,1,2021-03-25T00:00:00Z,1,Mid marsh,within_elevation,1,Frankenia salina,alkali heath,native,10,10,ebb,100,0
+Goleta Slough,1,2021-03-25T00:00:00Z,1,Mid marsh,within_elevation,1,Jaumea carnosa,fleshy jaumea,native,2,10,ebb,100,0
+Goleta Slough,1,2021-03-25T00:00:00Z,1,Mid marsh,within_elevation,1,Salicornia pacifica,Pickleweed,native,75,20,ebb,100,0
+Goleta Slough,1,2021-03-25T00:00:00Z,1,Mid marsh,within_elevation,2,Cuscuta salina,salt dodder,native,20,0,ebb,100,0
+Goleta Slough,1,2021-03-25T00:00:00Z,1,Mid marsh,within_elevation,2,Distichlis spicata,salt grass,native,5,20,ebb,100,0
+Goleta Slough,1,2021-03-25T00:00:00Z,1,Mid marsh,within_elevation,2,Frankenia salina,alkali heath,native,75,20,ebb,100,0
+Goleta Slough,1,2021-03-25T00:00:00Z,1,Mid marsh,within_elevation,3,Distichlis spicata,salt grass,native,60,10,ebb,90,10
+Goleta Slough,1,2021-03-25T00:00:00Z,1,Mid marsh,within_elevation,3,Salicornia pacifica,Pickleweed,native,90,45,ebb,90,10
+Goleta Slough,1,2021-03-25T00:00:00Z,1,Mid marsh,within_elevation,4,Distichlis spicata,salt grass,native,5,5,ebb,95,5
+Goleta Slough,1,2021-03-25T00:00:00Z,1,Mid marsh,within_elevation,4,Frankenia salina,alkali heath,native,40,40,ebb,95,5
+Goleta Slough,1,2021-03-25T00:00:00Z,1,Mid marsh,within_elevation,4,Salicornia pacifica,Pickleweed,native,55,60,ebb,95,5
+Goleta Slough,1,2021-03-25T00:00:00Z,1,Mid marsh,within_elevation,4,Cuscuta salina,salt dodder,native,15,0,ebb,95,5
+Goleta Slough,1,2021-03-25T00:00:00Z,1,Mid marsh,within_elevation,5,Cuscuta salina,salt dodder,native,15,0,ebb,95,5
+Goleta Slough,1,2021-03-25T00:00:00Z,1,Mid marsh,within_elevation,5,Distichlis spicata,salt grass,native,10,5,ebb,95,5
+Goleta Slough,1,2021-03-25T00:00:00Z,1,Mid marsh,within_elevation,5,Frankenia salina,alkali heath,native,10,25,ebb,95,5
+Goleta Slough,1,2021-03-25T00:00:00Z,1,Mid marsh,within_elevation,5,Cuscuta salina,salt dodder,native,5,0,ebb,95,5
+Goleta Slough,1,2021-03-25T00:00:00Z,1,Mid marsh,within_elevation,5,Frankenia salina,alkali heath,native,55,20,ebb,95,5
+Goleta Slough,1,2021-03-25T00:00:00Z,1,Mid marsh,within_elevation,5,Salicornia pacifica,Pickleweed,native,60,55,ebb,95,5
+Goleta Slough,1,2021-03-25T00:00:00Z,2,Mid marsh,within_elevation,1,Frankenia salina,alkali heath,native,15,40,ebb,90,10
+Goleta Slough,1,2021-03-25T00:00:00Z,2,Mid marsh,within_elevation,1,Salicornia pacifica,Pickleweed,native,50,45,ebb,90,10
+Goleta Slough,1,2021-03-25T00:00:00Z,2,Mid marsh,within_elevation,2,Salicornia pacifica,Pickleweed,native,95,45,ebb,98,2
+Goleta Slough,1,2021-03-25T00:00:00Z,2,Mid marsh,within_elevation,3,Salicornia pacifica,Pickleweed,native,95,45,ebb,100,0
+Goleta Slough,1,2021-03-25T00:00:00Z,2,Mid marsh,within_elevation,4,Salicornia pacifica,Pickleweed,native,100,45,ebb,100,0
+Goleta Slough,1,2021-03-25T00:00:00Z,2,Mid marsh,within_elevation,5,Salicornia pacifica,Pickleweed,native,95,40,ebb,95,5
+Goleta Slough,2,2021-09-20T00:00:00Z,2,Mid marsh,within_elevation,1,Carpobrotus edulis,iceplant,non-native,90,20,high,100,0
+Goleta Slough,2,2021-09-20T00:00:00Z,2,Mid marsh,within_elevation,1,Salicornia pacifica,Pickleweed,native,25,25,high,100,0
+Goleta Slough,2,2021-09-20T00:00:00Z,2,Mid marsh,within_elevation,3,Salicornia pacifica,Pickleweed,native,10,40,high,100,0
+Goleta Slough,2,2021-09-20T00:00:00Z,2,Mid marsh,within_elevation,3,Salicornia pacifica,Pickleweed,native,100,50,high,100,0
+Goleta Slough,2,2021-09-20T00:00:00Z,2,Mid marsh,within_elevation,4,Salicornia pacifica,Pickleweed,native,100,40,high,0,100
+Goleta Slough,2,2021-09-20T00:00:00Z,2,Mid marsh,within_elevation,5,Salicornia pacifica,Pickleweed,native,80,50,high,100,0
+Goleta Slough,3,2021-09-20T00:00:00Z,2,Mid marsh,within_elevation,1,Salicornia pacifica,Pickleweed,native,10,45,high,100,0
+Goleta Slough,3,2021-09-20T00:00:00Z,2,Mid marsh,within_elevation,1,Arthrocnemum subterminale,Parish's glasswort,native,5,20,high,100,0
+Goleta Slough,3,2021-09-20T00:00:00Z,2,Mid marsh,within_elevation,1,Jaumea carnosa,fleshy jaumea,native,25,20,high,100,0
+Goleta Slough,3,2021-09-20T00:00:00Z,2,Mid marsh,within_elevation,1,Salicornia pacifica,Pickleweed,native,90,50,high,100,0
+Goleta Slough,3,2021-09-20T00:00:00Z,2,Mid marsh,within_elevation,2,Salicornia pacifica,Pickleweed,native,5,5,high,70,30
+Goleta Slough,3,2021-09-20T00:00:00Z,2,Mid marsh,within_elevation,2,Arthrocnemum subterminale,Parish's glasswort,native,60,35,high,70,30
+Goleta Slough,3,2021-09-20T00:00:00Z,2,Mid marsh,within_elevation,2,Cressa truxillensis,alkali weed,native,5,8,high,70,30
+Goleta Slough,3,2021-09-20T00:00:00Z,2,Mid marsh,within_elevation,3,Arthrocnemum subterminale,Parish's glasswort,native,15,30,high,75,25
+Goleta Slough,3,2021-09-20T00:00:00Z,2,Mid marsh,within_elevation,3,Arthrocnemum subterminale,Parish's glasswort,native,25,40,high,75,25
+Goleta Slough,3,2021-09-20T00:00:00Z,2,Mid marsh,within_elevation,3,Cressa truxillensis,alkali weed,native,5,10,high,75,25
+Goleta Slough,3,2021-09-20T00:00:00Z,2,Mid marsh,within_elevation,3,Jaumea carnosa,fleshy jaumea,native,50,10,high,75,25
+Goleta Slough,3,2021-09-20T00:00:00Z,2,Mid marsh,within_elevation,4,Arthrocnemum subterminale,Parish's glasswort,native,40,30,high,50,50
+Goleta Slough,3,2021-09-20T00:00:00Z,2,Mid marsh,within_elevation,4,Arthrocnemum subterminale,Parish's glasswort,native,25,40,high,50,50
+Goleta Slough,3,2021-09-20T00:00:00Z,2,Mid marsh,within_elevation,4,Cressa truxillensis,alkali weed,native,5,10,high,50,50
+Goleta Slough,3,2021-09-20T00:00:00Z,2,Mid marsh,within_elevation,4,Jaumea carnosa,fleshy jaumea,native,10,10,high,50,50
+Goleta Slough,3,2021-09-20T00:00:00Z,2,Mid marsh,within_elevation,5,Arthrocnemum subterminale,Parish's glasswort,native,5,30,high,25,75
+Goleta Slough,3,2021-09-20T00:00:00Z,2,Mid marsh,within_elevation,5,Cressa truxillensis,alkali weed,native,5,10,high,25,75
+Goleta Slough,3,2021-09-20T00:00:00Z,2,Mid marsh,within_elevation,5,Jaumea carnosa,fleshy jaumea,native,10,10,high,25,75
+Goleta Slough,3,2021-09-20T00:00:00Z,2,Mid marsh,within_elevation,5,Suaeda taxifolia,wooly seablite,native,15,20,high,25,75
+Goleta Slough,1,2021-09-21T00:00:00Z,2,Mid marsh,within_elevation,1,Salicornia pacifica,Pickleweed,native,75,25,high,95,5
+Goleta Slough,1,2021-09-21T00:00:00Z,2,Mid marsh,within_elevation,1,Frankenia salina,alkali heath,native,10,17,high,95,5
+Goleta Slough,1,2021-09-21T00:00:00Z,2,Mid marsh,within_elevation,1,Salicornia pacifica,Pickleweed,native,5,50,high,95,5
+Goleta Slough,1,2021-09-21T00:00:00Z,2,Mid marsh,within_elevation,2,Frankenia salina,alkali heath,native,5,13,high,100,0
+Goleta Slough,1,2021-09-21T00:00:00Z,2,Mid marsh,within_elevation,2,Salicornia pacifica,Pickleweed,native,5,22,high,100,0
+Goleta Slough,1,2021-09-21T00:00:00Z,2,Mid marsh,within_elevation,2,Cuscuta salina,salt dodder,native,15,0,high,100,0
+Goleta Slough,1,2021-09-21T00:00:00Z,2,Mid marsh,within_elevation,2,Frankenia salina,alkali heath,native,20,16,high,100,0
+Goleta Slough,1,2021-09-21T00:00:00Z,2,Mid marsh,within_elevation,2,Salicornia pacifica,Pickleweed,native,50,39,high,100,0
+Goleta Slough,1,2021-09-21T00:00:00Z,2,Mid marsh,within_elevation,3,Salicornia pacifica,Pickleweed,native,35,41,high,100,0
+Goleta Slough,1,2021-09-21T00:00:00Z,2,Mid marsh,within_elevation,3,Salicornia pacifica,Pickleweed,native,65,40,high,100,0
+Goleta Slough,1,2021-09-21T00:00:00Z,2,Mid marsh,within_elevation,4,Salicornia pacifica,Pickleweed,native,45,44,high,100,0
+Goleta Slough,1,2021-09-21T00:00:00Z,2,Mid marsh,within_elevation,4,Salicornia pacifica,Pickleweed,native,55,46,high,100,0
+Goleta Slough,1,2021-09-21T00:00:00Z,2,Mid marsh,within_elevation,5,Salicornia pacifica,Pickleweed,native,15,42,high,95,5
+Goleta Slough,1,2021-09-21T00:00:00Z,2,Mid marsh,within_elevation,5,Salicornia pacifica,Pickleweed,native,80,40,high,95,5
+Malibu Lagoon,1,2021-04-05T00:00:00Z,2,Mid marsh,within_elevation,1,Distichlis spicata,salt grass,native,15,10,ebb,95,5
+Malibu Lagoon,1,2021-04-05T00:00:00Z,2,Mid marsh,within_elevation,1,Distichlis spicata,salt grass,native,60,30,ebb,95,5
+Malibu Lagoon,1,2021-04-05T00:00:00Z,2,Mid marsh,within_elevation,1,Frankenia salina,alkali heath,native,5,20,ebb,95,5
+Malibu Lagoon,1,2021-04-05T00:00:00Z,2,Mid marsh,within_elevation,1,Jaumea carnosa,fleshy jaumea,native,10,10,ebb,95,5
+Malibu Lagoon,1,2021-04-05T00:00:00Z,2,Mid marsh,within_elevation,1,Salicornia pacifica,Pickleweed,native,25,35,ebb,95,5
+Malibu Lagoon,1,2021-04-05T00:00:00Z,2,Mid marsh,within_elevation,2,Distichlis spicata,salt grass,native,50,30,ebb,95,5
+Malibu Lagoon,1,2021-04-05T00:00:00Z,2,Mid marsh,within_elevation,2,Jaumea carnosa,fleshy jaumea,native,5,10,ebb,95,5
+Malibu Lagoon,1,2021-04-05T00:00:00Z,2,Mid marsh,within_elevation,2,Limonium californicum,Western marsh-rosemary,native,5,15,ebb,95,5
+Malibu Lagoon,1,2021-04-05T00:00:00Z,2,Mid marsh,within_elevation,2,Salicornia bigelovii,dwarf glasswort,native,2,20,ebb,95,5
+Malibu Lagoon,1,2021-04-05T00:00:00Z,2,Mid marsh,within_elevation,2,Salicornia pacifica,Pickleweed,native,10,60,ebb,95,5
+Malibu Lagoon,1,2021-04-05T00:00:00Z,2,Mid marsh,within_elevation,2,Cuscuta salina,salt dodder,native,10,0,ebb,95,5
+Malibu Lagoon,1,2021-04-05T00:00:00Z,2,Mid marsh,within_elevation,2,Frankenia salina,alkali heath,native,70,20,ebb,95,5
+Malibu Lagoon,1,2021-04-05T00:00:00Z,2,Mid marsh,within_elevation,3,Distichlis spicata,salt grass,native,40,30,ebb,95,5
+Malibu Lagoon,1,2021-04-05T00:00:00Z,2,Mid marsh,within_elevation,3,Frankenia salina,alkali heath,native,25,30,ebb,95,5
+Malibu Lagoon,1,2021-04-05T00:00:00Z,2,Mid marsh,within_elevation,3,Jaumea carnosa,fleshy jaumea,native,10,5,ebb,95,5
+Malibu Lagoon,1,2021-04-05T00:00:00Z,2,Mid marsh,within_elevation,3,Salicornia pacifica,Pickleweed,native,80,60,ebb,95,5
+Malibu Lagoon,1,2021-04-05T00:00:00Z,2,Mid marsh,within_elevation,4,Distichlis littoralis,shore grass,native,2,15,ebb,95,5
+Malibu Lagoon,1,2021-04-05T00:00:00Z,2,Mid marsh,within_elevation,4,Distichlis spicata,salt grass,native,70,20,ebb,95,5
+Malibu Lagoon,1,2021-04-05T00:00:00Z,2,Mid marsh,within_elevation,4,Frankenia salina,alkali heath,native,10,20,ebb,95,5
+Malibu Lagoon,1,2021-04-05T00:00:00Z,2,Mid marsh,within_elevation,4,Jaumea carnosa,fleshy jaumea,native,30,10,ebb,95,5
+Malibu Lagoon,1,2021-04-05T00:00:00Z,2,Mid marsh,within_elevation,4,Salicornia bigelovii,dwarf glasswort,native,5,15,ebb,95,5
+Malibu Lagoon,1,2021-04-05T00:00:00Z,2,Mid marsh,within_elevation,4,Salicornia pacifica,Pickleweed,native,25,40,ebb,95,5
+Malibu Lagoon,1,2021-04-05T00:00:00Z,2,Mid marsh,within_elevation,5,Distichlis spicata,salt grass,native,2,25,ebb,100,0
+Malibu Lagoon,1,2021-04-05T00:00:00Z,2,Mid marsh,within_elevation,5,Jaumea carnosa,fleshy jaumea,native,40,15,ebb,100,0
+Malibu Lagoon,1,2021-04-05T00:00:00Z,2,Mid marsh,within_elevation,5,Salicornia bigelovii,dwarf glasswort,native,2,20,ebb,100,0
+Malibu Lagoon,3,2021-04-05T00:00:00Z,2,Mid marsh,within_elevation,1,Acmispon glaber,deerweed,native,10,60,ebb,70,30
+Malibu Lagoon,3,2021-04-05T00:00:00Z,2,Mid marsh,within_elevation,1,Arthrocnemum subterminale,Parish's glasswort,native,5,20,ebb,70,30
+Malibu Lagoon,3,2021-04-05T00:00:00Z,2,Mid marsh,within_elevation,1,Distichlis littoralis,shore grass,native,20,10,ebb,70,30
+Malibu Lagoon,3,2021-04-05T00:00:00Z,2,Mid marsh,within_elevation,1,Distichlis spicata,salt grass,native,30,20,ebb,70,30
+Malibu Lagoon,3,2021-04-05T00:00:00Z,2,Mid marsh,within_elevation,1,Frankenia salina,alkali heath,native,10,8,ebb,70,30
+Malibu Lagoon,3,2021-04-05T00:00:00Z,2,Mid marsh,within_elevation,2,Distichlis littoralis,shore grass,native,10,10,ebb,100,0
+Malibu Lagoon,3,2021-04-05T00:00:00Z,2,Mid marsh,within_elevation,2,Distichlis spicata,salt grass,native,75,30,ebb,100,0
+Malibu Lagoon,3,2021-04-05T00:00:00Z,2,Mid marsh,within_elevation,2,Frankenia salina,alkali heath,native,10,8,ebb,100,0
+Malibu Lagoon,3,2021-04-05T00:00:00Z,2,Mid marsh,within_elevation,2,Jaumea carnosa,fleshy jaumea,native,40,15,ebb,100,0
+Malibu Lagoon,3,2021-04-05T00:00:00Z,2,Mid marsh,within_elevation,2,Salicornia pacifica,Pickleweed,native,25,55,ebb,100,0
+Malibu Lagoon,3,2021-04-05T00:00:00Z,2,Mid marsh,within_elevation,3,Acmispon glaber,deerweed,native,40,55,ebb,80,20
+Malibu Lagoon,3,2021-04-05T00:00:00Z,2,Mid marsh,within_elevation,3,Arthrocnemum subterminale,Parish's glasswort,native,20,15,ebb,80,20
+Malibu Lagoon,3,2021-04-05T00:00:00Z,2,Mid marsh,within_elevation,3,Distichlis spicata,salt grass,native,40,20,ebb,80,20
+Malibu Lagoon,3,2021-04-05T00:00:00Z,2,Mid marsh,within_elevation,3,Frankenia salina,alkali heath,native,10,10,ebb,80,20
+Malibu Lagoon,3,2021-04-05T00:00:00Z,2,Mid marsh,within_elevation,3,Jaumea carnosa,fleshy jaumea,native,20,8,ebb,80,20
+Malibu Lagoon,3,2021-04-05T00:00:00Z,2,Mid marsh,within_elevation,3,Salicornia pacifica,Pickleweed,native,2,10,ebb,80,20
+Malibu Lagoon,3,2021-04-05T00:00:00Z,2,Mid marsh,within_elevation,4,Arthrocnemum subterminale,Parish's glasswort,native,2,5,ebb,100,0
+Malibu Lagoon,3,2021-04-05T00:00:00Z,2,Mid marsh,within_elevation,4,Distichlis spicata,salt grass,native,5,35,ebb,100,0
+Malibu Lagoon,3,2021-04-05T00:00:00Z,2,Mid marsh,within_elevation,4,Frankenia salina,alkali heath,native,2,10,ebb,100,0
+Malibu Lagoon,3,2021-04-05T00:00:00Z,2,Mid marsh,within_elevation,4,Jaumea carnosa,fleshy jaumea,native,20,30,ebb,100,0
+Malibu Lagoon,3,2021-04-05T00:00:00Z,2,Mid marsh,within_elevation,4,Salicornia pacifica,Pickleweed,native,10,10,ebb,100,0
+Malibu Lagoon,3,2021-04-05T00:00:00Z,2,Mid marsh,within_elevation,5,Distichlis spicata,salt grass,native,75,30,ebb,90,10
+Malibu Lagoon,3,2021-04-05T00:00:00Z,2,Mid marsh,within_elevation,5,Frankenia salina,alkali heath,native,15,15,ebb,90,10
+Malibu Lagoon,3,2021-04-05T00:00:00Z,2,Mid marsh,within_elevation,5,Jaumea carnosa,fleshy jaumea,native,10,8,ebb,90,10
+Malibu Lagoon,3,2021-04-05T00:00:00Z,2,Mid marsh,within_elevation,5,Salicornia pacifica,Pickleweed,native,15,25,ebb,90,10
+Malibu Lagoon,3,2021-04-05T00:00:00Z,2,Mid marsh,within_elevation,5,Acmispon glaber,deerweed,native,5,65,ebb,90,10
+Malibu Lagoon,3,2021-04-05T00:00:00Z,2,Mid marsh,within_elevation,5,Cuscuta salina,salt dodder,native,2,0,ebb,90,10
+Malibu Lagoon,3,2021-04-05T00:00:00Z,2,Mid marsh,within_elevation,5,Isocoma menziesii,coastal goldenbush,native,15,40,ebb,90,10
+Malibu Lagoon,2,2021-04-06T00:00:00Z,2,Mid marsh,within_elevation,1,Distichlis spicata,salt grass,native,40,28,ebb,95,5
+Malibu Lagoon,2,2021-04-06T00:00:00Z,2,Mid marsh,within_elevation,1,Frankenia salina,alkali heath,native,5,22,ebb,95,5
+Malibu Lagoon,2,2021-04-06T00:00:00Z,2,Mid marsh,within_elevation,1,Isocoma menziesii,coastal goldenbush,native,2,30,ebb,95,5
+Malibu Lagoon,2,2021-04-06T00:00:00Z,2,Mid marsh,within_elevation,2,Frankenia salina,alkali heath,native,2,10,ebb,98,2
+Malibu Lagoon,2,2021-04-06T00:00:00Z,2,Mid marsh,within_elevation,2,Distichlis spicata,salt grass,native,60,30,ebb,98,2
+Malibu Lagoon,2,2021-04-06T00:00:00Z,2,Mid marsh,within_elevation,2,Frankenia salina,alkali heath,native,10,10,ebb,98,2
+Malibu Lagoon,2,2021-04-06T00:00:00Z,2,Mid marsh,within_elevation,2,Jaumea carnosa,fleshy jaumea,native,10,10,ebb,98,2
+Malibu Lagoon,2,2021-04-06T00:00:00Z,2,Mid marsh,within_elevation,2,Carex arenaria,sand sedge,native,2,10,ebb,98,2
+Malibu Lagoon,2,2021-04-06T00:00:00Z,2,Mid marsh,within_elevation,2,Cuscuta salina,salt dodder,native,10,0,ebb,98,2
+Malibu Lagoon,2,2021-04-06T00:00:00Z,2,Mid marsh,within_elevation,2,Salicornia pacifica,Pickleweed,native,25,45,ebb,98,2
+Malibu Lagoon,2,2021-04-06T00:00:00Z,2,Mid marsh,within_elevation,3,Atriplex prostrata,fat hen,non-native,10,19,ebb,90,10
+Malibu Lagoon,2,2021-04-06T00:00:00Z,2,Mid marsh,within_elevation,3,Distichlis spicata,salt grass,native,50,30,ebb,90,10
+Malibu Lagoon,2,2021-04-06T00:00:00Z,2,Mid marsh,within_elevation,3,Frankenia salina,alkali heath,native,5,20,ebb,90,10
+Malibu Lagoon,2,2021-04-06T00:00:00Z,2,Mid marsh,within_elevation,3,Isocoma menziesii,coastal goldenbush,native,2,12,ebb,90,10
+Malibu Lagoon,2,2021-04-06T00:00:00Z,2,Mid marsh,within_elevation,3,Jaumea carnosa,fleshy jaumea,native,5,8,ebb,90,10
+Malibu Lagoon,2,2021-04-06T00:00:00Z,2,Mid marsh,within_elevation,3,Salicornia pacifica,Pickleweed,native,20,49,ebb,90,10
+Malibu Lagoon,2,2021-04-06T00:00:00Z,2,Mid marsh,within_elevation,4,Distichlis spicata,salt grass,native,30,15,ebb,85,15
+Malibu Lagoon,2,2021-04-06T00:00:00Z,2,Mid marsh,within_elevation,4,Frankenia salina,alkali heath,native,10,17,ebb,85,15
+Malibu Lagoon,2,2021-04-06T00:00:00Z,2,Mid marsh,within_elevation,4,Jaumea carnosa,fleshy jaumea,native,15,9,ebb,85,15
+Malibu Lagoon,2,2021-04-06T00:00:00Z,2,Mid marsh,within_elevation,4,Salicornia pacifica,Pickleweed,native,20,55,ebb,85,15
+Malibu Lagoon,2,2021-04-06T00:00:00Z,2,Mid marsh,within_elevation,4,Isocoma menziesii,coastal goldenbush,native,2,4,ebb,85,15
+Malibu Lagoon,2,2021-04-06T00:00:00Z,2,Mid marsh,within_elevation,5,Distichlis spicata,salt grass,native,10,11,ebb,80,20
+Malibu Lagoon,2,2021-04-06T00:00:00Z,2,Mid marsh,within_elevation,5,Frankenia salina,alkali heath,native,5,38,ebb,80,20
+Malibu Lagoon,2,2021-04-06T00:00:00Z,2,Mid marsh,within_elevation,5,Salicornia pacifica,Pickleweed,native,75,78,ebb,80,20
+Malibu Lagoon,1,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,1,Distichlis spicata,salt grass,native,25,40,closed,95,5
+Malibu Lagoon,1,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,1,Salicornia pacifica,Pickleweed,native,20,60,closed,95,5
+Malibu Lagoon,1,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,1,Distichlis spicata,salt grass,native,30,20,closed,95,5
+Malibu Lagoon,1,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,1,Frankenia salina,alkali heath,native,5,10,closed,95,5
+Malibu Lagoon,1,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,1,Jaumea carnosa,fleshy jaumea,native,30,10,closed,95,5
+Malibu Lagoon,1,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,1,Salicornia pacifica,Pickleweed,native,40,50,closed,95,5
+Malibu Lagoon,1,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,2,Limonium californicum,Western marsh-rosemary,native,10,50,closed,60,40
+Malibu Lagoon,1,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,2,Frankenia salina,alkali heath,native,30,20,closed,60,40
+Malibu Lagoon,1,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,2,Salicornia pacifica,Pickleweed,native,40,60,closed,60,40
+Malibu Lagoon,1,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,3,Distichlis spicata,salt grass,native,10,50,closed,95,5
+Malibu Lagoon,1,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,3,Distichlis littoralis,shore grass,native,10,30,closed,95,5
+Malibu Lagoon,1,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,3,Distichlis spicata,salt grass,native,20,25,closed,95,5
+Malibu Lagoon,1,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,3,Frankenia salina,alkali heath,native,40,25,closed,95,5
+Malibu Lagoon,1,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,3,Jaumea carnosa,fleshy jaumea,native,30,10,closed,95,5
+Malibu Lagoon,1,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,3,Salicornia pacifica,Pickleweed,native,40,65,closed,95,5
+Malibu Lagoon,1,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,4,Arthrocnemum subterminale,Parish's glasswort,native,5,20,closed,60,40
+Malibu Lagoon,1,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,4,Frankenia salina,alkali heath,native,40,10,closed,60,40
+Malibu Lagoon,1,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,4,Salicornia pacifica,Pickleweed,native,30,40,closed,60,40
+Malibu Lagoon,1,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,5,Salicornia pacifica,Pickleweed,native,15,40,closed,95,5
+Malibu Lagoon,1,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,5,Distichlis spicata,salt grass,native,30,30,closed,95,5
+Malibu Lagoon,1,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,5,Frankenia salina,alkali heath,native,5,15,closed,95,5
+Malibu Lagoon,1,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,5,Jaumea carnosa,fleshy jaumea,native,40,10,closed,95,5
+Malibu Lagoon,1,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,5,Salicornia pacifica,Pickleweed,native,30,40,closed,95,5
+Malibu Lagoon,2,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,1,Distichlis spicata,salt grass,native,10,10,closed,90,10
+Malibu Lagoon,2,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,1,Jaumea carnosa,fleshy jaumea,native,90,10,closed,90,10
+Malibu Lagoon,2,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,1,Schoenoplectus californicus,southern bulrush,native,2,20,closed,90,10
+Malibu Lagoon,2,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,2,Distichlis spicata,salt grass,native,60,20,closed,100,0
+Malibu Lagoon,2,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,2,Jaumea carnosa,fleshy jaumea,native,75,25,closed,100,0
+Malibu Lagoon,2,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,2,Salicornia pacifica,Pickleweed,native,25,50,closed,100,0
+Malibu Lagoon,2,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,2,Cuscuta salina,salt dodder,native,5,0,closed,100,0
+Malibu Lagoon,2,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,3,Cuscuta salina,salt dodder,native,5,0,closed,100,0
+Malibu Lagoon,2,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,3,Distichlis spicata,salt grass,native,15,10,closed,100,0
+Malibu Lagoon,2,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,3,Cuscuta salina,salt dodder,native,5,0,closed,100,0
+Malibu Lagoon,2,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,3,Distichlis spicata,salt grass,native,80,25,closed,100,0
+Malibu Lagoon,2,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,3,Jaumea carnosa,fleshy jaumea,native,60,20,closed,100,0
+Malibu Lagoon,2,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,3,Salicornia pacifica,Pickleweed,native,15,40,closed,100,0
+Malibu Lagoon,2,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,4,Distichlis spicata,salt grass,native,25,40,closed,85,15
+Malibu Lagoon,2,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,4,Jaumea carnosa,fleshy jaumea,native,40,10,closed,85,15
+Malibu Lagoon,2,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,4,Salicornia pacifica,Pickleweed,native,5,30,closed,85,15
+Malibu Lagoon,3,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,1,Distichlis spicata,salt grass,native,30,20,closed,95,5
+Malibu Lagoon,3,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,1,Distichlis spicata,salt grass,native,20,25,closed,95,5
+Malibu Lagoon,3,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,1,Frankenia salina,alkali heath,native,5,8,closed,95,5
+Malibu Lagoon,3,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,1,Isocoma menziesii,coastal goldenbush,native,30,50,closed,95,5
+Malibu Lagoon,3,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,1,Jaumea carnosa,fleshy jaumea,native,30,130,closed,95,5
+Malibu Lagoon,3,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,1,Salicornia pacifica,Pickleweed,native,20,40,closed,95,5
+Malibu Lagoon,3,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,2,Cuscuta salina,salt dodder,native,10,0,closed,90,10
+Malibu Lagoon,3,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,2,Distichlis spicata,salt grass,native,20,60,closed,90,10
+Malibu Lagoon,3,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,2,Frankenia salina,alkali heath,native,20,10,closed,90,10
+Malibu Lagoon,3,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,2,Jaumea carnosa,fleshy jaumea,native,20,40,closed,90,10
+Malibu Lagoon,3,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,2,Salicornia pacifica,Pickleweed,native,25,60,closed,90,10
+Malibu Lagoon,3,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,3,Cuscuta salina,salt dodder,native,5,0,closed,90,10
+Malibu Lagoon,3,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,3,Distichlis spicata,salt grass,native,20,15,closed,90,10
+Malibu Lagoon,3,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,3,Cuscuta salina,salt dodder,native,5,0,closed,90,10
+Malibu Lagoon,3,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,3,Distichlis spicata,salt grass,native,60,30,closed,90,10
+Malibu Lagoon,3,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,3,Frankenia salina,alkali heath,native,5,10,closed,90,10
+Malibu Lagoon,3,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,3,Isocoma menziesii,coastal goldenbush,native,10,30,closed,90,10
+Malibu Lagoon,3,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,3,Jaumea carnosa,fleshy jaumea,native,2,15,closed,90,10
+Malibu Lagoon,3,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,3,Salicornia pacifica,Pickleweed,native,25,35,closed,90,10
+Malibu Lagoon,3,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,4,Distichlis spicata,salt grass,native,25,15,closed,100,0
+Malibu Lagoon,3,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,4,Cuscuta salina,salt dodder,native,10,0,closed,100,0
+Malibu Lagoon,3,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,4,Distichlis littoralis,shore grass,native,10,15,closed,100,0
+Malibu Lagoon,3,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,4,Distichlis spicata,salt grass,native,80,20,closed,100,0
+Malibu Lagoon,3,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,4,Frankenia salina,alkali heath,native,5,10,closed,100,0
+Malibu Lagoon,3,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,4,Jaumea carnosa,fleshy jaumea,native,20,15,closed,100,0
+Malibu Lagoon,3,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,4,Salicornia pacifica,Pickleweed,native,30,60,closed,100,0
+Malibu Lagoon,3,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,5,Distichlis spicata,salt grass,native,20,25,closed,80,20
+Malibu Lagoon,3,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,5,Frankenia salina,alkali heath,native,5,5,closed,80,20
+Malibu Lagoon,3,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,5,Arthrocnemum subterminale,Parish's glasswort,native,2,10,closed,80,20
+Malibu Lagoon,3,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,5,Distichlis littoralis,shore grass,native,5,10,closed,80,20
+Malibu Lagoon,3,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,5,Distichlis spicata,salt grass,native,40,25,closed,80,20
+Malibu Lagoon,3,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,5,Frankenia salina,alkali heath,native,5,15,closed,80,20
+Malibu Lagoon,3,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,5,Isocoma menziesii,coastal goldenbush,native,50,20,closed,80,20
+Malibu Lagoon,3,2021-10-06T00:00:00Z,2,Mid marsh,within_elevation,5,Limonium californicum,Western marsh-rosemary,native,10,45,closed,80,20
+Newport Bay,1,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,1,Batis maritima,saltwort,native,25,8,ebb,80,20
+Newport Bay,1,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,1,Salicornia bigelovii,dwarf glasswort,native,25,5,ebb,80,20
+Newport Bay,1,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,1,Salicornia pacifica,Pickleweed,native,75,25,ebb,80,20
+Newport Bay,1,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,2,Salicornia bigelovii,dwarf glasswort,native,10,10,ebb,75,25
+Newport Bay,1,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,2,Salicornia pacifica,Pickleweed,native,5,20,ebb,75,25
+Newport Bay,1,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,2,Batis maritima,saltwort,native,40,5,ebb,75,25
+Newport Bay,1,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,2,Frankenia salina,alkali heath,native,20,9,ebb,75,25
+Newport Bay,1,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,2,Jaumea carnosa,fleshy jaumea,native,10,7,ebb,75,25
+Newport Bay,1,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,2,Salicornia bigelovii,dwarf glasswort,native,10,20,ebb,75,25
+Newport Bay,1,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,2,Salicornia pacifica,Pickleweed,native,5,10,ebb,75,25
+Newport Bay,1,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,3,Salicornia bigelovii,dwarf glasswort,native,10,20,ebb,80,20
+Newport Bay,1,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,3,Batis maritima,saltwort,native,20,6,ebb,80,20
+Newport Bay,1,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,3,Frankenia salina,alkali heath,native,40,15,ebb,80,20
+Newport Bay,1,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,3,Jaumea carnosa,fleshy jaumea,native,25,5,ebb,80,20
+Newport Bay,1,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,3,Limonium californicum,Western marsh-rosemary,native,10,20,ebb,80,20
+Newport Bay,1,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,3,Salicornia bigelovii,dwarf glasswort,native,10,5,ebb,80,20
+Newport Bay,1,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,3,Salicornia pacifica,Pickleweed,native,15,20,ebb,80,20
+Newport Bay,1,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,4,Salicornia bigelovii,dwarf glasswort,native,10,10,ebb,60,40
+Newport Bay,1,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,4,Batis maritima,saltwort,native,5,5,ebb,60,40
+Newport Bay,1,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,4,Frankenia salina,alkali heath,native,25,10,ebb,60,40
+Newport Bay,1,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,4,Jaumea carnosa,fleshy jaumea,native,15,20,ebb,60,40
+Newport Bay,1,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,4,Limonium californicum,Western marsh-rosemary,native,25,20,ebb,60,40
+Newport Bay,1,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,4,Salicornia bigelovii,dwarf glasswort,native,5,5,ebb,60,40
+Newport Bay,1,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,4,Salicornia pacifica,Pickleweed,native,40,45,ebb,60,40
+Newport Bay,1,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,5,Salicornia bigelovii,dwarf glasswort,native,15,10,ebb,50,50
+Newport Bay,1,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,5,Batis maritima,saltwort,native,15,5,ebb,50,50
+Newport Bay,1,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,5,Distichlis littoralis,shore grass,native,10,10,ebb,50,50
+Newport Bay,1,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,5,Frankenia salina,alkali heath,native,25,15,ebb,50,50
+Newport Bay,1,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,5,Limonium californicum,Western marsh-rosemary,native,50,20,ebb,50,50
+Newport Bay,1,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,5,Salicornia bigelovii,dwarf glasswort,native,10,10,ebb,50,50
+Newport Bay,1,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,5,Salicornia pacifica,Pickleweed,native,20,15,ebb,50,50
+Newport Bay,3,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,1,Spartina foliosa,California cordgrass,native,25,55,ebb,100,0
+Newport Bay,3,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,1,Distichlis spicata,salt grass,native,20,15,ebb,100,0
+Newport Bay,3,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,1,Jaumea carnosa,fleshy jaumea,native,100,20,ebb,100,0
+Newport Bay,3,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,1,Salicornia pacifica,Pickleweed,native,15,40,ebb,100,0
+Newport Bay,3,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,1,Spartina foliosa,California cordgrass,native,5,40,ebb,100,0
+Newport Bay,3,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,2,Spartina foliosa,California cordgrass,native,10,50,ebb,75,25
+Newport Bay,3,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,2,Batis maritima,saltwort,native,10,10,ebb,75,25
+Newport Bay,3,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,2,Distichlis spicata,salt grass,native,40,20,ebb,75,25
+Newport Bay,3,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,2,Jaumea carnosa,fleshy jaumea,native,75,15,ebb,75,25
+Newport Bay,3,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,2,Limonium californicum,Western marsh-rosemary,native,15,15,ebb,75,25
+Newport Bay,3,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,2,Salicornia bigelovii,dwarf glasswort,native,10,10,ebb,75,25
+Newport Bay,3,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,2,Salicornia pacifica,Pickleweed,native,25,40,ebb,75,25
+Newport Bay,3,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,2,Spartina foliosa,California cordgrass,native,10,25,ebb,75,25
+Newport Bay,3,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,2,Triglochin concinna,arrow grass,native,25,20,ebb,75,25
+Newport Bay,3,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,3,Spartina foliosa,California cordgrass,native,40,50,ebb,80,20
+Newport Bay,3,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,3,Batis maritima,saltwort,native,20,10,ebb,80,20
+Newport Bay,3,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,3,Distichlis spicata,salt grass,native,30,25,ebb,80,20
+Newport Bay,3,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,3,Jaumea carnosa,fleshy jaumea,native,60,10,ebb,80,20
+Newport Bay,3,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,3,Limonium californicum,Western marsh-rosemary,native,10,10,ebb,80,20
+Newport Bay,3,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,3,Spartina foliosa,California cordgrass,native,15,25,ebb,80,20
+Newport Bay,3,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,3,Triglochin concinna,arrow grass,native,5,15,ebb,80,20
+Newport Bay,3,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,4,Salicornia bigelovii,dwarf glasswort,native,10,30,ebb,95,5
+Newport Bay,3,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,4,Spartina foliosa,California cordgrass,native,20,55,ebb,95,5
+Newport Bay,3,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,4,Batis maritima,saltwort,native,20,15,ebb,95,5
+Newport Bay,3,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,4,Distichlis spicata,salt grass,native,25,15,ebb,95,5
+Newport Bay,3,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,4,Frankenia salina,alkali heath,native,40,20,ebb,95,5
+Newport Bay,3,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,4,Jaumea carnosa,fleshy jaumea,native,70,10,ebb,95,5
+Newport Bay,3,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,4,Limonium californicum,Western marsh-rosemary,native,20,15,ebb,95,5
+Newport Bay,3,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,4,Salicornia bigelovii,dwarf glasswort,native,35,10,ebb,95,5
+Newport Bay,3,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,4,Salicornia pacifica,Pickleweed,native,20,30,ebb,95,5
+Newport Bay,3,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,4,Spartina foliosa,California cordgrass,native,15,30,ebb,95,5
+Newport Bay,3,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,4,Triglochin concinna,arrow grass,native,30,20,ebb,95,5
+Newport Bay,3,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,5,Salicornia bigelovii,dwarf glasswort,native,20,25,ebb,100,0
+Newport Bay,3,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,5,Spartina foliosa,California cordgrass,native,10,40,ebb,100,0
+Newport Bay,3,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,5,Batis maritima,saltwort,native,10,20,ebb,100,0
+Newport Bay,3,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,5,Distichlis spicata,salt grass,native,10,20,ebb,100,0
+Newport Bay,3,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,5,Jaumea carnosa,fleshy jaumea,native,90,15,ebb,100,0
+Newport Bay,3,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,5,Limonium californicum,Western marsh-rosemary,native,5,20,ebb,100,0
+Newport Bay,3,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,5,Salicornia bigelovii,dwarf glasswort,native,60,3,ebb,100,0
+Newport Bay,3,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,5,Salicornia pacifica,Pickleweed,native,20,40,ebb,100,0
+Newport Bay,3,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,5,Spartina foliosa,California cordgrass,native,5,20,ebb,100,0
+Newport Bay,3,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,5,Triglochin concinna,arrow grass,native,10,20,ebb,100,0
+Newport Bay,3,2021-03-18T00:00:00Z,2,Mid marsh,within_elevation,5,Suaeda esteroa,estuary seablite,native,5,20,ebb,100,0
+Newport Bay,2,2021-03-19T00:00:00Z,2,Mid marsh,within_elevation,1,Arthrocnemum subterminale,Parish's glasswort,native,10,20,ebb,100,0
+Newport Bay,2,2021-03-19T00:00:00Z,2,Mid marsh,within_elevation,1,Cressa truxillensis,alkali weed,native,20,10,ebb,100,0
+Newport Bay,2,2021-03-19T00:00:00Z,2,Mid marsh,within_elevation,1,Distichlis spicata,salt grass,native,20,15,ebb,100,0
+Newport Bay,2,2021-03-19T00:00:00Z,2,Mid marsh,within_elevation,1,Jaumea carnosa,fleshy jaumea,native,40,10,ebb,100,0
+Newport Bay,2,2021-03-19T00:00:00Z,2,Mid marsh,within_elevation,1,Limonium californicum,Western marsh-rosemary,native,10,10,ebb,100,0
+Newport Bay,2,2021-03-19T00:00:00Z,2,Mid marsh,within_elevation,1,Salicornia pacifica,Pickleweed,native,25,30,ebb,100,0
+Newport Bay,2,2021-03-19T00:00:00Z,2,Mid marsh,within_elevation,1,Distichlis littoralis,shore grass,native,10,10,ebb,100,0
+Newport Bay,2,2021-03-19T00:00:00Z,2,Mid marsh,within_elevation,1,Frankenia salina,alkali heath,native,25,15,ebb,100,0
+Newport Bay,2,2021-03-19T00:00:00Z,2,Mid marsh,within_elevation,1,Suaeda esteroa,estuary seablite,native,2,5,ebb,100,0
+Newport Bay,2,2021-03-19T00:00:00Z,2,Mid marsh,within_elevation,2,Arthrocnemum subterminale,Parish's glasswort,native,90,30,ebb,100,0
+Newport Bay,2,2021-03-19T00:00:00Z,2,Mid marsh,within_elevation,2,Cressa truxillensis,alkali weed,native,15,5,ebb,100,0
+Newport Bay,2,2021-03-19T00:00:00Z,2,Mid marsh,within_elevation,2,Distichlis littoralis,shore grass,native,20,15,ebb,100,0
+Newport Bay,2,2021-03-19T00:00:00Z,2,Mid marsh,within_elevation,2,Frankenia salina,alkali heath,native,5,10,ebb,100,0
+Newport Bay,2,2021-03-19T00:00:00Z,2,Mid marsh,within_elevation,2,Triglochin concinna,arrow grass,native,5,30,ebb,100,0
+Newport Bay,2,2021-03-19T00:00:00Z,2,Mid marsh,within_elevation,3,Frankenia salina,alkali heath,native,5,10,ebb,100,0
+Newport Bay,2,2021-03-19T00:00:00Z,2,Mid marsh,within_elevation,3,Salicornia pacifica,Pickleweed,native,5,20,ebb,100,0
+Newport Bay,2,2021-03-19T00:00:00Z,2,Mid marsh,within_elevation,3,Arthrocnemum subterminale,Parish's glasswort,native,70,40,ebb,100,0
+Newport Bay,2,2021-03-19T00:00:00Z,2,Mid marsh,within_elevation,3,Distichlis littoralis,shore grass,native,95,20,ebb,100,0
+Newport Bay,2,2021-03-19T00:00:00Z,2,Mid marsh,within_elevation,4,Arthrocnemum subterminale,Parish's glasswort,native,15,15,ebb,40,60
+Newport Bay,2,2021-03-19T00:00:00Z,2,Mid marsh,within_elevation,4,Distichlis littoralis,shore grass,native,25,15,ebb,40,60
+Newport Bay,2,2021-03-19T00:00:00Z,2,Mid marsh,within_elevation,5,Limonium californicum,Western marsh-rosemary,native,15,10,ebb,90,10
+Newport Bay,2,2021-03-19T00:00:00Z,2,Mid marsh,within_elevation,5,Cressa truxillensis,alkali weed,native,5,5,ebb,90,10
+Newport Bay,2,2021-03-19T00:00:00Z,2,Mid marsh,within_elevation,5,Distichlis littoralis,shore grass,native,75,15,ebb,90,10
+Newport Bay,2,2021-03-19T00:00:00Z,2,Mid marsh,within_elevation,5,Frankenia salina,alkali heath,native,15,10,ebb,90,10
+Newport Bay,2,2021-03-19T00:00:00Z,2,Mid marsh,within_elevation,5,Jaumea carnosa,fleshy jaumea,native,10,10,ebb,90,10
+Newport Bay,2,2021-03-19T00:00:00Z,2,Mid marsh,within_elevation,5,Limonium californicum,Western marsh-rosemary,native,2,5,ebb,90,10
+Newport Bay,2,2021-03-19T00:00:00Z,2,Mid marsh,within_elevation,5,Salicornia pacifica,Pickleweed,native,20,30,ebb,90,10
+Newport Bay,2,2021-03-19T00:00:00Z,2,Mid marsh,within_elevation,5,Triglochin concinna,arrow grass,native,10,30,ebb,90,10
+Newport Bay,2,2021-03-19T00:00:00Z,2,Mid marsh,within_elevation,5,Arthrocnemum subterminale,Parish's glasswort,native,40,20,ebb,90,10
+Newport Bay,1,2021-09-24T00:00:00Z,2,Mid marsh,within_elevation,1,Distichlis littoralis,shore grass,native,90,15,high,90,10
+Newport Bay,1,2021-09-24T00:00:00Z,2,Mid marsh,within_elevation,1,Limonium californicum,Western marsh-rosemary,native,5,5,high,90,10
+Newport Bay,1,2021-09-24T00:00:00Z,2,Mid marsh,within_elevation,1,Salicornia pacifica,Pickleweed,native,2,10,high,90,10
+Newport Bay,1,2021-09-24T00:00:00Z,2,Mid marsh,within_elevation,2,Batis maritima,saltwort,native,2,5,high,90,10
+Newport Bay,1,2021-09-24T00:00:00Z,2,Mid marsh,within_elevation,2,Cuscuta salina,salt dodder,native,10,0,high,90,10
+Newport Bay,1,2021-09-24T00:00:00Z,2,Mid marsh,within_elevation,2,Distichlis littoralis,shore grass,native,10,15,high,90,10
+Newport Bay,1,2021-09-24T00:00:00Z,2,Mid marsh,within_elevation,2,Frankenia salina,alkali heath,native,15,15,high,90,10
+Newport Bay,1,2021-09-24T00:00:00Z,2,Mid marsh,within_elevation,2,Jaumea carnosa,fleshy jaumea,native,20,5,high,90,10
+Newport Bay,1,2021-09-24T00:00:00Z,2,Mid marsh,within_elevation,2,Limonium californicum,Western marsh-rosemary,native,25,30,high,90,10
+Newport Bay,1,2021-09-24T00:00:00Z,2,Mid marsh,within_elevation,2,Salicornia pacifica,Pickleweed,native,5,10,high,90,10
+Newport Bay,1,2021-09-24T00:00:00Z,2,Mid marsh,within_elevation,3,Salicornia bigelovii,dwarf glasswort,native,5,15,high,95,5
+Newport Bay,1,2021-09-24T00:00:00Z,2,Mid marsh,within_elevation,3,Batis maritima,saltwort,native,10,15,high,95,5
+Newport Bay,1,2021-09-24T00:00:00Z,2,Mid marsh,within_elevation,3,Jaumea carnosa,fleshy jaumea,native,90,10,high,95,5
+Newport Bay,1,2021-09-24T00:00:00Z,2,Mid marsh,within_elevation,3,Limonium californicum,Western marsh-rosemary,native,25,25,high,95,5
+Newport Bay,1,2021-09-24T00:00:00Z,2,Mid marsh,within_elevation,3,Salicornia bigelovii,dwarf glasswort,native,2,20,high,95,5
+Newport Bay,1,2021-09-24T00:00:00Z,2,Mid marsh,within_elevation,3,Salicornia pacifica,Pickleweed,native,10,20,high,95,5
+Newport Bay,1,2021-09-24T00:00:00Z,2,Mid marsh,within_elevation,3,Suaeda esteroa,estuary seablite,native,5,20,high,95,5
+Newport Bay,1,2021-09-24T00:00:00Z,2,Mid marsh,within_elevation,4,Salicornia bigelovii,dwarf glasswort,native,30,25,high,70,30
+Newport Bay,1,2021-09-24T00:00:00Z,2,Mid marsh,within_elevation,4,Batis maritima,saltwort,native,10,10,high,70,30
+Newport Bay,1,2021-09-24T00:00:00Z,2,Mid marsh,within_elevation,4,Salicornia bigelovii,dwarf glasswort,native,5,25,high,70,30
+Newport Bay,1,2021-09-24T00:00:00Z,2,Mid marsh,within_elevation,4,Salicornia pacifica,Pickleweed,native,25,35,high,70,30
+Newport Bay,1,2021-09-24T00:00:00Z,2,Mid marsh,within_elevation,4,Spartina foliosa,California cordgrass,native,5,50,high,70,30
+Newport Bay,1,2021-09-24T00:00:00Z,2,Mid marsh,within_elevation,5,Jaumea carnosa,fleshy jaumea,native,20,20,high,70,30
+Newport Bay,1,2021-09-24T00:00:00Z,2,Mid marsh,within_elevation,5,Salicornia pacifica,Pickleweed,native,50,40,high,70,30
+Newport Bay,1,2021-09-24T00:00:00Z,2,Mid marsh,within_elevation,5,Spartina foliosa,California cordgrass,native,40,50,high,70,30
+Newport Bay,2,2021-09-24T00:00:00Z,2,Mid marsh,within_elevation,1,Arthrocnemum subterminale,Parish's glasswort,native,10,20,high,85,15
+Newport Bay,2,2021-09-24T00:00:00Z,2,Mid marsh,within_elevation,1,Distichlis littoralis,shore grass,native,85,15,high,85,15
+Newport Bay,2,2021-09-24T00:00:00Z,2,Mid marsh,within_elevation,2,Arthrocnemum subterminale,Parish's glasswort,native,60,20,high,75,25
+Newport Bay,2,2021-09-24T00:00:00Z,2,Mid marsh,within_elevation,2,Distichlis littoralis,shore grass,native,20,10,high,75,25
+Newport Bay,2,2021-09-24T00:00:00Z,2,Mid marsh,within_elevation,2,Frankenia salina,alkali heath,native,10,10,high,75,25
+Newport Bay,2,2021-09-24T00:00:00Z,2,Mid marsh,within_elevation,2,Jaumea carnosa,fleshy jaumea,native,5,5,high,75,25
+Newport Bay,2,2021-09-24T00:00:00Z,2,Mid marsh,within_elevation,2,Salicornia pacifica,Pickleweed,native,5,30,high,75,25
+Newport Bay,2,2021-09-24T00:00:00Z,2,Mid marsh,within_elevation,3,Distichlis littoralis,shore grass,native,70,20,high,100,0
+Newport Bay,2,2021-09-24T00:00:00Z,2,Mid marsh,within_elevation,3,Frankenia salina,alkali heath,native,5,10,high,100,0
+Newport Bay,2,2021-09-24T00:00:00Z,2,Mid marsh,within_elevation,3,Limonium californicum,Western marsh-rosemary,native,2,20,high,100,0
+Newport Bay,2,2021-09-24T00:00:00Z,2,Mid marsh,within_elevation,3,Salicornia pacifica,Pickleweed,native,25,25,high,100,0
+Newport Bay,2,2021-09-24T00:00:00Z,2,Mid marsh,within_elevation,4,Arthrocnemum subterminale,Parish's glasswort,native,60,20,high,85,15
+Newport Bay,2,2021-09-24T00:00:00Z,2,Mid marsh,within_elevation,4,Distichlis littoralis,shore grass,native,15,15,high,85,15
+Newport Bay,2,2021-09-24T00:00:00Z,2,Mid marsh,within_elevation,4,Frankenia salina,alkali heath,native,20,10,high,85,15
+Newport Bay,2,2021-09-24T00:00:00Z,2,Mid marsh,within_elevation,4,Limonium californicum,Western marsh-rosemary,native,2,5,high,85,15
+Newport Bay,2,2021-09-24T00:00:00Z,2,Mid marsh,within_elevation,4,Salicornia pacifica,Pickleweed,native,2,30,high,85,15
+Newport Bay,2,2021-09-24T00:00:00Z,2,Mid marsh,within_elevation,5,Arthrocnemum subterminale,Parish's glasswort,native,2,5,high,50,50
+Newport Bay,2,2021-09-24T00:00:00Z,2,Mid marsh,within_elevation,5,Arthrocnemum subterminale,Parish's glasswort,native,60,0,high,50,50
+Newport Bay,2,2021-09-24T00:00:00Z,2,Mid marsh,within_elevation,5,Distichlis littoralis,shore grass,native,2,10,high,50,50
+Newport Bay,2,2021-09-24T00:00:00Z,2,Mid marsh,within_elevation,5,Frankenia salina,alkali heath,native,2,10,high,50,50
+Newport Bay,3,2021-09-25T00:00:00Z,2,Mid marsh,within_elevation,1,Salicornia pacifica,Pickleweed,native,95,60,high,95,5
+Newport Bay,3,2021-09-25T00:00:00Z,2,Mid marsh,within_elevation,2,Salicornia pacifica,Pickleweed,native,80,35,high,100,0
+Newport Bay,3,2021-09-25T00:00:00Z,2,Mid marsh,within_elevation,3,Salicornia pacifica,Pickleweed,native,85,30,high,85,15
+Newport Bay,3,2021-09-25T00:00:00Z,2,Mid marsh,within_elevation,4,Salicornia bigelovii,dwarf glasswort,native,10,35,high,60,40
+Newport Bay,3,2021-09-25T00:00:00Z,2,Mid marsh,within_elevation,4,Salicornia bigelovii,dwarf glasswort,native,2,30,high,60,40
+Newport Bay,3,2021-09-25T00:00:00Z,2,Mid marsh,within_elevation,4,Salicornia pacifica,Pickleweed,native,60,50,high,60,40
+Newport Bay,3,2021-09-25T00:00:00Z,2,Mid marsh,within_elevation,5,Salicornia pacifica,Pickleweed,native,95,30,high,98,2
+Ventura River,1,2021-03-29T00:00:00Z,2,Mid marsh,within_elevation,2,Atriplex prostrata,fat hen,non-native,15,0,ebb,40,60
+Ventura River,1,2021-03-29T00:00:00Z,2,Mid marsh,within_elevation,2,Rumex crispus,curly dock,non-native,5,0,ebb,40,60
+Ventura River,1,2021-03-29T00:00:00Z,2,Mid marsh,within_elevation,3,Atriplex prostrata,fat hen,non-native,15,6,ebb,5,95
+Ventura River,1,2021-03-29T00:00:00Z,2,Mid marsh,within_elevation,3,Baccharis salicifolia,mule fat,native,2,4,ebb,5,95
+Ventura River,1,2021-03-29T00:00:00Z,2,Mid marsh,within_elevation,3,Distichlis spicata,salt grass,native,5,1,ebb,5,95
+Ventura River,1,2021-03-29T00:00:00Z,2,Mid marsh,within_elevation,4,Baccharis salicifolia,mule fat,native,5,42,ebb,95,5
+Ventura River,1,2021-03-29T00:00:00Z,2,Mid marsh,within_elevation,4,Distichlis spicata,salt grass,native,2,8,ebb,95,5
+Ventura River,1,2021-03-29T00:00:00Z,2,Mid marsh,within_elevation,4,Atriplex prostrata,fat hen,non-native,10,13,ebb,95,5
+Ventura River,1,2021-03-29T00:00:00Z,2,Mid marsh,within_elevation,5,Baccharis salicifolia,mule fat,native,5,57,ebb,20,80
+Ventura River,1,2021-03-29T00:00:00Z,2,Mid marsh,within_elevation,5,Baccharis salicifolia,mule fat,native,5,65,ebb,20,80
+Ventura River,1,2021-03-29T00:00:00Z,2,Mid marsh,within_elevation,5,Atriplex prostrata,fat hen,non-native,10,7,ebb,20,80
+Ventura River,1,2021-03-29T00:00:00Z,2,Mid marsh,within_elevation,5,Distichlis spicata,salt grass,native,5,4,ebb,20,80
+Ventura River,3,2021-03-29T00:00:00Z,2,Mid marsh,within_elevation,1,Atriplex prostrata,fat hen,non-native,5,6,ebb,50,50
+Ventura River,3,2021-03-29T00:00:00Z,2,Mid marsh,within_elevation,1,Cakile maritima,European sea rocket,naturalized,5,16,ebb,50,50
+Ventura River,3,2021-03-29T00:00:00Z,2,Mid marsh,within_elevation,1,Distichlis spicata,salt grass,native,40,16,ebb,50,50
+Ventura River,3,2021-03-29T00:00:00Z,2,Mid marsh,within_elevation,2,Atriplex prostrata,fat hen,non-native,5,8,ebb,70,30
+Ventura River,3,2021-03-29T00:00:00Z,2,Mid marsh,within_elevation,2,Cakile maritima,European sea rocket,naturalized,5,7,ebb,70,30
+Ventura River,3,2021-03-29T00:00:00Z,2,Mid marsh,within_elevation,2,Distichlis spicata,salt grass,native,60,15,ebb,70,30
+Ventura River,3,2021-03-29T00:00:00Z,2,Mid marsh,within_elevation,2,Baccharis salicifolia,mule fat,native,2,6,ebb,70,30
+Ventura River,3,2021-03-29T00:00:00Z,2,Mid marsh,within_elevation,2,Jaumea carnosa,fleshy jaumea,native,2,11,ebb,70,30
+Ventura River,3,2021-03-29T00:00:00Z,2,Mid marsh,within_elevation,3,Atriplex prostrata,fat hen,non-native,2,5,ebb,10,90
+Ventura River,3,2021-03-29T00:00:00Z,2,Mid marsh,within_elevation,3,Cakile maritima,European sea rocket,naturalized,5,10,ebb,10,90
+Ventura River,3,2021-03-29T00:00:00Z,2,Mid marsh,within_elevation,3,Distichlis spicata,salt grass,native,2,3,ebb,10,90
+Ventura River,3,2021-03-29T00:00:00Z,2,Mid marsh,within_elevation,3,Typha latifolia,broad-leaved cattail,native,2,40,ebb,10,90
+Ventura River,3,2021-03-29T00:00:00Z,2,Mid marsh,within_elevation,4,Typha latifolia,broad-leaved cattail,native,2,46,ebb,70,30
+Ventura River,3,2021-03-29T00:00:00Z,2,Mid marsh,within_elevation,4,Distichlis spicata,salt grass,native,5,29,ebb,70,30
+Ventura River,3,2021-03-29T00:00:00Z,2,Mid marsh,within_elevation,4,Typha latifolia,broad-leaved cattail,native,5,31,ebb,70,30
+Ventura River,3,2021-03-29T00:00:00Z,2,Mid marsh,within_elevation,4,Atriplex prostrata,fat hen,non-native,10,15,ebb,70,30
+Ventura River,3,2021-03-29T00:00:00Z,2,Mid marsh,within_elevation,4,Baccharis salicifolia,mule fat,native,2,5,ebb,70,30
+Ventura River,3,2021-03-29T00:00:00Z,2,Mid marsh,within_elevation,4,Cakile maritima,European sea rocket,naturalized,20,19,ebb,70,30
+Ventura River,3,2021-03-29T00:00:00Z,2,Mid marsh,within_elevation,5,Typha latifolia,broad-leaved cattail,native,2,41,ebb,40,60
+Ventura River,3,2021-03-29T00:00:00Z,2,Mid marsh,within_elevation,5,Typha latifolia,broad-leaved cattail,native,10,41,ebb,40,60
+Ventura River,3,2021-03-29T00:00:00Z,2,Mid marsh,within_elevation,5,Atriplex prostrata,fat hen,non-native,15,6,ebb,40,60
+Ventura River,3,2021-03-29T00:00:00Z,2,Mid marsh,within_elevation,5,Cakile maritima,European sea rocket,naturalized,15,5,ebb,40,60
+Ventura River,2,2021-03-30T00:00:00Z,2,Mid marsh,within_elevation,1,Schoenoplectus californicus,southern bulrush,native,10,100,ebb,95,5
+Ventura River,2,2021-03-30T00:00:00Z,2,Mid marsh,within_elevation,1,Typha latifolia,broad-leaved cattail,native,2,83,ebb,95,5
+Ventura River,2,2021-03-30T00:00:00Z,2,Mid marsh,within_elevation,2,Schoenoplectus californicus,southern bulrush,native,15,108,ebb,100,0
+Ventura River,2,2021-03-30T00:00:00Z,2,Mid marsh,within_elevation,2,Typha latifolia,broad-leaved cattail,native,2,124,ebb,100,0
+Ventura River,2,2021-03-30T00:00:00Z,2,Mid marsh,within_elevation,3,Schoenoplectus californicus,southern bulrush,native,2,50,ebb,80,20
+Ventura River,2,2021-03-30T00:00:00Z,2,Mid marsh,within_elevation,3,Typha latifolia,broad-leaved cattail,native,65,154,ebb,80,20
+Ventura River,2,2021-03-30T00:00:00Z,2,Mid marsh,within_elevation,3,Schoenoplectus californicus,southern bulrush,native,5,220,ebb,80,20
+Ventura River,2,2021-03-30T00:00:00Z,2,Mid marsh,within_elevation,3,Typha latifolia,broad-leaved cattail,native,10,119,ebb,80,20
+Ventura River,2,2021-03-30T00:00:00Z,2,Mid marsh,within_elevation,4,Typha latifolia,broad-leaved cattail,native,15,103,ebb,98,2
+Ventura River,2,2021-03-30T00:00:00Z,2,Mid marsh,within_elevation,5,Typha latifolia,broad-leaved cattail,native,10,105,ebb,95,5
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,2,Low marsh,across_elevation,5,Spartina foliosa,California cordgrass,native,2,74,low,100,0
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,2,Low marsh,across_elevation,5,Salicornia pacifica,Pickleweed,native,45,59,low,100,0
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,2,Low marsh,across_elevation,5,Frankenia salina,alkali heath,native,80,35,low,100,0
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,3,Spartina foliosa,California cordgrass,native,25,121,low,95,5
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,3,Salicornia pacifica,Pickleweed,native,20,59,low,95,5
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,3,Jaumea carnosa,fleshy jaumea,native,45,33,low,95,5
