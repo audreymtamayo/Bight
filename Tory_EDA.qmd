@@ -12,6 +12,20 @@ read.csv("Combined_Cordgrass.csv")
 read.csv("Combined_Vegetation.csv")
 ```
 
+my_color_vector \<- c("darkblue","blue","lightblue","#C2B280")
+
+SpeciesCount \<- ggplot(df.vegdiverse) +
+
+#dodge allows multiple habitats on one plot
+
+geom_col(aes(y = count,x=Estuary, fill=Habitat),position="dodge")
+
+#adjust agle of estuary names for legibility
+
+print(SpeciesCount)+theme(axis.text.x = element_text(angle = 30, hjust = 0.5, vjust = 0.5)) +
+
+scale_fill_manual(values = my_color_vector)+labs(y="Species count",title="Species Diversity by Habitat & Estuary")
+
 ```{r}
 
 #create raw data frame
@@ -54,13 +68,13 @@ summarise(count = n_distinct(ScientificName)) %>%
 mutate(Habitat = factor(Habitat, levels = c("Brackish marsh", "Low marsh", "Mid marsh"
 , "High marsh")))
 #adding custom color
-my_color_vector <- c("darkblue","blue","lightblue","lightgreen")
+my_color_vector <- c("darkblue","blue","lightblue","#C2B280")
 SpeciesCount <- ggplot(df.vegdiverse) +
 #dodge allows multiple habitats on one plot
 geom_col(aes(y = count,x=Estuary, fill=Habitat),position="dodge")
 #adjust agle of estuary names for legibility
 print(SpeciesCount)+theme(axis.text.x = element_text(angle = 30, hjust = 0.5, vjust = 0.5)) +
-scale_fill_manual(values = my_color_vector)
+scale_fill_manual(values = my_color_vector)+labs(y="Species count",title="Species Diversity by Habitat & Estuary")
 
 
 ```
