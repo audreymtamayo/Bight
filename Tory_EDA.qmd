@@ -1,0 +1,93 @@
+```{r}
+library(tidyverse)
+library(googlesheets4)
+library(readxl)
+library(ggtext)
+library(ggplot2)
+```
+
+```{r}
+#import data
+read.csv("Combined_Cordgrass.csv")
+read.csv("Combined_Vegetation.csv")
+```
+
+my_color_vector \<- c("darkblue","blue","lightblue","#C2B280")
+
+SpeciesCount \<- ggplot(df.vegdiverse) +
+
+#dodge allows multiple habitats on one plot
+
+geom_col(aes(y = count,x=Estuary, fill=Habitat),position="dodge")
+
+#adjust agle of estuary names for legibility
+
+print(SpeciesCount)+theme(axis.text.x = element_text(angle = 30, hjust = 0.5, vjust = 0.5)) +
+
+scale_fill_manual(values = my_color_vector)+labs(y="Species count",title="Species Diversity by Habitat & Estuary")
+
+```{r}
+
+#create raw data frame
+df.veg.raw<-read.csv("Combined_Vegetation.csv")
+
+#finding percent native for each estuary
+df.percent<-df.veg.raw|>
+count(Estuary, Status) %>%
+group_by(Estuary)|>
+mutate(percent = n/sum(n)*100) %>%
+select(-n) %>%
+spread(Status, percent)
+
+#plotting percent native
+Native.percentPlot <- ggplot(df.percent) +
+aes(y = native,x=Estuary) +
+geom_col(aes(y = native,x=Estuary,fill=Estuary))+
+  
+#Changing the scale since all values above 75%
+coord_cartesian(ylim = c(75, 100))+
+scale_y_continuous(breaks = seq(75, 100, by = 5))
+
+#Fixing crowded x-axis
+print(Native.percentPlot)+theme(axis.text.x = element_text(angle = 30, hjust = 0.5,
+vjust = 0.5))
+
+#plotting percent cover for each estuary
+
+Plot2 <- ggplot(df.veg.raw) +
+aes(y = VegetatedCover,x=Estuary) +
+geom_boxplot()
+print(Plot2)
+
+#Question:
+#Do the Estuaries differ in plant species diversity for each habitat type?
+
+df.vegdiverse<-df.veg.raw|>
+group_by(Estuary,Habitat)|>
+summarise(count = n_distinct(ScientificName)) %>%
+  #order habitat types by elevation
+mutate(Habitat = factor(Habitat, levels = c("Brackish marsh", "Low marsh", "Mid marsh"
+, "High marsh")))|>
+  #order Estuaries by size
+mutate(Estuary = factor(Estuary, levels = c("Malibu Lagoon", "Ventura River", "Goleta Slough"
+, "San Elijo Lagoon", "Batiquitos Lagoon", "Newport Bay")))
+
+#adding custom color
+my_color_vector <- c("darkblue","blue","lightblue","#C2B280")
+SpeciesCount <- ggplot(df.vegdiverse) +
+#dodge allows multiple habitats on one plot
+geom_col(aes(y = count,x=Estuary, fill=Habitat),position="dodge")+facet_wrap(~Habitat)
+#adjust agle of estuary names for legibility
+print(SpeciesCount)+theme(axis.text.x = element_text(angle = 90, hjust = 0.5, vjust = 0.5)) +
+scale_fill_manual(values = my_color_vector)+labs(y="Species count",title="Species Diversity by Habitat & Estuary")
+
+SpeciesCount2 <- ggplot(df.vegdiverse) +
+#dodge allows multiple habitats on one plot
+geom_col(aes(y = count,x=Estuary, fill=Habitat),position="dodge")
+#adjust agle of estuary names for legibility
+print(SpeciesCount2)+theme(axis.text.x = element_text(angle = 90, hjust = 0.5, vjust = 0.5)) +
+scale_fill_manual(values = my_color_vector)+labs(y="Species count",title="Species Diversity by Habitat & Estuary")
+#add facet grid
+#order by estuary sizei
+
+```

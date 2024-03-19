@@ -1,0 +1,87 @@
+---
+title: "Vegetation_M_Analysis"
+format: html
+author: Tory Jaimez
+editor: visual
+---
+
+Load Packages
+
+```{r setup, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(readxl)
+library(factoextra)
+library(vegan)
+library(ggnewscale)
+
+```
+
+Load data and create df.
+
+```{r}
+read.csv("Combined_Vegetation.csv")
+df.veg.raw<-read.csv("Combined_Vegetation.csv")
+```
+
+## Data Prep
+
+```{r}
+Common_veg <- df.veg.raw |> 
+  mutate(Size = case_when(
+    Estuary == "Batiquitos Lagoon" ~ "Small",
+    Estuary == "Goleta Slough" ~ "Medium",
+    Estuary == "Malibu Lagoon" ~ "Medium",
+    Estuary == "Newport Bay" ~ "Large",
+    Estuary == "San Elijo Lagoon" ~ "Medium",
+    Estuary == "Ventura River" ~ "Small"))|>
+  select(Estuary, ScientificName, EstimatedCover,Status,Size) |>
+  group_by(Estuary, ScientificName) |> 
+  mutate(ScientificName = paste(Status, ScientificName, sep = "_")) |> 
+  mutate(Estuary = paste(Estuary, Size, sep = "_")) |> 
+ # ungroup() |> 
+  summarize(EstimatedCover = mean(EstimatedCover)) |> 
+  pivot_wider(names_from = ScientificName, values_from = EstimatedCover, values_fill = 0)
+
+Veg_Matrix <- as.matrix(Common_veg[,-1])
+rownames(Veg_Matrix) <- Common_veg$Estuary
+```
+
+NMDS \
+1.calculate the NMDS score
+
+```{r}
+veg.est.nmds  <- metaMDS(Veg_Matrix, distance = "man")
+# same options for distance as vegdist
+```
+
+2.  Plot preliminary visuals
+
+```{r}
+plot(veg.est.nmds, type = "t", display = "sites")
+plot(veg.est.nmds, type = "p", display = c("site", "species"))
+```
+
+Extract site and species scores
+
+```{r}
+scores(veg.est.nmds)
+
+veg.Site_scores <- 
+  data.frame(scores(veg.est.nmds)$sites) |> 
+  mutate(Site = rownames(scores(veg.est.nmds)$sites))|>
+  separate(Site, into = c("Estuary", "Size"), sep = "_")
+veg.Species_scores <- 
+  data.frame(scores(veg.est.nmds)$species) |>
+  mutate(Species = rownames(scores(veg.est.nmds)$species))|>
+  separate(Species, into = c("Status", "ScientificName"), sep = "_")
+```
+
+Plot with better visuals
+
+```{r}
+veg.NMDS_plot <- ggplot() + 
+  geom_text(data = veg.Species_scores,size=2, aes(x = NMDS1, y = NMDS2, label=ScientificName, color=Status),check_overlap = TRUE)+scale_color_discrete(name="Species Status")
+polplot<-veg.NMDS_plot+
+  new_scale_colour()+geom_polygon(data = veg.Site_scores, aes(x = NMDS1, y = NMDS2, color = Size), alpha = 0.1)+geom_text(data = veg.Site_scores,size=5, aes(x = NMDS1, y = NMDS2, label=Estuary,color=Size), cex = 3) +scale_color_discrete(name="Estuary Size")
+#maybe try with percent cover
+```

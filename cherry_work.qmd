@@ -32,13 +32,13 @@ veg_fauna_raw <- read_excel("vegetation-2021.xlsx", sheet = 3)
 heeeeeeebeeeeeeeeeeeeeeeeeeee
 
 ```{r}
-vegmeta <- veg_metadata_raw |>
-  group_by(estuaryname) |>
-  arrange(.by_group = TRUE)
+#vegmeta <- veg_metadata_raw |>
+  #group_by(estuaryname) |>
+  #arrange(.by_group = TRUE)
 
 veg_cover <- veg_cover_raw |>
-  group_by(estuaryname, transectreplicate, plotreplicate) |>
-  summarize(cov_average = mean(estimatedcover))
+  group_by(estuaryname, stationno,transectreplicate, plotreplicate)
+  #summarize(cov_average = mean(estimatedcover))
 
 veg_cover
 ```

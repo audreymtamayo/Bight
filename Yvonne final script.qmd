@@ -1,0 +1,326 @@
+---
+title: "Yvonne EDA"
+format: html
+editor: visual
+---
+
+# Assessment of California Cordgrass and Ridgway's Rail at three estuaries in Southern California
+
+## Load packages
+
+```{r}
+library(tidyverse)
+library(readxl)
+library(recipes)
+```
+
+## Import Data
+
+```{r}
+#import cordgrass data
+Cordgrass_original <- read.csv("Combined_Cordgrass2023.csv")
+#import rail data
+Rail <- read_excel("Rail.xlsx")
+```
+
+## Data Cleaning
+
+```{r}
+#remove NA data
+Cordgrass <- Cordgrass_original|>
+  na.omit(Cordgrass_original)
+```
+
+## Cordgrass
+
+```{r}
+#get mean and se of percent cover and plant height in 3 sites
+Summary <- Cordgrass|>
+  group_by(Estuary) |> 
+  summarize(count_quadrat = n(),
+            mean_pc = mean(VegetatedCover, na.rm = TRUE), 
+            se_pc = sd(VegetatedCover)/sqrt(count_quadrat),
+            mean_height = mean(PlantHeight, na.rm = TRUE),
+            se_height = sd(PlantHeight)/sqrt(count_quadrat)
+  )
+```
+
+1 Which sites have the highest percent cover of cordgrass? 
+
+```{r}
+#bar plot of percent cover
+Summary |>
+ggplot() +
+  aes(x = Estuary, y = mean_pc, fill = Estuary) +  
+  geom_col(width = 0.5) +
+  geom_errorbar(aes(ymin = (mean_pc - se_pc), ymax = (mean_pc + se_pc)), width = 0.1) +
+  labs(y = "Percent Cover(%)")+
+  scale_fill_manual(values = c('palegreen3','lightskyblue','mediumpurple1'))+
+  theme_classic() 
+  
+```
+
+```{r}
+#histogram of percent cover
+ggplot(Cordgrass) +
+  aes(x = VegetatedCover, fill = Estuary) + 
+  geom_histogram(binwidth = 10)+
+  facet_wrap(Estuary~.)+
+  labs(x = "Percent Cover(%)")+
+  scale_fill_manual(values = c('palegreen3','lightskyblue','mediumpurple1'))
+```
+
+```{r}
+#one-way anova of percent cover
+model_pc <- lm(VegetatedCover ~ Estuary, data = Cordgrass)
+#check assumptions
+plot(model_pc, 1)
+plot(model_pc, 2)
+```
+
+```{r}
+anova(model_pc)
+#significant
+```
+
+2 How does the height of cordgrass stands vary across sites? 
+
+```{r}
+#bar plot of height
+Summary |>
+ggplot() +
+  aes(x = Estuary, y = mean_height, fill = Estuary) +  
+  geom_col(width = 0.5) +
+  geom_errorbar(aes(ymin = (mean_height - se_height), ymax = (mean_height + se_height)), width = 0.1)+
+  labs(y = "Plant Height(cm)")+
+  scale_fill_manual(values = c('palegreen3','lightskyblue','mediumpurple1'))+
+  theme_classic()
+```
+
+```{r}
+#histogram of height
+ggplot(Cordgrass) +
+  aes(x = PlantHeight, fill = Estuary) + 
+  geom_histogram(binwidth = 10)+
+  facet_wrap(Estuary~.)+
+  labs(x = "Plant Height(cm)")+
+  scale_fill_manual(values = c('palegreen3','lightskyblue','mediumpurple1'))
+```
+
+```{r}
+#one-way anova of height
+model_height <- lm(PlantHeight ~ Estuary, data = Cordgrass)
+plot(model_height, 1)
+plot(model_height, 2)
+```
+
+```{r}
+anova(model_height)
+#significant
+```
+
+3 How does the abundance of cordgrass vary across sites?
+
+```{r}
+#abundance per quadrat
+AbundanceperQuadrat <- Cordgrass|>
+  group_by(Estuary, Station, Transect, Quadrat) |>
+  summarise(abundance = mean(Abundance))
+#mean and se of abundance in 3 sites
+AbundanceSummary <- AbundanceperQuadrat|>
+  group_by(Estuary)|>
+  summarise(count_quadrat = n(),
+            mean_abun = mean(abundance),
+            se_abun = sd(abundance)/sqrt(count_quadrat))
+```
+
+```{r}
+#bar plot of abundance
+AbundanceSummary |>
+ggplot() +
+  aes(x = Estuary, y = mean_abun, fill = Estuary) +  
+  geom_col(width = 0.5) +
+  geom_errorbar(aes(ymin = (mean_abun - se_abun), ymax = (mean_abun + se_abun)), width = 0.1)+
+  labs(y = "Abundance(stems/m2)")+
+  scale_fill_manual(values = c('palegreen3','lightskyblue','mediumpurple1'))+
+  theme_classic()
+```
+
+```{r}
+#histogram of abundance
+ggplot(AbundanceperQuadrat) +
+  aes(x = abundance, fill = Estuary) + 
+  geom_histogram(binwidth = 5)+
+  facet_wrap(Estuary~.)+
+  labs(x = "Abundance(stems/m2)")+
+  scale_fill_manual(values = c('palegreen3','lightskyblue','mediumpurple1'))
+```
+
+```{r}
+#one-way anova of abundance
+model_abundance <- lm(abundance ~ Estuary, data = AbundanceperQuadrat)
+plot(model_abundance, 1)
+plot(model_abundance, 2)
+```
+
+```{r}
+anova(model_abundance)
+#significant
+```
+
+## Ridgway's Rail
+
+```{r}
+#Combine summary with rail data
+Summarynocount<- Summary|>
+  select(!count_quadrat)
+AbundanceSummarynocount <- AbundanceSummary |>
+  select(!count_quadrat)
+Combined_Summary<- inner_join(Summarynocount, AbundanceSummarynocount) 
+Combined_Summary_Rail <- inner_join(Combined_Summary, Rail)
+
+```
+
+1 Is there relevance between cordgrass percent cover and Ridgway's Rail number?
+
+```{r}
+#plot of cordgrass percent cover and rail pairs
+Combined_Summary_Rail |>
+  mutate(Fake = 1) |> #form a group
+ggplot() +
+  aes(x = Estuary, y = mean_pc, fill = Estuary) +  
+  geom_col(width = 0.5) +
+  geom_errorbar(aes(ymin = (mean_pc - se_pc), ymax = (mean_pc + se_pc)), width = 0.1)+
+  geom_point(aes(x = Estuary, y = RailPairs), cex = 3) +
+  geom_line(aes(group = Fake, x = Estuary, y = RailPairs)) + #fake a line
+    scale_y_continuous(
+    name = "Percent Cover(%)",
+    sec.axis = sec_axis(~.,name="Rail(Pair)")#add a second y axis
+  )+
+  scale_fill_manual(values = c('palegreen3','lightskyblue','mediumpurple1'))+
+  theme_classic()
+
+
+
+   
+
+```
+
+2 Is there relevance between cordgrass percent cover and Ridgway's Rail number?
+
+```{r}
+#plot of cordgrass height and rail pairs
+Combined_Summary_Rail |>
+  mutate(Fake = 1) |> #form a group
+ggplot() +
+  aes(x = Estuary, y = mean_height, fill = Estuary) +  
+  geom_col(width = 0.5) +
+  geom_errorbar(aes(ymin = (mean_height - se_height), ymax = (mean_height + se_height)), width = 0.1)+
+  geom_point(aes(x = Estuary, y = RailPairs), cex = 3) +
+  geom_line(aes(group = Fake, x = Estuary, y = RailPairs)) + #fake a line
+    scale_y_continuous(
+    name = "Plant Height(cm)",
+    sec.axis = sec_axis(~.,name="Rail(Pair)")#add a second y axis
+  )+
+  scale_fill_manual(values = c('palegreen3','lightskyblue','mediumpurple1'))+
+  theme_classic()
+```
+
+3 Is there relevance between cordgrass abundance and Ridgway's Rail number?
+
+```{r}
+#plot of cordgrass abundance and rail pairs
+Combined_Summary_Rail |>
+  mutate(Fake = 1) |>
+ggplot(aes(x=Estuary)) +
+  geom_col(aes(y=mean_abun, fill = Estuary), width = 0.5)+
+  geom_errorbar(aes(ymin = (mean_abun - se_abun), ymax = (mean_abun + se_abun)), width = 0.1)+ 
+  geom_point(aes(y=RailPairs/5), cex = 3) +
+  geom_line(aes(group = Fake, y = RailPairs/5))+
+  
+  scale_y_continuous(
+    name = "Abundance(stems/m2)",
+    sec.axis = sec_axis(~.*5, name="Rail(Pair)")#add a second y axis
+  )+
+  
+  scale_fill_manual(values = c('palegreen3','lightskyblue','mediumpurple1'))+
+  theme_classic()      
+```
+
+## PCA
+
+```{r}
+#select columns for pca
+Cordgrass_clean <- Cordgrass|>
+  select(Estuary, Station, Transect, Quadrat, PlantHeightReplicate, Abundance, PlantHeight, VegetatedCover)
+```
+
+```{r}
+#use recipes package to prepare data for pca
+cordgrass_recipe <-
+  recipe(~., data = Cordgrass_clean) |> 
+  update_role(Estuary, Station, Transect, Quadrat, PlantHeightReplicate, new_role = "id") |>
+  step_naomit(all_predictors()) |> 
+  step_normalize(all_predictors()) |>
+  step_pca(all_predictors(), id = "pca") |>
+  prep()
+cordgrass_pca <- 
+  cordgrass_recipe |>
+  tidy(id = "pca") 
+```
+
+```{r}
+# get pca loadings into wider format
+pca_wider <- cordgrass_pca |>
+  tidyr::pivot_wider(names_from = component, id_cols = terms)
+```
+
+```{r}
+# define arrow style
+arrow_style <- arrow(length = unit(.05, "inches"),
+                     type = "closed")
+#plot PC1 and PC2
+pca_plot1 <-
+  juice(cordgrass_recipe) |>
+  ggplot(aes(PC1, PC2)) +
+  geom_point(aes(color = Estuary, shape = Estuary), 
+             alpha = 0.8, 
+             size = 2) +
+  scale_colour_manual(values = c('palegreen3','lightskyblue','mediumpurple1'))
+ 
+
+pca_plot1 +
+  geom_segment(data = pca_wider,
+               aes(xend = PC1, yend = PC2), 
+               x = 0, 
+               y = 0, 
+               arrow = arrow_style) + 
+  geom_text(data = pca_wider,
+            aes(x = PC1, y = PC2, label = terms), 
+            hjust = 0, 
+            vjust = 1,
+            size = 5) 
+```
+
+```{r}
+#plot PC2 and PC3
+pca_plot2 <-
+  juice(cordgrass_recipe) |>
+  ggplot(aes(PC2, PC3)) +
+  geom_point(aes(color = Estuary, shape = Estuary), 
+             alpha = 0.8, 
+             size = 2) +
+  scale_colour_manual(values = c('palegreen3','lightskyblue','mediumpurple1'))
+
+pca_plot2 +
+  geom_segment(data = pca_wider,
+               aes(xend = PC2, yend = PC3), 
+               x = 0, 
+               y = 0, 
+               arrow = arrow_style) + 
+  geom_text(data = pca_wider,
+            aes(x = PC2, y = PC3, label = terms), 
+            hjust = 0, 
+            vjust = 1,
+            size = 5) 
+```

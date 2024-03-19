@@ -41,7 +41,11 @@ Cordgrass_Clean<- Cordgrass |> select(estuaryname, stationno, samplecollectionda
 
 ```{r}
 Cordgrass_Clean<- Cordgrass_Clean|> filter(estuaryname == "Malibu Lagoon" | estuaryname == "San Elijo Lagoon" | estuaryname == "Batiquitos Lagoon" | estuaryname == "Goleta Slough" |estuaryname == "Newport Bay" | estuaryname == "Ventura River" ) |>
+<<<<<<< HEAD
 rename(Estuary = estuaryname, Station = stationno, Date = samplecollectiondate, Transect = transectreplicate, Habitat = habitat, Method = method, Quadrat = plotreplicate, Abundance = total_stems,PlantHeightReplicate = plantheight_replicate,LiveOrDead = live_dead, PlantHeight = plantheight_cm)
+=======
+rename(Estuary = estuaryname, Station = stationno, Date = samplecollectiondate, Transect = transectreplicate, Habitat = habitat, Method = method, Quadrat = plotreplicate, Abundance = total_stems,PlantHeightReplicate = plantheight_replicate, PlantHeight=plantheight_cm, LiveOrDead = live_dead,)
+>>>>>>> 08ee21120bc6d4874ff86b9ab1cd56515f105a28
 
 Cordgrass_Clean
 ```
