@@ -1,0 +1,668 @@
+Estuary,Station,Date,Transect,Habitat,Method,Quadrat,LiveOrDead,Abundance,PlantHeightReplicate,PlantHeight,Tide,VegetatedCover,NonVegetatedCover
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,2,Low marsh,across_elevation,1,Live,22,1,76,low,80,20
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,2,Low marsh,across_elevation,1,Live,22,2,23,low,80,20
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,2,Low marsh,across_elevation,1,Live,22,3,27,low,80,20
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,2,Low marsh,across_elevation,1,Live,22,4,29,low,80,20
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,2,Low marsh,across_elevation,1,Live,22,5,51,low,80,20
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,2,Low marsh,across_elevation,1,Live,22,6,60,low,80,20
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,2,Low marsh,across_elevation,1,Live,22,7,34,low,80,20
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,2,Low marsh,across_elevation,1,Live,22,8,69,low,80,20
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,2,Low marsh,across_elevation,1,Live,22,9,67,low,80,20
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,2,Low marsh,across_elevation,1,Live,22,10,74,low,80,20
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,2,Low marsh,across_elevation,5,Live,1,1,74,low,100,0
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,1,Live,16,1,31,low,60,40
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,1,Live,16,2,37,low,60,40
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,1,Live,16,3,37,low,60,40
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,1,Live,16,4,28,low,60,40
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,1,Live,16,5,20,low,60,40
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,1,Live,16,6,22,low,60,40
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,1,Live,16,7,45,low,60,40
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,1,Live,16,8,89,low,60,40
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,1,Live,16,9,92,low,60,40
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,1,Live,16,10,116,low,60,40
+San Elijo Lagoon,1,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,2,Live,1,1,54,low,60,40
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,1,Low marsh,across_elevation,1,Live,14,1,75,low,85,15
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,1,Low marsh,across_elevation,1,Live,14,2,45,low,85,15
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,1,Low marsh,across_elevation,1,Live,14,3,45,low,85,15
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,1,Low marsh,across_elevation,1,Live,14,4,68,low,85,15
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,1,Low marsh,across_elevation,1,Live,14,5,90,low,85,15
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,1,Low marsh,across_elevation,1,Live,14,6,82,low,85,15
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,1,Low marsh,across_elevation,1,Live,14,7,50,low,85,15
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,1,Low marsh,across_elevation,1,Live,14,8,71,low,85,15
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,1,Low marsh,across_elevation,1,Live,14,9,66,low,85,15
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,1,Low marsh,across_elevation,1,Live,14,10,70,low,85,15
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,1,Live,7,1,69,low,75,25
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,1,Live,7,2,77,low,75,25
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,1,Live,7,3,58,low,75,25
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,1,Live,7,4,82,low,75,25
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,1,Live,7,5,58,low,75,25
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,1,Live,7,6,79,low,75,25
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,1,Live,7,7,NA,low,75,25
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,2,Live,14,1,37,low,50,50
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,2,Live,14,2,94,low,50,50
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,2,Live,14,3,114,low,50,50
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,2,Live,14,4,70,low,50,50
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,2,Live,14,5,61,low,50,50
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,2,Live,14,6,54,low,50,50
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,2,Live,14,7,44,low,50,50
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,2,Live,14,8,112,low,50,50
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,2,Live,14,9,37,low,50,50
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,2,Live,14,10,42,low,50,50
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,3,Live,13,1,79,low,95,5
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,3,Live,13,2,87,low,95,5
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,3,Live,13,3,110,low,95,5
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,3,Live,13,4,84,low,95,5
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,3,Live,13,5,75,low,95,5
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,3,Live,13,6,100,low,95,5
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,3,Live,13,7,112,low,95,5
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,3,Live,13,8,89,low,95,5
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,3,Live,13,9,91,low,95,5
+San Elijo Lagoon,2,2023-11-22T00:00:00Z,3,Low marsh,across_elevation,3,Live,13,10,70,low,95,5
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,1,Low marsh,across_elevation,1,Live,NA,NA,NA,high,65,35
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,1,Low marsh,across_elevation,1,Live,1,1,60,high,65,35
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Low marsh,within_elevation,2,Live,NA,NA,NA,high,70,30
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Low marsh,within_elevation,2,Live,1,1,105,high,70,30
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Low marsh,within_elevation,3,Live,NA,NA,NA,high,80,20
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Low marsh,within_elevation,3,Live,1,1,110,high,80,20
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Low marsh,within_elevation,5,Live,NA,NA,NA,high,80,20
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Low marsh,within_elevation,5,Live,7,1,118,high,80,20
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Low marsh,within_elevation,5,Live,7,2,103,high,80,20
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Low marsh,within_elevation,5,Live,7,3,106,high,80,20
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Low marsh,within_elevation,5,Live,7,4,98,high,80,20
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Low marsh,within_elevation,5,Live,7,5,118,high,80,20
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Low marsh,within_elevation,5,Live,7,6,106,high,80,20
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Low marsh,within_elevation,5,Live,7,7,110,high,80,20
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Low marsh,within_elevation,6,Live,NA,NA,NA,high,98,2
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Low marsh,within_elevation,6,Live,9,1,123,high,98,2
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Low marsh,within_elevation,6,Live,9,2,119,high,98,2
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Low marsh,within_elevation,6,Live,9,3,122,high,98,2
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Low marsh,within_elevation,6,Live,9,4,107,high,98,2
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Low marsh,within_elevation,6,Live,9,5,119,high,98,2
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Low marsh,within_elevation,6,Live,9,6,121,high,98,2
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Low marsh,within_elevation,6,Live,9,7,108,high,98,2
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Low marsh,within_elevation,6,Live,9,8,99,high,98,2
+San Elijo Lagoon,3,2023-12-14T00:00:00Z,2,Low marsh,within_elevation,6,Live,9,9,116,high,98,2
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,1,Low marsh,across_elevation,2,Live,14,1,74,high,25,75
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,1,Low marsh,across_elevation,2,Live,14,2,91,high,25,75
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,1,Low marsh,across_elevation,2,Live,14,3,91,high,25,75
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,1,Low marsh,across_elevation,2,Live,14,4,83,high,25,75
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,1,Low marsh,across_elevation,2,Live,14,5,52,high,25,75
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,1,Low marsh,across_elevation,2,Live,14,6,55,high,25,75
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,1,Low marsh,across_elevation,2,Live,14,7,60,high,25,75
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,1,Low marsh,across_elevation,2,Live,14,8,11,high,25,75
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,1,Low marsh,across_elevation,2,Live,14,9,36,high,25,75
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,1,Low marsh,across_elevation,2,Live,14,10,15,high,25,75
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,1,Low marsh,across_elevation,2,Live,14,11,NA,high,25,75
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,1,Low marsh,across_elevation,2,Live,14,12,NA,high,25,75
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,1,Low marsh,across_elevation,2,Live,14,13,NA,high,25,75
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,1,Low marsh,across_elevation,2,Live,14,14,NA,high,25,75
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,1,Low marsh,across_elevation,3,Live,20,1,80,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,1,Low marsh,across_elevation,3,Live,20,2,103,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,1,Low marsh,across_elevation,3,Live,20,3,104,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,1,Low marsh,across_elevation,3,Live,20,4,100,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,1,Low marsh,across_elevation,3,Live,20,5,75,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,1,Low marsh,across_elevation,3,Live,20,6,107,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,1,Low marsh,across_elevation,3,Live,20,7,99,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,1,Low marsh,across_elevation,3,Live,20,8,76,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,1,Low marsh,across_elevation,3,Live,20,9,19,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,1,Low marsh,across_elevation,3,Live,20,10,93,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,1,Low marsh,across_elevation,3,Live,20,11,NA,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,1,Low marsh,across_elevation,3,Live,20,12,NA,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,1,Low marsh,across_elevation,3,Live,20,13,NA,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,1,Low marsh,across_elevation,3,Live,20,14,NA,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,1,Low marsh,across_elevation,3,Live,20,15,NA,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,1,Low marsh,across_elevation,3,Live,20,16,NA,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,1,Low marsh,across_elevation,3,Live,20,17,NA,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,1,Low marsh,across_elevation,3,Live,20,18,NA,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,1,Low marsh,across_elevation,3,Live,20,19,NA,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,1,Low marsh,across_elevation,3,Live,20,20,NA,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,1,Low marsh,across_elevation,4,Dead,NA,NA,NA,high,15,85
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,1,Low marsh,across_elevation,4,Live,14,1,28,high,15,85
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,1,Low marsh,across_elevation,4,Live,14,2,13,high,15,85
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,1,Low marsh,across_elevation,4,Live,14,3,18,high,15,85
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,1,Low marsh,across_elevation,4,Live,14,4,38,high,15,85
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,1,Low marsh,across_elevation,4,Live,14,5,30,high,15,85
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,1,Low marsh,across_elevation,4,Live,14,6,37,high,15,85
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,1,Low marsh,across_elevation,4,Live,14,7,38,high,15,85
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,1,Low marsh,across_elevation,4,Live,14,8,31,high,15,85
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,1,Low marsh,across_elevation,4,Live,14,9,22,high,15,85
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,1,Low marsh,across_elevation,4,Live,14,10,32,high,15,85
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,1,Low marsh,across_elevation,4,Live,14,11,NA,high,15,85
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,1,Low marsh,across_elevation,4,Live,14,12,NA,high,15,85
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,1,Low marsh,across_elevation,4,Live,14,13,NA,high,15,85
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,1,Low marsh,across_elevation,4,Live,14,14,NA,high,15,85
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,2,Low marsh,across_elevation,2,Live,10,1,82,high,75,25
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,2,Low marsh,across_elevation,2,Live,10,2,59,high,75,25
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,2,Low marsh,across_elevation,2,Live,10,3,41,high,75,25
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,2,Low marsh,across_elevation,2,Live,10,4,22,high,75,25
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,2,Low marsh,across_elevation,2,Live,10,5,15,high,75,25
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,2,Low marsh,across_elevation,2,Live,10,6,71,high,75,25
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,2,Low marsh,across_elevation,2,Live,10,7,5,high,75,25
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,2,Low marsh,across_elevation,2,Live,10,8,70,high,75,25
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,2,Low marsh,across_elevation,2,Live,10,9,89,high,75,25
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,2,Low marsh,across_elevation,2,Live,10,10,10,high,75,25
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,2,Low marsh,across_elevation,3,Live,19,1,84,high,45,55
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,2,Low marsh,across_elevation,3,Live,19,2,80,high,45,55
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,2,Low marsh,across_elevation,3,Live,19,3,80,high,45,55
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,2,Low marsh,across_elevation,3,Live,19,4,25,high,45,55
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,2,Low marsh,across_elevation,3,Live,19,5,65,high,45,55
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,2,Low marsh,across_elevation,3,Live,19,6,73,high,45,55
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,2,Low marsh,across_elevation,3,Live,19,7,59,high,45,55
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,2,Low marsh,across_elevation,3,Live,19,8,69,high,45,55
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,2,Low marsh,across_elevation,3,Live,19,9,79,high,45,55
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,2,Low marsh,across_elevation,3,Live,19,10,71,high,45,55
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,2,Low marsh,across_elevation,3,Live,19,11,NA,high,45,55
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,2,Low marsh,across_elevation,3,Live,19,12,NA,high,45,55
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,2,Low marsh,across_elevation,3,Live,19,13,NA,high,45,55
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,2,Low marsh,across_elevation,3,Live,19,14,NA,high,45,55
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,2,Low marsh,across_elevation,3,Live,19,15,NA,high,45,55
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,2,Low marsh,across_elevation,3,Live,19,16,NA,high,45,55
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,2,Low marsh,across_elevation,3,Live,19,17,NA,high,45,55
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,2,Low marsh,across_elevation,3,Live,19,18,NA,high,45,55
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,2,Low marsh,across_elevation,3,Live,19,19,NA,high,45,55
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,2,Low marsh,across_elevation,4,Dead,NA,NA,NA,high,40,60
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,2,Low marsh,across_elevation,4,Live,14,1,92,high,40,60
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,2,Low marsh,across_elevation,4,Live,14,2,98,high,40,60
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,2,Low marsh,across_elevation,4,Live,14,3,99,high,40,60
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,2,Low marsh,across_elevation,4,Live,14,4,21,high,40,60
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,2,Low marsh,across_elevation,4,Live,14,5,100,high,40,60
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,2,Low marsh,across_elevation,4,Live,14,6,96,high,40,60
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,2,Low marsh,across_elevation,4,Live,14,7,107,high,40,60
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,2,Low marsh,across_elevation,4,Live,14,8,65,high,40,60
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,2,Low marsh,across_elevation,4,Live,14,9,83,high,40,60
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,2,Low marsh,across_elevation,4,Live,14,10,46,high,40,60
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,2,Low marsh,across_elevation,4,Live,14,11,NA,high,40,60
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,2,Low marsh,across_elevation,4,Live,14,12,NA,high,40,60
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,2,Low marsh,across_elevation,4,Live,14,13,NA,high,40,60
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,2,Low marsh,across_elevation,4,Live,14,14,NA,high,40,60
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,2,Low marsh,across_elevation,5,Live,12,1,92,high,45,55
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,2,Low marsh,across_elevation,5,Live,12,2,98,high,45,55
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,2,Low marsh,across_elevation,5,Live,12,3,99,high,45,55
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,2,Low marsh,across_elevation,5,Live,12,4,21,high,45,55
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,2,Low marsh,across_elevation,5,Live,12,5,100,high,45,55
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,2,Low marsh,across_elevation,5,Live,12,6,96,high,45,55
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,2,Low marsh,across_elevation,5,Live,12,7,107,high,45,55
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,2,Low marsh,across_elevation,5,Live,12,8,65,high,45,55
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,2,Low marsh,across_elevation,5,Live,12,9,83,high,45,55
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,2,Low marsh,across_elevation,5,Live,12,10,46,high,45,55
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,2,Low marsh,across_elevation,5,Live,12,11,NA,high,45,55
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,2,Low marsh,across_elevation,5,Live,12,12,NA,high,45,55
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,4,Live,16,1,62,high,40,60
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,4,Live,16,2,98,high,40,60
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,4,Live,16,3,89,high,40,60
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,4,Live,16,4,71,high,40,60
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,4,Live,16,5,65,high,40,60
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,4,Live,16,6,65,high,40,60
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,4,Live,16,7,77,high,40,60
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,4,Live,16,8,53,high,40,60
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,4,Live,16,9,76,high,40,60
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,4,Live,16,10,78,high,40,60
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,4,Live,16,11,NA,high,40,60
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,4,Live,16,12,NA,high,40,60
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,4,Live,16,13,NA,high,40,60
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,4,Live,16,14,NA,high,40,60
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,4,Live,16,15,NA,high,40,60
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,4,Live,16,16,NA,high,40,60
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,5,Dead,NA,NA,NA,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,5,Live,26,1,8,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,5,Live,26,2,10,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,5,Live,26,3,99,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,5,Live,26,4,50,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,5,Live,26,5,87,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,5,Live,26,6,40,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,5,Live,26,7,61,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,5,Live,26,8,63,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,5,Live,26,9,80,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,5,Live,26,10,64,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,5,Live,26,11,NA,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,5,Live,26,12,NA,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,5,Live,26,13,NA,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,5,Live,26,14,NA,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,5,Live,26,15,NA,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,5,Live,26,16,NA,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,5,Live,26,17,NA,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,5,Live,26,18,NA,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,5,Live,26,19,NA,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,5,Live,26,20,NA,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,5,Live,26,21,NA,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,5,Live,26,22,NA,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,5,Live,26,23,NA,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,5,Live,26,24,NA,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,5,Live,26,25,NA,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,5,Live,26,26,NA,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,6,Dead,NA,NA,NA,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,6,Live,20,1,91,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,6,Live,20,2,70,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,6,Live,20,3,61,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,6,Live,20,4,80,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,6,Live,20,5,81,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,6,Live,20,6,97,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,6,Live,20,7,60,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,6,Live,20,8,86,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,6,Live,20,9,97,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,6,Live,20,10,76,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,6,Live,20,11,NA,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,6,Live,20,12,NA,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,6,Live,20,13,NA,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,6,Live,20,14,NA,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,6,Live,20,15,NA,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,6,Live,20,16,NA,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,6,Live,20,17,NA,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,6,Live,20,18,NA,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,6,Live,20,19,NA,high,60,40
+Batiquitos Lagoon,1,2023-10-02T00:00:00Z,3,Low marsh,across_elevation,6,Live,20,20,NA,high,60,40
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,1,Low marsh,across_elevation,1,Dead,NA,NA,NA,low,75,25
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,1,Low marsh,across_elevation,1,Live,20,1,110,low,75,25
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,1,Low marsh,across_elevation,1,Live,20,2,71,low,75,25
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,1,Low marsh,across_elevation,1,Live,20,3,82,low,75,25
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,1,Low marsh,across_elevation,1,Live,20,4,56,low,75,25
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,1,Low marsh,across_elevation,1,Live,20,5,28,low,75,25
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,1,Low marsh,across_elevation,1,Live,20,6,18,low,75,25
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,1,Low marsh,across_elevation,1,Live,20,7,21,low,75,25
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,1,Low marsh,across_elevation,1,Live,20,8,9,low,75,25
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,1,Low marsh,across_elevation,1,Live,20,9,11,low,75,25
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,1,Low marsh,across_elevation,1,Live,20,10,41,low,75,25
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,1,Low marsh,across_elevation,1,Live,20,11,39,low,75,25
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,1,Low marsh,across_elevation,1,Live,20,12,58,low,75,25
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,1,Low marsh,across_elevation,1,Live,20,13,62,low,75,25
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,1,Low marsh,across_elevation,1,Live,20,14,58,low,75,25
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,1,Low marsh,across_elevation,1,Live,20,15,11,low,75,25
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,1,Low marsh,across_elevation,1,Live,20,16,25,low,75,25
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,1,Low marsh,across_elevation,1,Live,20,17,31,low,75,25
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,1,Low marsh,across_elevation,1,Live,20,18,80,low,75,25
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,1,Low marsh,across_elevation,1,Live,20,19,97,low,75,25
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,1,Low marsh,across_elevation,1,Live,20,20,82,low,75,25
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,1,Low marsh,across_elevation,2,Dead,NA,NA,NA,low,60,40
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,1,Low marsh,across_elevation,2,Live,16,1,51,low,60,40
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,1,Low marsh,across_elevation,2,Live,16,2,56,low,60,40
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,1,Low marsh,across_elevation,2,Live,16,3,46,low,60,40
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,1,Low marsh,across_elevation,2,Live,16,4,21,low,60,40
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,1,Low marsh,across_elevation,2,Live,16,5,11,low,60,40
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,1,Low marsh,across_elevation,2,Live,16,6,16,low,60,40
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,1,Low marsh,across_elevation,2,Live,16,7,52,low,60,40
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,1,Low marsh,across_elevation,2,Live,16,8,46,low,60,40
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,1,Low marsh,across_elevation,2,Live,16,9,53,low,60,40
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,1,Low marsh,across_elevation,2,Live,16,10,52,low,60,40
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,1,Low marsh,across_elevation,2,Live,16,11,54,low,60,40
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,1,Low marsh,across_elevation,2,Live,16,12,46,low,60,40
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,1,Low marsh,across_elevation,2,Live,16,13,75,low,60,40
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,1,Low marsh,across_elevation,2,Live,16,14,65,low,60,40
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,1,Low marsh,across_elevation,2,Live,16,15,32,low,60,40
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,1,Low marsh,across_elevation,2,Live,16,16,66,low,60,40
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,2,Low marsh,across_elevation,1,Dead,NA,NA,NA,low,80,20
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,2,Low marsh,across_elevation,1,Live,5,1,42,low,80,20
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,2,Low marsh,across_elevation,1,Live,5,2,54,low,80,20
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,2,Low marsh,across_elevation,1,Live,5,3,50,low,80,20
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,2,Low marsh,across_elevation,1,Live,5,4,56,low,80,20
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,2,Low marsh,across_elevation,1,Live,5,5,53,low,80,20
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,2,Low marsh,across_elevation,2,Dead,NA,NA,NA,low,80,20
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,2,Low marsh,across_elevation,2,Live,17,1,69,low,80,20
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,2,Low marsh,across_elevation,2,Live,17,2,72,low,80,20
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,2,Low marsh,across_elevation,2,Live,17,3,68,low,80,20
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,2,Low marsh,across_elevation,2,Live,17,4,70,low,80,20
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,2,Low marsh,across_elevation,2,Live,17,5,67,low,80,20
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,2,Low marsh,across_elevation,2,Live,17,6,49,low,80,20
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,2,Low marsh,across_elevation,2,Live,17,7,40,low,80,20
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,2,Low marsh,across_elevation,2,Live,17,8,15,low,80,20
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,2,Low marsh,across_elevation,2,Live,17,9,40,low,80,20
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,2,Low marsh,across_elevation,2,Live,17,10,42,low,80,20
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,2,Low marsh,across_elevation,2,Live,17,11,52,low,80,20
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,2,Low marsh,across_elevation,2,Live,17,12,48,low,80,20
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,2,Low marsh,across_elevation,2,Live,17,13,38,low,80,20
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,2,Low marsh,across_elevation,2,Live,17,14,31,low,80,20
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,2,Low marsh,across_elevation,2,Live,17,15,21,low,80,20
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,2,Low marsh,across_elevation,2,Live,17,16,27,low,80,20
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,2,Low marsh,across_elevation,2,Live,17,17,38,low,80,20
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,1,Dead,NA,NA,NA,low,30,70
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,1,Live,6,1,85,low,30,70
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,1,Live,6,2,72,low,30,70
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,1,Live,6,3,84,low,30,70
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,1,Live,6,4,79,low,30,70
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,1,Live,6,5,83,low,30,70
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,1,Live,6,6,58,low,30,70
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,2,Dead,NA,NA,NA,low,60,40
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,2,Live,18,1,105,low,60,40
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,2,Live,18,2,97,low,60,40
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,2,Live,18,3,91,low,60,40
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,2,Live,18,4,88,low,60,40
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,2,Live,18,5,77,low,60,40
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,2,Live,18,6,104,low,60,40
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,2,Live,18,7,85,low,60,40
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,2,Live,18,8,78,low,60,40
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,2,Live,18,9,65,low,60,40
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,2,Live,18,10,56,low,60,40
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,2,Live,18,11,61,low,60,40
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,2,Live,18,12,83,low,60,40
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,2,Live,18,13,99,low,60,40
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,2,Live,18,14,78,low,60,40
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,2,Live,18,15,67,low,60,40
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,2,Live,18,16,30,low,60,40
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,2,Live,18,17,28,low,60,40
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,2,Live,18,18,34,low,60,40
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,3,Dead,NA,NA,NA,low,75,25
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,3,Live,23,1,25,low,75,25
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,3,Live,23,2,55,low,75,25
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,3,Live,23,3,44,low,75,25
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,3,Live,23,4,22,low,75,25
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,3,Live,23,5,54,low,75,25
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,3,Live,23,6,67,low,75,25
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,3,Live,23,7,54,low,75,25
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,3,Live,23,8,59,low,75,25
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,3,Live,23,9,62,low,75,25
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,3,Live,23,10,80,low,75,25
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,3,Live,23,11,56,low,75,25
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,3,Live,23,12,76,low,75,25
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,3,Live,23,13,65,low,75,25
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,3,Live,23,14,56,low,75,25
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,3,Live,23,15,62,low,75,25
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,3,Live,23,16,44,low,75,25
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,3,Live,23,17,56,low,75,25
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,3,Live,23,18,62,low,75,25
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,3,Live,23,19,63,low,75,25
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,3,Live,23,20,66,low,75,25
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,3,Live,23,21,52,low,75,25
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,3,Live,23,22,64,low,75,25
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,3,Live,23,23,48,low,75,25
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Mid marsh,across_elevation,4,Dead,NA,NA,NA,low,50,50
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Mid marsh,across_elevation,4,Live,11,1,46,low,50,50
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Mid marsh,across_elevation,4,Live,11,2,22,low,50,50
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Mid marsh,across_elevation,4,Live,11,3,21,low,50,50
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Mid marsh,across_elevation,4,Live,11,4,43,low,50,50
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Mid marsh,across_elevation,4,Live,11,5,31,low,50,50
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Mid marsh,across_elevation,4,Live,11,6,44,low,50,50
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Mid marsh,across_elevation,4,Live,11,7,32,low,50,50
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Mid marsh,across_elevation,4,Live,11,8,37,low,50,50
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Mid marsh,across_elevation,4,Live,11,9,36,low,50,50
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Mid marsh,across_elevation,4,Live,11,10,32,low,50,50
+Batiquitos Lagoon,2,2023-10-01T00:00:00Z,3,Mid marsh,across_elevation,4,Live,11,11,9,low,50,50
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,1,Low marsh,across_elevation,1,Live,7,1,69,high,75,25
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,1,Low marsh,across_elevation,1,Live,7,2,69,high,75,25
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,1,Low marsh,across_elevation,1,Live,7,3,68,high,75,25
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,1,Low marsh,across_elevation,1,Live,7,4,38,high,75,25
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,1,Low marsh,across_elevation,1,Live,7,5,40,high,75,25
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,1,Low marsh,across_elevation,1,Live,7,6,44,high,75,25
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,1,Low marsh,across_elevation,1,Live,7,7,58,high,75,25
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,1,Live,8,1,71,high,90,10
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,1,Live,8,2,63,high,90,10
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,1,Live,8,3,47,high,90,10
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,1,Live,8,4,86,high,90,10
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,1,Live,8,5,71,high,90,10
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,1,Live,8,6,78,high,90,10
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,1,Live,8,7,72,high,90,10
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,1,Live,8,8,55,high,90,10
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,2,Dead,11,1,NA,high,80,20
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,2,Dead,11,2,NA,high,80,20
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,2,Dead,11,3,NA,high,80,20
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,2,Dead,11,4,NA,high,80,20
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,2,Dead,11,5,NA,high,80,20
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,2,Dead,11,6,NA,high,80,20
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,2,Dead,11,7,NA,high,80,20
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,2,Dead,11,8,NA,high,80,20
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,2,Dead,11,9,NA,high,80,20
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,2,Dead,11,10,NA,high,80,20
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,2,Dead,11,11,NA,high,80,20
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,2,Live,15,1,72,high,80,20
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,2,Live,15,2,80,high,80,20
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,2,Live,15,3,64,high,80,20
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,2,Live,15,4,68,high,80,20
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,2,Live,15,5,30,high,80,20
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,2,Live,15,6,85,high,80,20
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,2,Live,15,7,72,high,80,20
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,2,Live,15,8,83,high,80,20
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,2,Live,15,9,66,high,80,20
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,2,Live,15,10,79,high,80,20
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,2,Live,15,11,79,high,80,20
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,2,Live,15,12,88,high,80,20
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,2,Live,15,13,72,high,80,20
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,2,Live,15,14,74,high,80,20
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Low marsh,across_elevation,2,Live,15,15,89,high,80,20
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Mid marsh,across_elevation,3,Dead,15,1,NA,high,30,70
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Mid marsh,across_elevation,3,Dead,15,2,NA,high,30,70
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Mid marsh,across_elevation,3,Dead,15,3,NA,high,30,70
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Mid marsh,across_elevation,3,Dead,15,4,NA,high,30,70
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Mid marsh,across_elevation,3,Dead,15,5,NA,high,30,70
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Mid marsh,across_elevation,3,Dead,15,6,NA,high,30,70
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Mid marsh,across_elevation,3,Dead,15,7,NA,high,30,70
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Mid marsh,across_elevation,3,Dead,15,8,NA,high,30,70
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Mid marsh,across_elevation,3,Dead,15,9,NA,high,30,70
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Mid marsh,across_elevation,3,Dead,15,10,NA,high,30,70
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Mid marsh,across_elevation,3,Dead,15,11,NA,high,30,70
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Mid marsh,across_elevation,3,Dead,15,12,NA,high,30,70
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Mid marsh,across_elevation,3,Dead,15,13,NA,high,30,70
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Mid marsh,across_elevation,3,Dead,15,14,NA,high,30,70
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Mid marsh,across_elevation,3,Dead,15,15,NA,high,30,70
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Mid marsh,across_elevation,3,Live,19,1,38,high,30,70
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Mid marsh,across_elevation,3,Live,19,2,25,high,30,70
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Mid marsh,across_elevation,3,Live,19,3,71,high,30,70
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Mid marsh,across_elevation,3,Live,19,4,12,high,30,70
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Mid marsh,across_elevation,3,Live,19,5,104,high,30,70
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Mid marsh,across_elevation,3,Live,19,6,54,high,30,70
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Mid marsh,across_elevation,3,Live,19,7,52,high,30,70
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Mid marsh,across_elevation,3,Live,19,8,46,high,30,70
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Mid marsh,across_elevation,3,Live,19,9,101,high,30,70
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Mid marsh,across_elevation,3,Live,19,10,14,high,30,70
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Mid marsh,across_elevation,3,Live,19,11,102,high,30,70
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Mid marsh,across_elevation,3,Live,19,12,61,high,30,70
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Mid marsh,across_elevation,3,Live,19,13,40,high,30,70
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Mid marsh,across_elevation,3,Live,19,14,35,high,30,70
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Mid marsh,across_elevation,3,Live,19,15,25,high,30,70
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Mid marsh,across_elevation,3,Live,19,16,100,high,30,70
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Mid marsh,across_elevation,3,Live,19,17,62,high,30,70
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Mid marsh,across_elevation,3,Live,19,18,70,high,30,70
+Batiquitos Lagoon,3,2023-10-01T00:00:00Z,3,Mid marsh,across_elevation,3,Live,19,19,18,high,30,70
+Newport Bay,1,2023-09-15T00:00:00Z,1,Mid marsh,across_elevation,1,Live,10,1,76,high,75,25
+Newport Bay,1,2023-09-15T00:00:00Z,1,Mid marsh,across_elevation,1,Live,10,2,48,high,75,25
+Newport Bay,1,2023-09-15T00:00:00Z,1,Mid marsh,across_elevation,1,Live,10,3,23,high,75,25
+Newport Bay,1,2023-09-15T00:00:00Z,1,Mid marsh,across_elevation,1,Live,10,4,75,high,75,25
+Newport Bay,1,2023-09-15T00:00:00Z,1,Mid marsh,across_elevation,1,Live,10,5,61,high,75,25
+Newport Bay,1,2023-09-15T00:00:00Z,1,Mid marsh,across_elevation,1,Live,10,6,65,high,75,25
+Newport Bay,1,2023-09-15T00:00:00Z,1,Mid marsh,across_elevation,1,Live,10,7,76,high,75,25
+Newport Bay,1,2023-09-15T00:00:00Z,1,Mid marsh,across_elevation,1,Live,10,8,15,high,75,25
+Newport Bay,1,2023-09-15T00:00:00Z,1,Mid marsh,across_elevation,1,Live,10,9,51,high,75,25
+Newport Bay,1,2023-09-15T00:00:00Z,1,Mid marsh,across_elevation,1,Live,10,10,36,high,75,25
+Newport Bay,1,2023-09-15T00:00:00Z,1,Mid marsh,across_elevation,2,Live,1,1,66,high,90,10
+Newport Bay,1,2023-09-15T00:00:00Z,2,Low marsh,across_elevation,1,Live,3,1,16,mid,40,60
+Newport Bay,1,2023-09-15T00:00:00Z,2,Low marsh,across_elevation,1,Live,3,2,20,mid,40,60
+Newport Bay,1,2023-09-15T00:00:00Z,2,Low marsh,across_elevation,1,Live,3,3,14,mid,40,60
+Newport Bay,1,2023-10-16T00:00:00Z,3,Low marsh,across_elevation,1,Dead,NA,NA,NA,low,15,85
+Newport Bay,1,2023-10-16T00:00:00Z,3,Low marsh,across_elevation,1,Live,14,1,37,low,15,85
+Newport Bay,1,2023-10-16T00:00:00Z,3,Low marsh,across_elevation,1,Live,14,2,51,low,15,85
+Newport Bay,1,2023-10-16T00:00:00Z,3,Low marsh,across_elevation,1,Live,14,3,38,low,15,85
+Newport Bay,1,2023-10-16T00:00:00Z,3,Low marsh,across_elevation,1,Live,14,4,36,low,15,85
+Newport Bay,1,2023-10-16T00:00:00Z,3,Low marsh,across_elevation,1,Live,14,5,44,low,15,85
+Newport Bay,1,2023-10-16T00:00:00Z,3,Low marsh,across_elevation,1,Live,14,6,28,low,15,85
+Newport Bay,1,2023-10-16T00:00:00Z,3,Low marsh,across_elevation,1,Live,14,7,7,low,15,85
+Newport Bay,1,2023-10-16T00:00:00Z,3,Low marsh,across_elevation,1,Live,14,8,17,low,15,85
+Newport Bay,1,2023-10-16T00:00:00Z,3,Low marsh,across_elevation,1,Live,14,9,21,low,15,85
+Newport Bay,1,2023-10-16T00:00:00Z,3,Low marsh,across_elevation,1,Live,14,10,4,low,15,85
+Newport Bay,1,2023-10-16T00:00:00Z,3,Low marsh,across_elevation,1,Live,14,11,5,low,15,85
+Newport Bay,1,2023-10-16T00:00:00Z,3,Low marsh,across_elevation,1,Live,14,12,31,low,15,85
+Newport Bay,1,2023-10-16T00:00:00Z,3,Low marsh,across_elevation,1,Live,14,13,8,low,15,85
+Newport Bay,1,2023-10-16T00:00:00Z,3,Low marsh,across_elevation,1,Live,14,14,8,low,15,85
+Newport Bay,2,2023-09-15T00:00:00Z,1,Low marsh,across_elevation,1,Live,6,1,105,low,70,30
+Newport Bay,2,2023-09-15T00:00:00Z,1,Low marsh,across_elevation,1,Live,6,2,110,low,70,30
+Newport Bay,2,2023-09-15T00:00:00Z,1,Low marsh,across_elevation,1,Live,6,3,104,low,70,30
+Newport Bay,2,2023-09-15T00:00:00Z,1,Low marsh,across_elevation,1,Live,6,4,83,low,70,30
+Newport Bay,2,2023-09-15T00:00:00Z,1,Low marsh,across_elevation,1,Live,6,5,76,low,70,30
+Newport Bay,2,2023-09-15T00:00:00Z,1,Low marsh,across_elevation,1,Live,6,6,66,low,70,30
+Newport Bay,2,2023-09-15T00:00:00Z,1,Low marsh,across_elevation,2,Live,15,1,91,low,50,50
+Newport Bay,2,2023-09-15T00:00:00Z,1,Low marsh,across_elevation,2,Live,15,2,NA,low,50,50
+Newport Bay,2,2023-09-15T00:00:00Z,1,Low marsh,across_elevation,2,Live,15,3,NA,low,50,50
+Newport Bay,2,2023-09-15T00:00:00Z,1,Low marsh,across_elevation,2,Live,15,4,NA,low,50,50
+Newport Bay,2,2023-09-15T00:00:00Z,1,Low marsh,across_elevation,2,Live,15,5,NA,low,50,50
+Newport Bay,2,2023-09-15T00:00:00Z,1,Low marsh,across_elevation,2,Live,15,6,NA,low,50,50
+Newport Bay,2,2023-09-15T00:00:00Z,1,Low marsh,across_elevation,2,Live,15,7,NA,low,50,50
+Newport Bay,2,2023-09-15T00:00:00Z,1,Low marsh,across_elevation,2,Live,15,8,NA,low,50,50
+Newport Bay,2,2023-09-15T00:00:00Z,1,Low marsh,across_elevation,2,Live,15,9,NA,low,50,50
+Newport Bay,2,2023-09-15T00:00:00Z,1,Low marsh,across_elevation,2,Live,15,10,NA,low,50,50
+Newport Bay,2,2023-09-15T00:00:00Z,1,Low marsh,across_elevation,2,Live,15,11,NA,low,50,50
+Newport Bay,2,2023-09-15T00:00:00Z,1,Low marsh,across_elevation,2,Live,15,12,NA,low,50,50
+Newport Bay,2,2023-09-15T00:00:00Z,1,Low marsh,across_elevation,2,Live,15,13,NA,low,50,50
+Newport Bay,2,2023-09-15T00:00:00Z,1,Low marsh,across_elevation,2,Live,15,14,NA,low,50,50
+Newport Bay,2,2023-09-15T00:00:00Z,1,Low marsh,across_elevation,2,Live,15,15,NA,low,50,50
+Newport Bay,2,2023-09-15T00:00:00Z,1,Low marsh,across_elevation,3,Live,15,1,82,low,100,0
+Newport Bay,2,2023-09-15T00:00:00Z,1,Low marsh,across_elevation,3,Live,15,2,68,low,100,0
+Newport Bay,2,2023-09-15T00:00:00Z,1,Low marsh,across_elevation,3,Live,15,3,53,low,100,0
+Newport Bay,2,2023-09-15T00:00:00Z,1,Low marsh,across_elevation,3,Live,15,4,85.5,low,100,0
+Newport Bay,2,2023-09-15T00:00:00Z,1,Low marsh,across_elevation,3,Live,15,5,79,low,100,0
+Newport Bay,2,2023-09-15T00:00:00Z,1,Low marsh,across_elevation,3,Live,15,6,47.5,low,100,0
+Newport Bay,2,2023-09-15T00:00:00Z,1,Low marsh,across_elevation,3,Live,15,7,106,low,100,0
+Newport Bay,2,2023-09-15T00:00:00Z,1,Low marsh,across_elevation,3,Live,15,8,97,low,100,0
+Newport Bay,2,2023-09-15T00:00:00Z,1,Low marsh,across_elevation,3,Live,15,9,72,low,100,0
+Newport Bay,2,2023-09-15T00:00:00Z,1,Low marsh,across_elevation,3,Live,15,10,60,low,100,0
+Newport Bay,2,2023-09-15T00:00:00Z,1,Low marsh,across_elevation,3,Live,15,11,76,low,100,0
+Newport Bay,2,2023-09-15T00:00:00Z,1,Low marsh,across_elevation,3,Live,15,12,77,low,100,0
+Newport Bay,2,2023-09-15T00:00:00Z,1,Low marsh,across_elevation,3,Live,15,13,81,low,100,0
+Newport Bay,2,2023-09-15T00:00:00Z,1,Low marsh,across_elevation,3,Live,15,14,88,low,100,0
+Newport Bay,2,2023-09-15T00:00:00Z,1,Low marsh,across_elevation,3,Live,15,15,92,low,100,0
+Newport Bay,2,2023-09-15T00:00:00Z,1,Mid marsh,across_elevation,4,Live,1,1,60,low,95,5
+Newport Bay,2,2023-09-15T00:00:00Z,2,Low marsh,across_elevation,1,Live,15,1,60,low,40,60
+Newport Bay,2,2023-09-15T00:00:00Z,2,Low marsh,across_elevation,1,Live,15,2,52,low,40,60
+Newport Bay,2,2023-09-15T00:00:00Z,2,Low marsh,across_elevation,1,Live,15,3,46,low,40,60
+Newport Bay,2,2023-09-15T00:00:00Z,2,Low marsh,across_elevation,1,Live,15,4,40,low,40,60
+Newport Bay,2,2023-09-15T00:00:00Z,2,Low marsh,across_elevation,1,Live,15,5,10,low,40,60
+Newport Bay,2,2023-09-15T00:00:00Z,2,Low marsh,across_elevation,1,Live,15,6,66,low,40,60
+Newport Bay,2,2023-09-15T00:00:00Z,2,Low marsh,across_elevation,1,Live,15,7,56,low,40,60
+Newport Bay,2,2023-09-15T00:00:00Z,2,Low marsh,across_elevation,1,Live,15,8,41,low,40,60
+Newport Bay,2,2023-09-15T00:00:00Z,2,Low marsh,across_elevation,1,Live,15,9,57,low,40,60
+Newport Bay,2,2023-09-15T00:00:00Z,2,Low marsh,across_elevation,1,Live,15,10,48,low,40,60
+Newport Bay,2,2023-09-15T00:00:00Z,2,Low marsh,across_elevation,1,Live,15,11,34,low,40,60
+Newport Bay,2,2023-09-15T00:00:00Z,2,Low marsh,across_elevation,1,Live,15,12,55,low,40,60
+Newport Bay,2,2023-09-15T00:00:00Z,2,Low marsh,across_elevation,1,Live,15,13,13,low,40,60
+Newport Bay,2,2023-09-15T00:00:00Z,2,Low marsh,across_elevation,1,Live,15,14,45,low,40,60
+Newport Bay,2,2023-09-15T00:00:00Z,2,Low marsh,across_elevation,1,Live,15,15,62,low,40,60
+Newport Bay,2,2023-09-16T00:00:00Z,3,Brackish marsh,within_elevation,1,Live,5,1,53,low,85,15
+Newport Bay,2,2023-09-16T00:00:00Z,3,Brackish marsh,within_elevation,1,Live,5,2,84,low,85,15
+Newport Bay,2,2023-09-16T00:00:00Z,3,Brackish marsh,within_elevation,1,Live,5,3,83,low,85,15
+Newport Bay,2,2023-09-16T00:00:00Z,3,Brackish marsh,within_elevation,1,Live,5,4,79,low,85,15
+Newport Bay,2,2023-09-16T00:00:00Z,3,Brackish marsh,within_elevation,1,Live,5,5,60,low,85,15
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,1,Live,8,1,86,high,98,2
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,1,Live,8,2,52,high,98,2
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,1,Live,8,3,45,high,98,2
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,1,Live,8,4,71,high,98,2
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,1,Live,8,5,73,high,98,2
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,1,Live,8,6,50.5,high,98,2
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,1,Live,8,7,80,high,98,2
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,1,Live,8,8,58,high,98,2
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,2,Live,12,1,71.5,high,45,55
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,2,Live,12,2,50,high,45,55
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,2,Live,12,3,52.5,high,45,55
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,2,Live,12,4,45.5,high,45,55
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,2,Live,12,5,46,high,45,55
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,2,Live,12,6,68,high,45,55
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,2,Live,12,7,29,high,45,55
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,2,Live,12,8,19,high,45,55
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,2,Live,12,9,18,high,45,55
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,2,Live,12,10,27,high,45,55
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,2,Live,12,11,20.5,high,45,55
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,2,Live,12,12,24.5,high,45,55
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,3,Live,13,1,65.5,high,80,20
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,3,Live,13,2,67,high,80,20
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,3,Live,13,3,36.5,high,80,20
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,3,Live,13,4,46,high,80,20
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,3,Live,13,5,73.5,high,80,20
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,3,Live,13,6,95,high,80,20
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,3,Live,13,7,60,high,80,20
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,3,Live,13,8,69.5,high,80,20
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,3,Live,13,9,37,high,80,20
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,3,Live,13,10,60,high,80,20
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,3,Live,13,11,49,high,80,20
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,3,Live,13,12,72,high,80,20
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,3,Live,13,13,34.5,high,80,20
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,5,Live,40,1,61.5,high,85,15
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,5,Live,40,2,75,high,85,15
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,5,Live,40,3,83.5,high,85,15
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,5,Live,40,4,54.5,high,85,15
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,5,Live,40,5,73,high,85,15
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,5,Live,40,6,71,high,85,15
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,5,Live,40,7,69,high,85,15
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,5,Live,40,8,68,high,85,15
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,5,Live,40,9,68,high,85,15
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,5,Live,40,10,91,high,85,15
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,5,Live,40,11,79,high,85,15
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,5,Live,40,12,74,high,85,15
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,5,Live,40,13,77,high,85,15
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,5,Live,40,14,74,high,85,15
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,5,Live,40,15,83,high,85,15
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,5,Live,40,16,67,high,85,15
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,5,Live,40,17,92,high,85,15
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,5,Live,40,18,84,high,85,15
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,5,Live,40,19,81,high,85,15
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,5,Live,40,20,69,high,85,15
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,5,Live,40,21,65,high,85,15
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,5,Live,40,22,70,high,85,15
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,5,Live,40,23,81,high,85,15
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,5,Live,40,24,68,high,85,15
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,5,Live,40,25,70.5,high,85,15
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,5,Live,40,26,80,high,85,15
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,5,Live,40,27,79,high,85,15
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,5,Live,40,28,73.5,high,85,15
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,5,Live,40,29,66,high,85,15
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,5,Live,40,30,77.5,high,85,15
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,5,Live,40,31,56,high,85,15
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,5,Live,40,32,63,high,85,15
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,5,Live,40,33,66,high,85,15
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,5,Live,40,34,69,high,85,15
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,5,Live,40,35,72,high,85,15
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,5,Live,40,36,69,high,85,15
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,5,Live,40,37,69.5,high,85,15
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,5,Live,40,38,79,high,85,15
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,5,Live,40,39,86,high,85,15
+Newport Bay,3,2023-09-16T00:00:00Z,1,Low marsh,across_elevation,5,Live,40,40,76,high,85,15
+Newport Bay,3,2023-09-16T00:00:00Z,2,Mid marsh,across_elevation,4,Live,2,1,40,mid,70,30
+Newport Bay,3,2023-09-16T00:00:00Z,2,Mid marsh,across_elevation,4,Live,2,2,29,mid,70,30
+Newport Bay,3,2023-09-16T00:00:00Z,2,Mid marsh,across_elevation,5,Live,7,1,62,mid,90,10
+Newport Bay,3,2023-09-16T00:00:00Z,2,Mid marsh,across_elevation,5,Live,7,2,61,mid,90,10
+Newport Bay,3,2023-09-16T00:00:00Z,2,Mid marsh,across_elevation,5,Live,7,3,54,mid,90,10
+Newport Bay,3,2023-09-16T00:00:00Z,2,Mid marsh,across_elevation,5,Live,7,4,58,mid,90,10
+Newport Bay,3,2023-09-16T00:00:00Z,2,Mid marsh,across_elevation,5,Live,7,5,61,mid,90,10
+Newport Bay,3,2023-09-16T00:00:00Z,2,Mid marsh,across_elevation,5,Live,7,6,55,mid,90,10
+Newport Bay,3,2023-09-16T00:00:00Z,2,Mid marsh,across_elevation,5,Live,7,7,49,mid,90,10
+Newport Bay,3,2023-09-16T00:00:00Z,2,Mid marsh,across_elevation,6,Live,8,1,90,mid,75,25
+Newport Bay,3,2023-09-16T00:00:00Z,2,Mid marsh,across_elevation,6,Live,8,2,50,mid,75,25
+Newport Bay,3,2023-09-16T00:00:00Z,2,Mid marsh,across_elevation,6,Live,8,3,75,mid,75,25
+Newport Bay,3,2023-09-16T00:00:00Z,2,Mid marsh,across_elevation,6,Live,8,4,95,mid,75,25
+Newport Bay,3,2023-09-16T00:00:00Z,2,Mid marsh,across_elevation,6,Live,8,5,65,mid,75,25
+Newport Bay,3,2023-09-16T00:00:00Z,2,Mid marsh,across_elevation,6,Live,8,6,82,mid,75,25
+Newport Bay,3,2023-09-16T00:00:00Z,2,Mid marsh,across_elevation,6,Live,8,7,81,mid,75,25
+Newport Bay,3,2023-09-16T00:00:00Z,2,Mid marsh,across_elevation,6,Live,8,8,78,mid,75,25
+Newport Bay,3,2023-10-16T00:00:00Z,3,Low marsh,across_elevation,1,Dead,NA,NA,NA,low,25,75
+Newport Bay,3,2023-10-16T00:00:00Z,3,Low marsh,across_elevation,1,Live,6,1,68,low,25,75
+Newport Bay,3,2023-10-16T00:00:00Z,3,Low marsh,across_elevation,1,Live,6,2,21,low,25,75
+Newport Bay,3,2023-10-16T00:00:00Z,3,Low marsh,across_elevation,1,Live,6,3,31,low,25,75
+Newport Bay,3,2023-10-16T00:00:00Z,3,Low marsh,across_elevation,1,Live,6,4,58,low,25,75
+Newport Bay,3,2023-10-16T00:00:00Z,3,Low marsh,across_elevation,1,Live,6,5,68,low,25,75
+Newport Bay,3,2023-10-16T00:00:00Z,3,Low marsh,across_elevation,1,Live,6,6,22,low,25,75
+Newport Bay,3,2023-10-16T00:00:00Z,3,Low marsh,across_elevation,2,Dead,6,1,NA,low,40,60
+Newport Bay,3,2023-10-16T00:00:00Z,3,Low marsh,across_elevation,2,Dead,6,2,NA,low,40,60
+Newport Bay,3,2023-10-16T00:00:00Z,3,Low marsh,across_elevation,2,Dead,6,3,NA,low,40,60
+Newport Bay,3,2023-10-16T00:00:00Z,3,Low marsh,across_elevation,2,Dead,6,4,NA,low,40,60
+Newport Bay,3,2023-10-16T00:00:00Z,3,Low marsh,across_elevation,2,Dead,6,5,NA,low,40,60
+Newport Bay,3,2023-10-16T00:00:00Z,3,Low marsh,across_elevation,2,Dead,6,6,NA,low,40,60
+Newport Bay,3,2023-10-16T00:00:00Z,3,Low marsh,across_elevation,2,Live,4,1,40,low,40,60
+Newport Bay,3,2023-10-16T00:00:00Z,3,Low marsh,across_elevation,2,Live,4,2,52,low,40,60
+Newport Bay,3,2023-10-16T00:00:00Z,3,Low marsh,across_elevation,2,Live,4,3,41,low,40,60
+Newport Bay,3,2023-10-16T00:00:00Z,3,Low marsh,across_elevation,2,Live,4,4,60,low,40,60
+Newport Bay,3,2023-10-16T00:00:00Z,3,Low marsh,across_elevation,3,Live,4,1,92,low,85,15
+Newport Bay,3,2023-10-16T00:00:00Z,3,Low marsh,across_elevation,3,Live,4,2,72,low,85,15
+Newport Bay,3,2023-10-16T00:00:00Z,3,Low marsh,across_elevation,3,Live,4,3,76,low,85,15
+Newport Bay,3,2023-10-16T00:00:00Z,3,Low marsh,across_elevation,3,Live,4,4,72,low,85,15
+Newport Bay,3,2023-10-16T00:00:00Z,3,Low marsh,across_elevation,4,Live,12,1,65,low,85,15
+Newport Bay,3,2023-10-16T00:00:00Z,3,Low marsh,across_elevation,4,Live,12,2,73,low,85,15
+Newport Bay,3,2023-10-16T00:00:00Z,3,Low marsh,across_elevation,4,Live,12,3,79,low,85,15
+Newport Bay,3,2023-10-16T00:00:00Z,3,Low marsh,across_elevation,4,Live,12,4,50,low,85,15
+Newport Bay,3,2023-10-16T00:00:00Z,3,Low marsh,across_elevation,4,Live,12,5,61,low,85,15
+Newport Bay,3,2023-10-16T00:00:00Z,3,Low marsh,across_elevation,4,Live,12,6,40,low,85,15
+Newport Bay,3,2023-10-16T00:00:00Z,3,Low marsh,across_elevation,4,Live,12,7,61,low,85,15
+Newport Bay,3,2023-10-16T00:00:00Z,3,Low marsh,across_elevation,4,Live,12,8,80,low,85,15
+Newport Bay,3,2023-10-16T00:00:00Z,3,Low marsh,across_elevation,4,Live,12,9,57,low,85,15
+Newport Bay,3,2023-10-16T00:00:00Z,3,Low marsh,across_elevation,4,Live,12,10,60,low,85,15
+Newport Bay,3,2023-10-16T00:00:00Z,3,Low marsh,across_elevation,4,Live,12,11,57,low,85,15
+Newport Bay,3,2023-10-16T00:00:00Z,3,Low marsh,across_elevation,4,Live,12,12,22,low,85,15
+Newport Bay,3,2023-10-16T00:00:00Z,3,Low marsh,across_elevation,5,Live,7,1,77,low,40,60
+Newport Bay,3,2023-10-16T00:00:00Z,3,Low marsh,across_elevation,5,Live,7,2,36,low,40,60
+Newport Bay,3,2023-10-16T00:00:00Z,3,Low marsh,across_elevation,5,Live,7,3,28,low,40,60
+Newport Bay,3,2023-10-16T00:00:00Z,3,Low marsh,across_elevation,5,Live,7,4,60,low,40,60
+Newport Bay,3,2023-10-16T00:00:00Z,3,Low marsh,across_elevation,5,Live,7,5,61,low,40,60
+Newport Bay,3,2023-10-16T00:00:00Z,3,Low marsh,across_elevation,5,Live,7,6,47,low,40,60
+Newport Bay,3,2023-10-16T00:00:00Z,3,Low marsh,across_elevation,5,Live,7,7,52,low,40,60
