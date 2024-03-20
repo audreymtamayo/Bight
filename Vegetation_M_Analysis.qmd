@@ -28,9 +28,9 @@ df.veg.raw<-read.csv("Combined_Vegetation.csv")
 ```{r}
 Common_veg <- df.veg.raw |> 
   mutate(Size = case_when(
-    Estuary == "Batiquitos Lagoon" ~ "Small",
+    Estuary == "Batiquitos Lagoon" ~ "Medium",
     Estuary == "Goleta Slough" ~ "Medium",
-    Estuary == "Malibu Lagoon" ~ "Medium",
+    Estuary == "Malibu Lagoon" ~ "Small",
     Estuary == "Newport Bay" ~ "Large",
     Estuary == "San Elijo Lagoon" ~ "Medium",
     Estuary == "Ventura River" ~ "Small"))|>
@@ -46,7 +46,7 @@ Veg_Matrix <- as.matrix(Common_veg[,-1])
 rownames(Veg_Matrix) <- Common_veg$Estuary
 ```
 
-NMDS \
+NMDS\
 1.calculate the NMDS score
 
 ```{r}
@@ -83,5 +83,5 @@ veg.NMDS_plot <- ggplot() +
   geom_text(data = veg.Species_scores,size=2, aes(x = NMDS1, y = NMDS2, label=ScientificName, color=Status),check_overlap = TRUE)+scale_color_discrete(name="Species Status")
 polplot<-veg.NMDS_plot+
   new_scale_colour()+geom_polygon(data = veg.Site_scores, aes(x = NMDS1, y = NMDS2, color = Size), alpha = 0.1)+geom_text(data = veg.Site_scores,size=5, aes(x = NMDS1, y = NMDS2, label=Estuary,color=Size), cex = 3) +scale_color_discrete(name="Estuary Size")
-#maybe try with percent cover
+
 ```
