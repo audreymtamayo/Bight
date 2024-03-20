@@ -58,7 +58,10 @@ Plot2 <- ggplot(df.veg.raw) +
 aes(y = VegetatedCover,x=Estuary) +
 geom_boxplot()
 print(Plot2)
-
+#summary of total count of species at each site
+countspec<-df.veg.raw|>
+group_by(Estuary)|>
+summarise(count = n_distinct(ScientificName))
 #Question:
 #Do the Estuaries differ in plant species diversity for each habitat type?
 
@@ -78,16 +81,16 @@ SpeciesCount <- ggplot(df.vegdiverse) +
 #dodge allows multiple habitats on one plot
 geom_col(aes(y = count,x=Estuary, fill=Habitat),position="dodge")+facet_wrap(~Habitat)
 #adjust agle of estuary names for legibility
+jpeg("SpeciesCount.jpg", width = 4.5, height = 4, units = 'in', res = 300)
 print(SpeciesCount)+theme(axis.text.x = element_text(angle = 90, hjust = 0.5, vjust = 0.5)) +
 scale_fill_manual(values = my_color_vector)+labs(y="Species count",title="Species Diversity by Habitat & Estuary")
-
+dev.off()
 SpeciesCount2 <- ggplot(df.vegdiverse) +
 #dodge allows multiple habitats on one plot
 geom_col(aes(y = count,x=Estuary, fill=Habitat),position="dodge")
 #adjust agle of estuary names for legibility
-print(SpeciesCount2)+theme(axis.text.x = element_text(angle = 90, hjust = 0.5, vjust = 0.5)) +
+SpeciesCount2<-print(SpeciesCount2)+theme(axis.text.x = element_text(angle = 90, hjust = 0.5, vjust = 0.5)) +
 scale_fill_manual(values = my_color_vector)+labs(y="Species count",title="Species Diversity by Habitat & Estuary")
-#add facet grid
-#order by estuary sizei
+
 
 ```
